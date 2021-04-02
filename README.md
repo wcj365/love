@@ -6,7 +6,7 @@
 - [五律](wu_lv/README.md) 
 - [七绝](qi_jue/README.md) 
 - [七律](qi_lv/README.md) 
-- [其他](other.md) \
+- [其他](other.md) 
 ### 词令 
 ### 古诗新译 
 ### 新诗 
