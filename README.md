@@ -14,8 +14,8 @@
 **词令** 
 
 **古诗今译**
-- [无题一](translate/01.md)
-- [无题二](translate/02.md)
+- [李商隐无题一](translate/01.md)
+- [李商隐无题二](translate/02.md)
 - [答丁元珍](translate/03.md)
 - [秋夜寄丘员外](translate/04.md)
 
