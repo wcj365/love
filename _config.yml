@@ -5,6 +5,6 @@ baseurl: /love
 email: "wcj365@gmail.com"
 header:
   image: "/assets/images/ocean.jpeg"
-#logo: "/assets/images/ocean.jpeg"
+logo: "/assets/images/ocean.jpeg"
 github:
   is_project_page: false
