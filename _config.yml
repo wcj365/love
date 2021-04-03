@@ -8,11 +8,3 @@ email: "wcj365@gmail.com"
 logo: "/assets/images/ocean.jpeg"
 github:
   is_project_page: false
-defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
