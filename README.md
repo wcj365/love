@@ -1,4 +1,4 @@
-### [序xx](xu.md)
+### [序](xu.md)
 ### [自序](zi_xu.md)
 ### [词云图](word_cloud.md)
 ### 律诗
