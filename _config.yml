@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: 乡愁永酒2
+title: 乡愁永酒nav
 # description: 穆阳猴诗文集
 baseurl: /love
 email: "wcj365@gmail.com"
@@ -8,3 +8,5 @@ email: "wcj365@gmail.com"
 logo: "/assets/images/ocean.jpeg"
 github:
   is_project_page: false
+sidebar:
+  nav: "docs"
