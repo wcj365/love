@@ -1,7 +1,6 @@
 ## 目录
 ### [序](xu.md)
 ### [自序](zi_xu.md)
-### [词云图](word_cloud.md)
 ### (一) 律诗
 - [五绝](wu_jue/README.md)
 - [五律](wu_lv/README.md)
@@ -28,3 +27,4 @@
 - [自我介绍](appendix/self_intro.md)
 - [一伯小传](appendix/yi_bo.md)
 - [雅阁铭](appendix/ya_ge.md)
+- [词云图](word_cloud.md)
