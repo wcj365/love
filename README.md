@@ -27,3 +27,4 @@
 ### (六) 附录
 - 自我介绍
 - [一伯小传](appendix/yi_bo.md)
+- [雅阁铭](appendix/ya_ge.md)
