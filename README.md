@@ -25,6 +25,6 @@
 - 生活娱乐
 
 ### (六) 附录
-- [自我介绍](appendix/self_intro)
+- [自我介绍](appendix/self_intro.md)
 - [一伯小传](appendix/yi_bo.md)
 - [雅阁铭](appendix/ya_ge.md)
