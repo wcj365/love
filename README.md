@@ -7,7 +7,7 @@
 - [七绝](qi_jue/README.md)
 - [七律](qi_lv/README.md)
 - [小令](xiao_ling/README.md)
-- 
+
 ### [(二) 古诗新译](translate/README.md)
 ### (三) 新诗
 - [生日](new_poems/birthday/README.md)
