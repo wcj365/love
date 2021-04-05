@@ -28,6 +28,8 @@
 - [王之涣登鹳雀楼](translate/06.md)
 
 ### (四) 新诗
+- [生日](new_poems/birthday/README.md)
+- [英文](new_poems)/english/README.md)
 ### (五) 随笔
 - [东方智慧](proses/wisdom/README.md)
 - [文字游戏](proses/wordgame/README.md)
