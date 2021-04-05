@@ -24,4 +24,4 @@
 - [自我介绍](appendix/self_intro.md)
 - [一伯小传](appendix/yi_bo.md)
 - [雅阁铭](appendix/ya_ge.md)
-- [词云图](word_cloud.md)
+- [词云图](appendix/word_cloud.md)
