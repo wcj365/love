@@ -8,7 +8,14 @@
 - [七律](qi_lv/README.md)
 - [小令](xiao_ling/README.md)
 
-### [(二) 古诗新译](translate/README.md)
+### (二) 古诗新译
+- [李商隐无题一](01.md)
+- [李商隐无题二](02.md)
+- [欧阳修答丁元珍](03.md)
+- [韦应物秋夜寄丘员外](04.md)
+- [程颢秋日偶成](05.md)
+- [王之涣登鹳雀楼](06.md)
+
 ### (三) 新诗
 - [生日](new_poems/birthday/README.md)
 - [英文](new_poems/english/README.md)
