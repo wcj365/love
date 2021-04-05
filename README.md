@@ -8,7 +8,7 @@
 - [七律](qi_lv/README.md)
 
 ### [(二) 小令](xiao_ling/README.md)
-### [(三) 律诗新译](translate/README.md)
+### [(三) 古诗新译](translate/README.md)
 ### (四) 新诗
 - [生日](new_poems/birthday/README.md)
 - [英文](new_poems/english/README.md)
