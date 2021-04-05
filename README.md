@@ -1,7 +1,7 @@
 ## 目录
 ### [序](xu.md)
 ### [自序](zi_xu.md)
-### (一) 格律诗
+### (一) 律诗
 - [五绝](wu_jue/README.md)
 - [五律](wu_lv/README.md)
 - [七绝](qi_jue/README.md)
@@ -19,7 +19,7 @@
 - [采桑子 * 人生苦旅伤别离](xiao_ling/09.md)
 - [沙塞子 * 西山落日晚霞](xiao_ling/10.md)
 
-### (三) 格律诗新译
+### (三) 律诗新译
 - [李商隐无题一](translate/01.md)
 - [李商隐无题二](translate/02.md)
 - [欧阳修答丁元珍](translate/03.md)
@@ -27,7 +27,7 @@
 - [程颢秋日偶成](translate/05.md)
 - [王之涣登鹳雀楼](translate/06.md)
 
-### (四) 自由诗
+### (四) 新诗
 - [生日](new_poems/birthday/README.md)
 - [英文](new_poems/english/README.md)
 
