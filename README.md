@@ -17,6 +17,8 @@
 - [十六字令 * 猴](xiao_lling/06.md)
 - [十六字令 * 群](xiao_lling/07.md)
 - [猴言怨语](xiao_ling/08.md)
+- [采桑子 * 人生苦旅伤别离](xiao_ling/09.md)
+- [沙塞子 * 西山落日晚霞](xiao_ling/10.md)
 ### (三) 古诗新译
 - [李商隐无题一](translate/01.md)
 - [李商隐无题二](translate/02.md)
