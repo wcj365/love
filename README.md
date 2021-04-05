@@ -9,6 +9,14 @@
 - [其他](other.md)
 
 ### (二) 小令
+- [01 - 临江仙 * 美猴王](xiao_lling/01.md)
+- [02 - 临江仙 * 醉美](xiao_lling/02.md)
+- [03 - 临江仙 * 端午节](xiao_lling/03.md)
+- [04 - 如梦令 * 端午节遇暴雨](xiao_lling/04.md)
+- [05 - 天净沙 * 马拉松](xiao_lling/05.md)
+- [06 - 十六字令 * 猴](xiao_lling/06.md)
+- [07 - 十六字令 * 群](xiao_lling/07.md)
+- [08 - 猴言怨语](xiao_ling/08.md)
 ### (三) 古诗新译
 - [李商隐无题一](translate/01.md)
 - [李商隐无题二](translate/02.md)
