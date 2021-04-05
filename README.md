@@ -7,9 +7,7 @@
 - [七绝](qi_jue/README.md)
 - [七律](qi_lv/README.md)
 
-### (二) 小令
-
-
+### [(二) 小令](xiao_ling/README.md)
 ### (三) 律诗新译
 - [李商隐无题一](translate/01.md)
 - [李商隐无题二](translate/02.md)
