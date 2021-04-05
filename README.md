@@ -19,12 +19,11 @@
 
 ### (四) 新诗
 ### (五) 随笔
-- 东方智慧
-    - [01 - 猴哥说禅](prose_wisdom/01.md)
-- 文字游戏
-- 经管科技
-- 健身养生
-- 生活娱乐
+- [东方智慧](proses/wisdom/README.md)
+- [文字游戏](proses/wordgame/README.md)
+- [经管科技](proses/econ_tech/README.md)
+- [健身养生](prose/health/README.md)
+- [生活娱乐](prose/fun/README.md)
 
 ### (六) 附录
 - [自我介绍](appendix/self_intro.md)
