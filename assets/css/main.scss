@@ -4,16 +4,4 @@
 @import "jekyll-theme-minimal";
 html {
   font-size: 30px; // change to whatever
-
-  @include breakpoint($medium) {
-    font-size: 32px; // change to whatever
-  }
-
-  @include breakpoint($large) {
-    font-size: 34px; // change to whatever
-  }
-
-  @include breakpoint($x-large) {
-    font-size: 38px; // change to whatever
-  }
 }
