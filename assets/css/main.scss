@@ -1,9 +1,8 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
-@import "jekyll-theme-minimal/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "jekyll-theme-minimal"; // main partials
+@import "{{ site.theme }}/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "{{ site.theme }}"; // main partials
 
 // https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
 html {
