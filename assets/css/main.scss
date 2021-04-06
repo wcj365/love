@@ -1,41 +1,22 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
 html {
-  font-size: 30px; // change to whatever
-}
+    font-size: 12px; // originally 16px
+    @include breakpoint($medium) {
+        font-size: 14px; // originally 18px
+    }
 
-h1 {
-  font-size: 70px;
-}
+    @include breakpoint($large) {
+        font-size: 16px; // originally 20px
+    }
 
-h2 {
-  font-size: 36px;
+    @include breakpoint($x-large) {
+        font-size: 18px; // originally 22px
+    }
 }
-
-h3 {
-  font-size: 30px;
-}
-
-h4 {
-  font-size: 24px;
-}
-
-h5 {
-  font-size: 18px;
-}
-
-h6 {
-  font-size: 16px;
-}
-
-p {
-  font-size: 16px;
-  font-family: 'Cairo', sans-serif;
-  color: #6f6f6f;
-  font-weight: 400;
-  line-height: 26px;
-  margin: 0 0 15px 0;
-}
-
