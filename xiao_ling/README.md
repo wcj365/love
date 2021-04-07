@@ -1,4 +1,4 @@
-## 小令
+### 词令
 - [临江仙 * 美猴王](xiao_lling/01.md)
 - [临江仙 * 醉美](xiao_lling/02.md)
 - [临江仙 * 端午节](xiao_lling/03.md)
