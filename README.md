@@ -1,12 +1,13 @@
 ### 目录
 ### [序](xu.md)
 ### [自序](zi_xu.md)
-### (一) 律诗
+### (一) 古典诗词
 - [五绝](wu_jue/README.md)
 - [五律](wu_lv/README.md)
 - [七绝](qi_jue/README.md)
 - [七律](qi_lv/README.md)
-- [小令](xiao_ling/README.md)
+- [词令](xiao_ling/README.md)
+- [其他](other/README.md)
 
 ### (二) 古诗新译
 - [李商隐无题一](translate/01.md)
