@@ -2,12 +2,12 @@
 ### [序](xu.md)
 ### [自序](zi_xu.md)
 ### (一) 古典诗词
-- [五绝](wu_jue/README.md)
-- [五律](wu_lv/README.md)
-- [七绝](qi_jue/README.md)
-- [七律](qi_lv/README.md)
-- [词令](xiao_ling/README.md)
-- [其他](other/README.md)
+- [五绝](classic_poems/wu_jue/README.md)
+- [五律](classic_poems/wu_lv/README.md)
+- [七绝](classic_poems/qi_jue/README.md)
+- [七律](classic_poems/qi_lv/README.md)
+- [词令](classic_poems/xiao_ling/README.md)
+- [其他](classic_poems/other/README.md)
 
 ### (二) 古诗新译
 - [李商隐无题一](translate/01.md)
