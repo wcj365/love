@@ -19,6 +19,7 @@
 
 #### (三) 新诗
 - [生日](modern_poems/birthday/README.md)
+- [自然](modern_poems/nature/README.md)
 - [英文](modern_poems/english/README.md)
 
 #### (四) 随笔
