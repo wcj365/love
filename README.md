@@ -6,7 +6,7 @@
 - [五律](classic_poems/wu_lv/README.md)
 - [七绝](classic_poems/qi_jue/README.md)
 - [七律](classic_poems/qi_lv/README.md)
-- [词令](classic_poems/xiao_ling/README.md)
+- [词令](classic_poems/ci_ling/README.md)
 - [其他](classic_poems/other/README.md)
 
 ### (二) 古诗新译
