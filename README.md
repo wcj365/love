@@ -25,8 +25,8 @@
 - [东方智慧](proses/wisdom/README.md)
 - [文字游戏](proses/wordgame/README.md)
 - [经管科技](proses/econ_tech/README.md)
-- [健身养生](prose/health/README.md)
-- [生活娱乐](prose/fun/README.md)
+- [健身养生](proses/health/README.md)
+- [生活娱乐](proses/fun/README.md)
 
 ### (五) 附录
 - [自我介绍](appendix/self_intro.md)
