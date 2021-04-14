@@ -21,6 +21,7 @@
 - [生日](modern_poems/birthday/README.md)
 - [自然](modern_poems/nature/README.md)
 - [乡愁](modern_poems/homesick/README.md)
+- [孤独](modern_poems/solitude/README.md)
 - [英文](modern_poems/english/README.md)
 
 #### (四) 随笔
