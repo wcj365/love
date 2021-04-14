@@ -18,11 +18,12 @@
 - [王之涣登鹳雀楼](translate/06.md)
 
 #### (三) 新诗
-- [生日](modern_poems/birthday/README.md)
 - [自然](modern_poems/nature/README.md)
+- [自己](modern_poems/solitude/README.md)
 - [乡愁](modern_poems/homesick/README.md)
-- [孤独](modern_poems/solitude/README.md)
+- [生日](modern_poems/birthday/README.md)
 - [爱情](modern_poems/love/README.md)
+- [智慧](modern_poems/wisdom/README.md)
 - [英文](modern_poems/english/README.md)
 
 #### (四) 随笔
