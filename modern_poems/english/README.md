@@ -6,4 +6,4 @@
 - [05 - YOcean 海](05.md)
 - [06 - Drunk Poem 醉诗](06.md)
 - [07 - Monkey Mantra 猴哥禅语](05.md)
-- [08 - ow and Here 当下](06.md)
+- [08 - Now and Here 当下](06.md)
