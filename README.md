@@ -1,3 +1,5 @@
+![]("assets/images/ocean.jpeg")
+
 ### 【目    录】
 #### [序](xu.md)
 #### [自序](zi_xu.md)
