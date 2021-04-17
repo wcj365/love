@@ -32,6 +32,7 @@
 - [经管科技](proses/econ_tech/README.md)
 - [健身养生](proses/health/README.md)
 - [生活娱乐](proses/fun/README.md)
+- [人生经历](proses/life/README.md)
 
 #### (五) 附录
 - [自我介绍](appendix/self_intro.md)
