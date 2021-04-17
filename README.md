@@ -1,4 +1,4 @@
-![]("/assets/images/ocean.jpeg")
+![]("ocean.jpeg")
 
 ### 【目    录】
 #### [序](xu.md)
