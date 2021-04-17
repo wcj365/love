@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: 乡愁永酒
 description:
 baseurl: /love
-logo: "/assets/images/ocean.jpeg"
+#logo: "/assets/images/ocean.jpeg"
 github:
   is_project_page: false
 google_analytics: UA-159296632-1
