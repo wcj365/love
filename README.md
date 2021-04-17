@@ -1,4 +1,4 @@
-![]("ocean.jpeg")
+![]("ocean.jpg")
 
 ### 【目    录】
 #### [序](xu.md)
