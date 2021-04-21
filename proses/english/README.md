@@ -1,4 +1,4 @@
-### 【English 英文】
+### English 
 - [01 - Knowledge and Widsom](01.md)
 - [02 - Yin-Yang Balance](02.md)
 - [03 - H for Harmony](03.md)
