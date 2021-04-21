@@ -25,7 +25,7 @@
 - [生日](modern_poems/birthday/README.md)
 - [爱情](modern_poems/love/README.md)
 - [智慧](modern_poems/wisdom/README.md)
-- [English 英文](modern_poems/english/README.md)
+- [English](modern_poems/english/README.md)
 
 #### (四) 随笔
 - [东方智慧](proses/wisdom/README.md)
@@ -34,7 +34,7 @@
 - [健身养生](proses/health/README.md)
 - [生活娱乐](proses/fun/README.md)
 - [人生经历](proses/life/README.md)
-- [English 英文](proses/english/README.md)
+- [English](proses/english/README.md)
 
 #### (五) 附录
 - [自我介绍](appendix/self_intro.md)
