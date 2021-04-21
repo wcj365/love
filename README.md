@@ -25,7 +25,7 @@
 - [生日](modern_poems/birthday/README.md)
 - [爱情](modern_poems/love/README.md)
 - [智慧](modern_poems/wisdom/README.md)
-- [英文](modern_poems/english/README.md)
+- [English 英文](modern_poems/english/README.md)
 
 #### (四) 随笔
 - [东方智慧](proses/wisdom/README.md)
