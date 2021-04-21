@@ -34,6 +34,7 @@
 - [健身养生](proses/health/README.md)
 - [生活娱乐](proses/fun/README.md)
 - [人生经历](proses/life/README.md)
+- [English 英文](proses/english/README.md)
 
 #### (五) 附录
 - [自我介绍](appendix/self_intro.md)
