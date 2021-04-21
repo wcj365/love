@@ -1,4 +1,4 @@
-### 【English】
+### English
 - [01 - Rain Therapy 雨疗](01.md)  
 - [02 - You and Me 油和米](02.md)
 - [03 - To My Friend 致友人](03.md)
