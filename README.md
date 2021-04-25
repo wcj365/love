@@ -29,6 +29,7 @@
 
 #### (四) 随笔
 - [东方智慧](proses/wisdom/README.md)
+- [吾爱诗词](proses/poetry/README.md)
 - [文字游戏](proses/wordgame/README.md)
 - [经管科技](proses/econ_tech/README.md)
 - [健身养生](proses/health/README.md)
