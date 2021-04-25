@@ -8,7 +8,7 @@
 - [七绝](classic_poems/qi_jue/README.md)
 - [七律](classic_poems/qi_lv/README.md)
 - [词令](classic_poems/ci_ling/README.md)
-- [自由](classic_poems/other/README.md)
+- [其他](classic_poems/other/README.md)
 
 #### (二) 古诗新译
 - [李商隐无题一](translate/01.md)
