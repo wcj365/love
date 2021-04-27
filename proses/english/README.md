@@ -5,7 +5,7 @@
 - [04 - Hard vs. Soft Systems](04.md)
 - [05 - Self-organization I](05.md)
 - [06 - Self-organization II](06.md)
-- [07 - Hard vs. Soft Systems](07.md)
+- [07 - A Different STEM](07.md)
 - [08 - Mindfulness for Systems Thinkers](08.md)
 - [09 - The Iceberg Model of Mind](09.md)
 - [10 - Systems Thinking in Buddhism](10.md)
