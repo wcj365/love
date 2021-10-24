@@ -1,0 +1,15 @@
+format: jb-book
+root: index.md
+
+parts:
+  - caption:
+    chapters:
+    - file: xu.md
+    - file: zi_xu.md
+  - caption: 古典诗词
+    numbered: False  # Only applies to chapters in Part 1.
+    chapters:
+    - file: classic_poems/wu_jue/wu_jue.md
+  - caption: 新诗
+    chapters:
+    - file: modern_poems/nature/nature.md
