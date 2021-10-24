@@ -1,4 +1,4 @@
-title: 乡 &#9829; 愁 &#9829; 永 &#9829; 酒
+title: 乡愁永酒
 author: 王超杰 
 email: wcj365@gmail.com
 logo: love-logo2.png
@@ -20,7 +20,7 @@ html:
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button     : true  # Whether to add a link to your repository button
   use_issues_button         : true  # Whether to add an "open an issue" button
-  extra_navbar              : 作者： <a href="https://wcj365.gitee.io">王超杰</a>  # Will be displayed underneath the left navbar.
+  extra_navbar              : <a href="https://wcj365.gitee.io">王超杰</a>  # Will be displayed underneath the left navbar.
   extra_footer              : ""  # Will be displayed underneath the footer.
   google_analytics_id       : ""  # A GA id that can be used to track book views.
   home_page_in_navbar       : false  # Whether to include your home page in the left Navigation Bar
