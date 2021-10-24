@@ -9,7 +9,8 @@ parts:
   - caption: 古典诗词
     numbered: False  # Only applies to chapters in Part 1.
     chapters:
-    - file: classic_poems/wu_jue/wu_jue.md
+    - file: classic_poems/wu_jue/README.md
+    - file: classic_poems/wu_lv/README.md
   - caption: 新诗
     chapters:
-    - file: modern_poems/nature/nature.md
+    - file: modern_poems/nature/README.md
