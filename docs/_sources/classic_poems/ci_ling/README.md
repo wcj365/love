@@ -1,0 +1,6 @@
+# 词令
+
+```
+{tableofcontents}
+```
+
