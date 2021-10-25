@@ -1,5 +1,0 @@
-# 七绝
-
-```
-{tableofcontents}
-```
