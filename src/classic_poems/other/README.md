@@ -1,7 +1,6 @@
 # 其他
 
-```
-{tableofcontents}
+```{tableofcontents}
 ```
  
 
