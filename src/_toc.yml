@@ -45,7 +45,7 @@ parts:
         - file: classic_poems/wu_lv/08.md
         - file: classic_poems/wu_lv/09.md
         - file: classic_poems/wu_lv/10.md
-      - file: classic_poems/qi_jue/README.md
+    - file: classic_poems/qi_jue/README.md
       sections:
         - file: classic_poems/qi_jue/01.md
         - file: classic_poems/qi_jue/02.md
