@@ -1,5 +1,4 @@
 # 七绝
 
-```
-{tableofcontents}
+```{tableofcontents}
 ```

@@ -1,5 +1,4 @@
 # 七律
 
-```
-{tableofcontents}
+```{tableofcontents}
 ```

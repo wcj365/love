@@ -1,6 +1,5 @@
 # 词令
 
-```
-{tableofcontents}
+```{tableofcontents}
 ```
 

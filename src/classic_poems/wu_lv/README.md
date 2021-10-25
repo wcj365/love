@@ -1,5 +1,4 @@
 # 五律
 
-```
-{tableofcontents}
+```{tableofcontents}
 ```
