@@ -6,7 +6,7 @@ parts:
     chapters:
     - file: xu.md
     - file: zi_xu.md
-  - caption: （一）古典诗词
+  - caption: （一）古诗
     numbered: False  # Only applies to chapters in Part 1.
     chapters:
     - file: classic_poems/wu_jue/README.md
@@ -91,3 +91,39 @@ parts:
         - file: proses/econ_tech/17.md
         - file: proses/econ_tech/18.md
         - file: proses/econ_tech/19.md
+    - file: proses/wisdom/README.md
+      sections:
+        - file: proses/wisdom/01.md
+        - file: proses/wisdom/02.md
+        - file: proses/wisdom/03.md
+        - file: proses/wisdom/04.md
+        - file: proses/wisdom/05.md
+        - file: proses/wisdom/06.md
+        - file: proses/wisdom/07.md
+        - file: proses/wisdom/08.md
+        - file: proses/wisdom/09.md
+        - file: proses/wisdom/10.md
+        - file: proses/wisdom/11.md
+        - file: proses/wisdom/12.md
+        - file: proses/wisdom/13.md
+        - file: proses/wisdom/14.md
+        - file: proses/wisdom/15.md
+        - file: proses/wisdom/16.md
+        - file: proses/wisdom/17.md
+        - file: proses/wisdom/18.md
+        - file: proses/wisdom/19.md
+        - file: proses/wisdom/20.md
+        - file: proses/wisdom/21.md
+        - file: proses/wisdom/22.md
+        - file: proses/wisdom/23.md
+        - file: proses/wisdom/24.md
+        - file: proses/wisdom/25.md
+        - file: proses/wisdom/26.md
+        - file: proses/wisdom/27.md
+        - file: proses/wisdom/28.md
+        - file: proses/wisdom/29.md
+  - caption:
+    chapters:
+    - file: appendix/ya_ge.md
+    - file: appendix/self_intro.md
+    - file: appendix/yi_bo.md
