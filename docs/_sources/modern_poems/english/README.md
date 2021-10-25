@@ -1,4 +1,0 @@
-### 英文
-
-```{tableofcontents}
-```
