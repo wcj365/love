@@ -1,7 +1,7 @@
 # 诗文集
 
-![](xiang.png)
-![](chou.png)
-![](yong.png)
-![](jiu.png)
-![](signature.png)
+![](site_images/xiang.png)
+![](site_images/chou.png)
+![](site_images/yong.png)
+![](site_images/jiu.png)
+![](site_images/signature.png)

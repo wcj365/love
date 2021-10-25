@@ -18,6 +18,13 @@ parts:
         - file: classic_poems/wu_lv/01.md
         - file: classic_poems/wu_jv/02.md
         - file: classic_poems/wu_jv/03.md
+        - file: classic_poems/wu_lv/04.md
+        - file: classic_poems/wu_jv/05.md
+        - file: classic_poems/wu_jv/06.md
+        - file: classic_poems/wu_lv/07.md
+        - file: classic_poems/wu_jv/08.md
+        - file: classic_poems/wu_jv/09.md
+        - file: classic_poems/wu_jv/10.md
   - caption: （二）新诗
     chapters:
     - file: modern_poems/nature/README.md
@@ -25,3 +32,11 @@ parts:
         - file: modern_poems/nature/01.md
         - file: modern_poems/nature/02.md
         - file: modern_poems/nature/03.md
+        - file: modern_poems/nature/04.md
+        - file: modern_poems/nature/05.md
+        - file: modern_poems/nature/06.md
+        - file: modern_poems/nature/07.md
+        - file: modern_poems/nature/08.md
+        - file: modern_poems/nature/09.md
+        - file: modern_poems/nature/10.md
+        - file: modern_poems/nature/11.md
