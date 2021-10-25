@@ -237,6 +237,35 @@ parts:
         - file: proses/life/11.md
         - file: proses/life/12.md
         - file: proses/life/13.md
+    - file: proses/health/README.md
+      sections:
+        - file: proses/health/01.md
+        - file: proses/health/02.md
+        - file: proses/health/03.md
+        - file: proses/health/04.md
+        - file: proses/health/05.md
+        - file: proses/health/06.md
+        - file: proses/health/07.md
+        - file: proses/health/08.md
+    - file: proses/fun/README.md
+      sections:
+        - file: proses/fun/01.md
+        - file: proses/fun/02.md
+        - file: proses/fun/03.md
+        - file: proses/fun/04.md
+        - file: proses/fun/05.md
+        - file: proses/fun/06.md
+        - file: proses/fun/07.md
+        - file: proses/fun/08.md
+        - file: proses/fun/09.md
+        - file: proses/fun/10.md
+        - file: proses/fun/11.md
+        - file: proses/fun/12.md
+        - file: proses/fun/13.md
+        - file: proses/fun/14.md
+        - file: proses/fun/15.md
+        - file: proses/fun/16.md
+        - file: proses/fun/17.md
     - file: proses/wisdom/README.md
       sections:
         - file: proses/wisdom/01.md
