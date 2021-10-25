@@ -253,6 +253,34 @@ parts:
         - file: proses/wisdom/27.md
         - file: proses/wisdom/28.md
         - file: proses/wisdom/29.md
+    - file: proses/wordgame/README.md
+      sections:
+        - file: proses/wordgame/01.md
+        - file: proses/wordgame/02.md
+        - file: proses/wordgame/03.md
+        - file: proses/wordgame/04.md
+        - file: proses/wordgame/05.md
+        - file: proses/wordgame/06.md
+        - file: proses/wordgame/07.md
+        - file: proses/wordgame/08.md
+        - file: proses/wordgame/09.md
+        - file: proses/wordgame/10.md
+        - file: proses/wordgame/11.md
+        - file: proses/wordgame/12.md
+        - file: proses/wordgame/13.md
+        - file: proses/wordgame/14.md
+        - file: proses/wordgame/15.md
+        - file: proses/wordgame/16.md
+        - file: proses/wordgame/17.md
+        - file: proses/wordgame/18.md
+        - file: proses/wordgame/19.md
+        - file: proses/wordgame/20.md
+        - file: proses/wordgame/21.md
+        - file: proses/wordgame/22.md
+        - file: proses/wordgame/23.md
+        - file: proses/wordgame/24.md
+        - file: proses/wordgame/25.md
+        - file: proses/wordgame/26.md
   - caption: （四）附录
     chapters:
     - file: appendix/word_cloud.md
