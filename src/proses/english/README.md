@@ -1,18 +1,4 @@
-### 【English】
-- [01 - Knowledge and Widsom](01.md)
-- [02 - Yin-Yang Balance](02.md)
-- [03 - H for Harmony](03.md)
-- [04 - Hard vs. Soft Systems](04.md)
-- [05 - Self-organization I](05.md)
-- [06 - Self-organization II](06.md)
-- [07 - A Different STEM](07.md)
-- [08 - Mindfulness for Systems Thinkers](08.md)
-- [09 - The Iceberg Model of Mind](09.md)
-- [10 - Systems Thinking in Buddhism](10.md)
-- [11 - The Humility of A Systems Thinker](11.md)
-- [12 - Two Dimensions of Systems Thinking](12.md)
-- [13 - All Roads Lead to Rome](13.md)
-- [14 - Three Equations of System Thinking](14.md)
-- [15 - The Whole](15.md)
-- [16 - Systems Thinking: How Ancient Chinese Think](16.md)
-- [17 - Complexity](17.md)
+### English
+
+```{tableofcontents}
+```
