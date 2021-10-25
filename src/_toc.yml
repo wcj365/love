@@ -6,6 +6,7 @@ parts:
     chapters:
     - file: xu.md
     - file: zi_xu.md
+    - file: appendix/world_cloud.md
   - caption: （一）古诗
     numbered: False  # Only applies to chapters in Part 1.
     chapters:
@@ -68,6 +69,20 @@ parts:
         - file: modern_poems/nature/09.md
         - file: modern_poems/nature/10.md
         - file: modern_poems/nature/11.md
+    - file: modern_poems/solitude/README.md
+      sections:
+        - file: modern_poems/solitude/01.md
+        - file: modern_poems/solitude/02.md
+        - file: modern_poems/solitude/03.md
+        - file: modern_poems/solitude/04.md
+        - file: modern_poems/solitude/05.md
+        - file: modern_poems/solitude/06.md
+        - file: modern_poems/solitude/08.md
+        - file: modern_poems/solitude/09.md
+        - file: modern_poems/solitude/10.md
+        - file: modern_poems/solitude/11.md
+        - file: modern_poems/solitude/12.md
+        - file: modern_poems/solitude/13.md
   - caption: （三）随笔
     chapters:
     - file: proses/econ_tech/README.md
