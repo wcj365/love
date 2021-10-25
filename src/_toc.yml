@@ -6,7 +6,6 @@ parts:
     chapters:
     - file: xu.md
     - file: zi_xu.md
-    - file: appendix/world_cloud.md
   - caption: （一）古诗
     numbered: False  # Only applies to chapters in Part 1.
     chapters:
@@ -100,6 +99,19 @@ parts:
         - file: modern_poems/homesick/02.md
         - file: modern_poems/homesick/03.md
         - file: modern_poems/homesick/04.md
+      - file: modern_poems/solitude/README.md
+      sections:
+        - file: modern_poems/love/01.md
+        - file: modern_poems/love/02.md
+        - file: modern_poems/love/03.md
+        - file: modern_poems/love/04.md
+        - file: modern_poems/love/05.md
+        - file: modern_poems/love/06.md
+        - file: modern_poems/love/08.md
+        - file: modern_poems/love/09.md
+        - file: modern_poems/love/10.md
+        - file: modern_poems/love/11.md
+        - file: modern_poems/love/12.md
     - file: modern_poems/birthday/README.md
       sections:
         - file: modern_poems/birthday/01.md
@@ -174,6 +186,7 @@ parts:
         - file: proses/wisdom/29.md
   - caption: （四）附录
     chapters:
+    - file: appendix/word_cloud.md
     - file: appendix/ya_ge.md
     - file: appendix/self_intro.md
     - file: appendix/yi_bo.md
