@@ -1,4 +1,4 @@
-# 【经管科技】
+# 经管科技
 
 ```
 {tableofcontents}

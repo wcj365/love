@@ -68,7 +68,7 @@ parts:
         - file: modern_poems/nature/09.md
         - file: modern_poems/nature/10.md
         - file: modern_poems/nature/11.md
-- caption: （三）随笔
+  - caption: （三）随笔
     chapters:
     - file: proses/econ_tech/README.md
       sections:
