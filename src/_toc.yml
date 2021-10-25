@@ -334,6 +334,25 @@ parts:
         - file: proses/wordgame/24.md
         - file: proses/wordgame/25.md
         - file: proses/wordgame/26.md
+    - file: proses/english/README.md
+      sections:
+        - file: proses/english/01.md
+        - file: proses/english/02.md
+        - file: proses/english/03.md
+        - file: proses/english/04.md
+        - file: proses/english/05.md
+        - file: proses/english/06.md
+        - file: proses/english/07.md
+        - file: proses/english/08.md
+        - file: proses/english/09.md
+        - file: proses/english/10.md
+        - file: proses/english/11.md
+        - file: proses/english/12.md
+        - file: proses/english/13.md
+        - file: proses/english/14.md
+        - file: proses/english/15.md
+        - file: proses/english/16.md
+        - file: proses/english/17.md
   - caption: （四）附录
     chapters:
     - file: appendix/word_cloud.md
