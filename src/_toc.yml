@@ -33,7 +33,6 @@ parts:
         - file: classic_poems/wu_jue/20.md
         - file: classic_poems/wu_jue/21.md
         - file: classic_poems/wu_jue/22.md
-
     - file: classic_poems/wu_lv/README.md
       sections:
         - file: classic_poems/wu_lv/01.md
@@ -46,8 +45,6 @@ parts:
         - file: classic_poems/wu_lv/08.md
         - file: classic_poems/wu_lv/09.md
         - file: classic_poems/wu_lv/10.md
-  - caption: （二）古诗新译
-    chapters:
     - file: translate/README.md
       sections:
         - file: translate/01.md
@@ -56,7 +53,7 @@ parts:
         - file: translate/04.md
         - file: translate/05.md
         - file: translate/06.md
-  - caption: （三）新诗
+    - caption: （二）新诗
     chapters:
     - file: modern_poems/nature/README.md
       sections:
@@ -71,3 +68,26 @@ parts:
         - file: modern_poems/nature/09.md
         - file: modern_poems/nature/10.md
         - file: modern_poems/nature/11.md
+  - caption: （三）随笔
+    chapters:
+    - file: proses/econ_tech/README.md
+      sections:
+        - file: proses/econ_tech/01.md
+        - file: proses/econ_tech/02.md
+        - file: proses/econ_tech/03.md
+        - file: proses/econ_tech/04.md
+        - file: proses/econ_tech/05.md
+        - file: proses/econ_tech/06.md
+        - file: proses/econ_tech/07.md
+        - file: proses/econ_tech/08.md
+        - file: proses/econ_tech/09.md
+        - file: proses/econ_tech/10.md
+        - file: proses/econ_tech/11.md
+        - file: proses/econ_tech/12.md
+        - file: proses/econ_tech/13.md
+        - file: proses/econ_tech/14.md
+        - file: proses/econ_tech/15.md
+        - file: proses/econ_tech/16.md
+        - file: proses/econ_tech/17.md
+        - file: proses/econ_tech/18.md
+        - file: proses/econ_tech/19.md
