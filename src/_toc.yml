@@ -99,7 +99,7 @@ parts:
         - file: modern_poems/homesick/02.md
         - file: modern_poems/homesick/03.md
         - file: modern_poems/homesick/04.md
-      - file: modern_poems/solitude/README.md
+    - file: modern_poems/solitude/README.md
       sections:
         - file: modern_poems/love/01.md
         - file: modern_poems/love/02.md
