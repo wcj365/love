@@ -122,7 +122,7 @@ parts:
         - file: proses/wisdom/27.md
         - file: proses/wisdom/28.md
         - file: proses/wisdom/29.md
-  - caption:
+  - caption: (四) 附录
     chapters:
     - file: appendix/ya_ge.md
     - file: appendix/self_intro.md
