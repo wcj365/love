@@ -21,7 +21,7 @@ parts:
   - caption: （二）新诗
     chapters:
     - file: modern_poems/nature/README.md
-          sections:
+      sections:
         - file: modern_poems/nature/01.md
         - file: modern_poems/nature/02.md
         - file: modern_poems/nature/03.md
