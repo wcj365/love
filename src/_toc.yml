@@ -83,6 +83,41 @@ parts:
         - file: modern_poems/solitude/11.md
         - file: modern_poems/solitude/12.md
         - file: modern_poems/solitude/13.md
+    - file: modern_poems/wisdom/README.md
+      sections:
+        - file: modern_poems/wisdom/01.md
+        - file: modern_poems/wisdom/02.md
+        - file: modern_poems/wisdom/03.md
+        - file: modern_poems/wisdom/04.md
+        - file: modern_poems/wisdom/05.md
+        - file: modern_poems/wisdom/06.md
+        - file: modern_poems/wisdom/08.md
+        - file: modern_poems/wisdom/09.md
+        - file: modern_poems/wisdom/10.md
+    - file: modern_poems/homesick/README.md
+      sections:
+        - file: modern_poems/homesick/01.md
+        - file: modern_poems/homesick/02.md
+        - file: modern_poems/homesick/03.md
+        - file: modern_poems/homesick/04.md
+    - file: modern_poems/birthday/README.md
+      sections:
+        - file: modern_poems/birthday/01.md
+        - file: modern_poems/birthday/02.md
+        - file: modern_poems/birthday/03.md
+        - file: modern_poems/birthday/04.md
+        - file: modern_poems/birthday/05.md
+        - file: modern_poems/birthday/06.md
+        - file: modern_poems/birthday/07.md
+    - file: modern_poems/english/README.md
+      sections:
+        - file: modern_poems/english/01.md
+        - file: modern_poems/english/02.md
+        - file: modern_poems/english/03.md
+        - file: modern_poems/english/04.md
+        - file: modern_poems/english/05.md
+        - file: modern_poems/english/06.md
+        - file: modern_poems/english/08.md
   - caption: （三）随笔
     chapters:
     - file: proses/econ_tech/README.md

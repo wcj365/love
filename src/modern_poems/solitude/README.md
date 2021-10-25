@@ -1,4 +1,4 @@
-# 【自娱】
+# 自娱
 
 ```{tableofcontents}
 ```

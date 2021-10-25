@@ -1,4 +1,4 @@
-# 【爱情】
+# 爱情
 
 ```{tableofcontents}
 ```
