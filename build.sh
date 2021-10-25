@@ -3,7 +3,7 @@ then
     rm -r _build 
 fi
 
-jupyter-book build --path-output . docs2
+jupyter-book build --path-output . src
 
 if [ -d "docs" ] 
 then
