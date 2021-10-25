@@ -46,7 +46,17 @@ parts:
         - file: classic_poems/wu_lv/08.md
         - file: classic_poems/wu_lv/09.md
         - file: classic_poems/wu_lv/10.md
-  - caption: （二）新诗
+  - caption: （二）古诗新译
+    chapters:
+    - file: translate/README.md
+      sections:
+        - file: translate/01.md
+        - file: translate/02.md
+        - file: translate/03.md
+        - file: translate/04.md
+        - file: translate/05.md
+        - file: translate/06.md
+  - caption: （三）新诗
     chapters:
     - file: modern_poems/nature/README.md
       sections:
