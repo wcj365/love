@@ -84,6 +84,19 @@ parts:
         - file: classic_poems/qi_lv/11.md
         - file: classic_poems/qi_lv/12.md
         - file: classic_poems/qi_lv/13.md
+    - file: classic_poems/ci_ling/README.md
+      sections:
+        - file: classic_poems/ci_ling/01.md
+        - file: classic_poems/ci_ling/02.md
+        - file: classic_poems/ci_ling/03.md
+        - file: classic_poems/ci_ling/04.md
+        - file: classic_poems/ci_ling/05.md
+        - file: classic_poems/ci_ling/06.md
+        - file: classic_poems/ci_ling/07.md
+        - file: classic_poems/ci_ling/08.md
+        - file: classic_poems/ci_ling/09.md
+        - file: classic_poems/ci_ling/10.md
+        - file: classic_poems/ci_ling/11.md
     - file: translate/README.md
       sections:
         - file: translate/01.md
