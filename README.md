@@ -9,3 +9,6 @@
 
 1. run `pip install -r requirements.txt`
 2. run `. build.sh`
+
+
+to support Chinese Latex generation for PDF `sudo apt install latex-cjk-all`

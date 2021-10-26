@@ -8,7 +8,7 @@ repository:
   path_to_book              : docs
 
 latex:
-  use_jupyterbook_latex: false
+  use_jupyterbook_latex: true
   latex_documents:
     targetname: book.tex
 
@@ -36,3 +36,5 @@ sphinx:
     - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
     language: zh_CN
     html_search_language: zh_CN    # make sure to pip install jieba3k
+    latex_elements:
+      fncychap: \usepackage[UTF8]{ctex}
