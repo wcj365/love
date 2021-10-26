@@ -1,9 +1,9 @@
 @media print {
     .bd-toc {
-        visibility: hidden;
+        visibility: collapse;
     }
 }
 
 p {
-    text-align: justify;
+    text-align: center;
 }

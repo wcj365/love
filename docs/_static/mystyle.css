@@ -1,9 +1,0 @@
-@media print {
-    .bd-toc {
-        visibility: hidden;
-    }
-}
-
-p {
-    text-align: justify;
-}
