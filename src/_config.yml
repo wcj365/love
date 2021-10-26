@@ -8,6 +8,7 @@ repository:
   path_to_book              : docs
 
 latex:
+  use_jupyterbook_latex: false
   latex_documents:
     targetname: book.tex
 

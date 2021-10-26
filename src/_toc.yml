@@ -158,6 +158,7 @@ parts:
         - file: modern_poems/solitude/04.md
         - file: modern_poems/solitude/05.md
         - file: modern_poems/solitude/06.md
+        - file: modern_poems/solitude/07.md
         - file: modern_poems/solitude/08.md
         - file: modern_poems/solitude/09.md
         - file: modern_poems/solitude/10.md
@@ -172,6 +173,7 @@ parts:
         - file: modern_poems/wisdom/04.md
         - file: modern_poems/wisdom/05.md
         - file: modern_poems/wisdom/06.md
+        - file: modern_poems/wisdom/07.md
         - file: modern_poems/wisdom/08.md
         - file: modern_poems/wisdom/09.md
         - file: modern_poems/wisdom/10.md
@@ -189,6 +191,7 @@ parts:
         - file: modern_poems/love/04.md
         - file: modern_poems/love/05.md
         - file: modern_poems/love/06.md
+        - file: modern_poems/love/07.md
         - file: modern_poems/love/08.md
         - file: modern_poems/love/09.md
         - file: modern_poems/love/10.md
@@ -211,6 +214,7 @@ parts:
         - file: modern_poems/english/04.md
         - file: modern_poems/english/05.md
         - file: modern_poems/english/06.md
+        - file: modern_poems/english/07.md
         - file: modern_poems/english/08.md
   - caption: （三）随笔
     chapters:

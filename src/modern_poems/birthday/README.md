@@ -1,4 +1,4 @@
-## 生日
+# 生日
 
 ```{tableofcontents}
 ```
