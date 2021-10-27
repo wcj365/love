@@ -17,7 +17,7 @@ execute:
 
 html:
   favicon                   : "_static/images/favicon2.png"  # A path to a favicon image
-  navbar_number_sections    : true  # Add a number to each section in your left navbar
+  navbar_number_sections    : false  # Add a number to each section in your left navbar
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button     : false  # Whether to add a link to your repository button
   use_issues_button         : false  # Whether to add an "open an issue" button
@@ -34,6 +34,8 @@ sphinx:
   config:
     html_js_files:
     - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
+    html_theme_options:
+      search_bar_text: "搜索..."
     language: zh_CN
     html_search_language: zh_CN    # make sure to pip install jieba3k
     latex_elements:
