@@ -1,7 +1,7 @@
 title: 乡愁永酒
-author: 王超杰 
+author: <a href="https://wcj365.gitee.io">王超杰</a> 
 email: wcj365@gmail.com
-logo: site_images/love-logo2.png
+logo: _static/images/love-logo2.png
 copyright: "2020" 
 repository:
   url                       : https://github.com/wcj365/love
@@ -16,12 +16,12 @@ execute:
   execute_notebooks         : force  # Whether to execute notebooks at build time. Must be one of ("auto", "force", "cache", "off")
 
 html:
-  favicon                   : "site_images/favicon2.png"  # A path to a favicon image
+  favicon                   : "_static/images/favicon2.png"  # A path to a favicon image
   navbar_number_sections    : false  # Add a number to each section in your left navbar
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button     : false  # Whether to add a link to your repository button
   use_issues_button         : false  # Whether to add an "open an issue" button
-  extra_navbar              : <a href="https://wcj365.gitee.io">王超杰</a>  # Will be displayed underneath the left navbar.
+  extra_navbar              : # Will be displayed underneath the left navbar.
   extra_footer              : ""  # Will be displayed underneath the footer.
   google_analytics_id       : ""  # A GA id that can be used to track book views.
   home_page_in_navbar       : false  # Whether to include your home page in the left Navigation Bar
