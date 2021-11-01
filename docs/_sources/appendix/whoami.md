@@ -1,5 +1,3 @@
-# Short Intro
-
 ## whoami?
 * **A Programmer** - from Java to Python
 * **A Software Engineer** - from Waterfall to Agile/DevOps
@@ -10,7 +8,6 @@
 *Continuous transformation & continuous transcendence - The DevOps of Living.*
 
 ## wcj365?
-
 * **wcj** = my initials
 * **365** = 360 + 5
 * **365** = days per year (steady)
@@ -20,7 +17,6 @@
 *Simplicity defines me.*
 
 ## Education
-
 * **D.Sc.** in *IS and Comm.*, Robert Morris University, PA
 * **MBA** in *Finance*, Loyola University Maryland, MD
 * **MS** in *Statistics*, The University of Toledo, OH
@@ -29,26 +25,22 @@
 * No **BS**
 
 ## Industry
-
 * **Principal Systems Engineer**, The MITRE Corp. 2016 to Present
 * **Software Engineer Sr. Staff**, Lockheed Martin Corp. 2006 to 2016
 * **Vice President of Prod. Dev.**, Regent Education, Inc. 2013 to 2016
 
 ## Professional
-
 * Int'l Assoc. for Computer Info. Systems (IACIS)
 * Int'l Council of Systems Engineering (INCOSE)
 * Project Management Institute (PMI)
 
 ## Certifications
-
 * **SAFe Agilist**, Scaled Agile, Inc.
 * **PMP**, Project Management Institute 
 * **Certified Java Programmer**, Oracle 
 * **Certified Weblogic Developer**, Oracle
 
 ## Teaching
-
 * **Adjunct Faculty**, Data Science, UMBC 
     * [DATA 690 - Stats and Dataviz](https://github.com/wcj365/python-stats-dataviz)
     * [DATA 606 - Data Science Capstone](https://sites.google.com/umbc.edu/data606)
