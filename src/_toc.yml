@@ -376,6 +376,11 @@ parts:
     - file: appendix/ya_ge.md
     - file: appendix/self_intro.md
     - file: appendix/yi_bo.md
-  - Caption:
+  - Caption: （五）关于作者
     chapters:
-    - file: appendix/about.md
+    - file: about/README.md
+      sections:
+        - file: about/profiles.md
+        - file: about/software.md
+        - file: about/teaching.md
+        - file: about/writing.md
