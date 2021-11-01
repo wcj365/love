@@ -376,4 +376,4 @@ parts:
     - file: appendix/ya_ge.md
     - file: appendix/self_intro.md
     - file: appendix/yi_bo.md
-  - file: appendix/about.md
+- file: appendix/about.md
