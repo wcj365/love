@@ -1,6 +1,7 @@
-# Short Intro
+# Short Intro 简介
 
-## whoami?
+## whoami? 
+
 * **A Programmer** - from Java to Python
 * **A Software Engineer** - from Waterfall to Agile/DevOps
 * **A Project Manager** - from Control to Culture
@@ -58,6 +59,7 @@
 *To teach is to share.*
 
 ## Pedagogy
+
 - I put Practice above PowerPoint and Philosophy over Physics. 
 - I show students how I learn - copy and paste, trials and errors.
 - I offer neither fishes nor fishing gears. 
@@ -66,10 +68,12 @@
 *How can you be serious without being curious?*
 
 ## Journal Roles
+
 * **Editor-in-Chief**, Int'l Journal of Patient-Centered Healthcare (IJPCH), IGI Global 
 * **Editorial Review Board**, Issues in Information Systems (IIS), IACIS
 
 ## Awards
+
 * **Best Paper Award**, MakeLearn & TIIM Int'l Conf., Piran, Solvenia. 2019 
 * **Best Paper Incentive Award**, The MITRE Corp. 2018, 2019
 * **Deliverable of the Month Award**, The MITRE Corp. 2019
@@ -77,6 +81,7 @@
 * **The Honor Award**, Lockheed Martin Corp. 2008
 
 ## Running
+
 - **Full Marathon (5:10)**, 2011 Baltimore Running Festival
 - **Full Marathon (4:56)**, 2012 Marine Corps Marathon
 - **Co-founder**, Patuxent Atheletic League of Striders (PALs), Maryland
