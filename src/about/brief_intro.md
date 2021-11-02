@@ -2,6 +2,10 @@
 
 ![](jaywang200.png)
 
+~~~~
+“路漫漫其修远兮，吾将上下而求索” - 屈原【离骚】
+~~~~
+
 ## whoami? 
 
 * **A Programmer** - from Java to Python

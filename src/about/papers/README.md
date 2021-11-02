@@ -1,10 +1,4 @@
-# Academic Writing 学术作品
-
-## Doctoral Dissertation 博士论文
-
-- (2019) Beyond Technology: Design a Value-Driven Integrative Process Model for Data Analytics [(download)](dissertation/wang_dissertation.pdf)
-
-## Journal Papers 期刊论文
+# 【Journal Papers 期刊论文】
 
 - (2021) Boeing 737 MAX: A case study of failure in a supply chain using system of systems framework, *Issues in Information Systems*, Volume 22, Issue 1. [(download)](http://www.iacis.org/iis/2021/1_iis_2021_51-62.pdf)
 - (2020) Explore Health Information Exchanges using Systems of Systems Framework, *International Journal of Applied Research on Public Health Management (IJARPHM)*, Volume 5, Issue 2. [(download)](怕皮尔斯/Exploring-Health-Information-Exchange.pdf)
