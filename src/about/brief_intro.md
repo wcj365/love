@@ -1,4 +1,4 @@
-# Brief Intro 简介
+# 【Brief Intro 简介】
 
 ## whoami? 
 
