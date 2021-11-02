@@ -1,0 +1,22 @@
+@media print {
+    .bd-toc {
+        visibility: collapse;
+    }
+
+    div.topbar {
+        display: none;
+    }
+
+    .pr-md-0 {
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+    
+    .div {
+        page-break-after: always;
+    }
+}
+
+p {
+    text-align: justify;
+}
