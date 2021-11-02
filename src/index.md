@@ -6,4 +6,4 @@
 ![酒](_static/images/jiu.png)
 ![作者王超杰](_static/images/signature.png)
 
-[点击下载PDF版本]（https://github.com/wcj365/love/raw/main/pdf/book.pdf）
+[点击下载PDF版本](https://github.com/wcj365/love/raw/main/pdf/book.pdf)
