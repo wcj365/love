@@ -374,11 +374,11 @@ parts:
     chapters:
     - file: appendix/word_cloud.md
     - file: appendix/ya_ge.md
-    - file: appendix/self_intro.md
+    - file: appendix/monkey.md
     - file: appendix/yi_bo.md
   - caption: （五）关于作者
     chapters:
-    - file: about/introduction.md
+    - file: about/summary.md
     - file: about/software.md
     - file: about/teaching.md
     - file: about/books.md
