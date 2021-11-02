@@ -18,11 +18,9 @@ cp -r _build/html/* ./docs/
 cp .nojekyll docs/
 rm -r _build/
 
-# zip up website contents (not to include docs folder name)
+# zip up website contents (docs folder name is preserved)
 
-cd docs
-zip -r ../docs.zip .
-cd ../
+zip -r docs.zip ./docs/
 
 
 # Build the PDF version of the book
