@@ -384,4 +384,4 @@ parts:
         - file: about/software.md
         - file: about/teaching.md
         - file: about/writting.md
-        -
+        - file: 
