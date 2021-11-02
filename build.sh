@@ -21,7 +21,7 @@ rm -r _build/
 # zip up website contents (not to include docs folder name)
 
 cd docs
-zip -r ../website.zip .
+zip -r ../docs.zip .
 cd ../
 
 
