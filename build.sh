@@ -8,14 +8,14 @@ then
     rm -r docs 
 fi
 
-jupyter-book build --path-output . src --builder pdfhtml
-
+jupyter-book build --path-output . src
 mkdir docs
-
 cp -r _build/html/* ./docs/
 cp .nojekyll docs/
-cp _build/pdf/book.pdf ./pdf/
+rm -r _build/
 
+jupyter-book build --path-output . src --builder pdfhtml
+cp _build/pdf/book.pdf ./pdf/
 rm -r _build/
 
 git add .
