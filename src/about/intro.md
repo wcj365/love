@@ -1,4 +1,4 @@
-# 【Brief Intro 简介】
+# 【Introduction 简介】
 
 ![](jaywang200.png)
 
