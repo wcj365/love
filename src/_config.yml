@@ -1,5 +1,5 @@
 title: 乡愁永酒
-author: <a href="https://wcj365.gitee.io">王超杰</a> 
+author: Dr. Chaojie Wang 王超杰博士 wcj365@gmail.com 
 email: wcj365@gmail.com
 logo: _static/images/love-logo2.png
 copyright: "2020" 
@@ -21,7 +21,7 @@ html:
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button     : false  # Whether to add a link to your repository button
   use_issues_button         : false  # Whether to add an "open an issue" button
-  extra_navbar              : <a href="mailto:wcj365@gmail.com">联系作者</a>  # Will be displayed underneath the left navbar.
+  extra_navbar              : “路漫漫其修远兮，吾将上下而求索”  # Will be displayed underneath the left navbar.
   extra_footer              : ""  # Will be displayed underneath the footer.
   google_analytics_id       : ""  # A GA id that can be used to track book views.
   home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar

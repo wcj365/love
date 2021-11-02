@@ -378,7 +378,7 @@ parts:
     - file: appendix/yi_bo.md
   - caption: （五）关于作者
     chapters:
-    - file: about/biography.md
+    - file: about/introduction.md
     - file: about/software.md
     - file: about/teaching.md
     - file: about/books.md
