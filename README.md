@@ -7,9 +7,18 @@
 
 # How to Build
 
-1. run `pip install -r requirements.txt`
-2. run `. build.sh`
+1. run `$ pip install -r requirements.txt`
+2. run `$ . build.sh` to generate the static website in docs folder
+3. run `$ . buildpdf.sh` to generate the pdf version of the book
 
+## How to Deploy to PythonAnywhere.com
+1. Go to the docs folder `$cd docs`
+2. Zip up contents in docs folder `$ zip -r docs.zip .`
+3. Download the zip file
+4. Upload the zip file to PythonAnywhere to the love folder
+5. Unzip the file
+
+## Notes
 
 to support Chinese Latex generation for PDF `sudo apt install latex-cjk-all`
 
