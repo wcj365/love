@@ -381,7 +381,7 @@ parts:
     - file: about/intro.md
     - file: about/software.md
     - file: about/teaching.md
-    - file: about/papers/books.md
+    - file: about/books.md
     - file: about/dissertation/README.md
     - file: about/papers/README.md
     - file: about/profiles.md
