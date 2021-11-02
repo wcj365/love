@@ -1,4 +1,4 @@
-# My Writing 著作
+# 【Writings 著作】
 
 - [Data Visualization with Plotly Express](https://www.plotlybook.xyz)
 - [Systems Thinking Blog](http://systems-thinker.blogspot.com)
