@@ -1,6 +1,12 @@
 # 【Introduction 简介】
 
-![](_static/images/jaywang200.png)
+![](jaywang200.png)
+
+~~~~
+Always curious. Forever exploring.
+
+“路漫漫其修远兮，吾将上下而求索” - 屈原【离骚】
+~~~~
 
 ## whoami? 
 
