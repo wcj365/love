@@ -33,6 +33,7 @@ parts:
         - file: classic_poems/wu_jue/20.md
         - file: classic_poems/wu_jue/21.md
         - file: classic_poems/wu_jue/22.md
+        - file: classic_poems/wu_jue/23.md
     - file: classic_poems/wu_lv/README.md
       sections:
         - file: classic_poems/wu_lv/01.md
