@@ -21,5 +21,5 @@ cp .nojekyll docs/
 rm -r _build/
 
 git add .
-git commit -m "."
+git commit -m "Built the static website of the book."
 git push
