@@ -1,4 +1,4 @@
-# 封面
+# 【封面】
 
 ![乡](_static/images/xiang.png)
 ![愁](_static/images/chou.png)

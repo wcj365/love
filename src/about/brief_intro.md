@@ -1,5 +1,7 @@
 # 【Brief Intro 简介】
 
+![](jaywang200.png)
+
 ## whoami? 
 
 * **A Programmer** - from Java to Python
