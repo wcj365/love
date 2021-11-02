@@ -380,7 +380,8 @@ parts:
     chapters:
     - file: about/README.md
       sections:
-        - file: about/profiles.md
+        - file: about/brief_intro.md
         - file: about/software.md
         - file: about/teaching.md
-        - file: about/writing.md
+        - file: about/writting.md
+        -
