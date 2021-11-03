@@ -20,7 +20,7 @@ rm -r _build/
 
 # zip up website contents (docs folder name is preserved)
 
-zip -r docs.zip ./docs/*
+zip -r docs.zip ./docs/
 
 
 # Build the PDF version of the book

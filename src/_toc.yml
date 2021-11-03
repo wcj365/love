@@ -34,6 +34,11 @@ parts:
         - file: classic_poems/wu_jue/21.md
         - file: classic_poems/wu_jue/22.md
         - file: classic_poems/wu_jue/23.md
+        - file: classic_poems/wu_jue/24.md
+        - file: classic_poems/wu_jue/25.md
+        - file: classic_poems/wu_jue/26.md
+        - file: classic_poems/wu_jue/27.md
+  
     - file: classic_poems/wu_lv/README.md
       sections:
         - file: classic_poems/wu_lv/01.md
@@ -72,6 +77,9 @@ parts:
         - file: classic_poems/qi_jue/21.md
         - file: classic_poems/qi_jue/22.md
         - file: classic_poems/qi_jue/23.md
+        - file: classic_poems/qi_jue/24.md
+        - file: classic_poems/qi_jue/25.md
+        - file: classic_poems/qi_jue/26.md
     - file: classic_poems/qi_lv/README.md
       sections:
         - file: classic_poems/qi_lv/01.md
