@@ -333,6 +333,7 @@ parts:
         - file: proses/wisdom/30.md
         - file: proses/wisdom/31.md
         - file: proses/wisdom/32.md
+        - file: proses/wisdom/33.md
     - file: proses/poetry/README.md
       sections:
         - file: proses/poetry/01.md
