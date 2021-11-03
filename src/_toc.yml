@@ -52,6 +52,8 @@ parts:
         - file: classic_poems/wu_lv/09.md
         - file: classic_poems/wu_lv/10.md
         - file: classic_poems/wu_lv/11.md
+        - file: classic_poems/wu_lv/12.md
+        - file: classic_poems/wu_lv/13.md
     - file: classic_poems/qi_jue/README.md
       sections:
         - file: classic_poems/qi_jue/01.md
@@ -146,6 +148,7 @@ parts:
         - file: classic_poems/other/26.md
         - file: classic_poems/other/27.md
         - file: classic_poems/other/28.md
+        - file: classic_poems/other/29.md
   - caption: （二）新诗
     chapters:
     - file: modern_poems/nature/README.md
@@ -176,6 +179,7 @@ parts:
         - file: modern_poems/solitude/11.md
         - file: modern_poems/solitude/12.md
         - file: modern_poems/solitude/13.md
+        - file: modern_poems/solitude/14.md
     - file: modern_poems/wisdom/README.md
       sections:
         - file: modern_poems/wisdom/01.md
@@ -275,6 +279,7 @@ parts:
         - file: proses/health/06.md
         - file: proses/health/07.md
         - file: proses/health/08.md
+        - file: proses/health/09.md
     - file: proses/fun/README.md
       sections:
         - file: proses/fun/01.md
@@ -325,6 +330,9 @@ parts:
         - file: proses/wisdom/27.md
         - file: proses/wisdom/28.md
         - file: proses/wisdom/29.md
+        - file: proses/wisdom/30.md
+        - file: proses/wisdom/31.md
+        - file: proses/wisdom/32.md
     - file: proses/poetry/README.md
       sections:
         - file: proses/poetry/01.md
