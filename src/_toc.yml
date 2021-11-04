@@ -281,6 +281,7 @@ parts:
         - file: proses/life/11.md
         - file: proses/life/12.md
         - file: proses/life/13.md
+        - file: proses/life/14.md
     - file: proses/health/README.md
       sections:
         - file: proses/health/01.md
@@ -313,6 +314,11 @@ parts:
         - file: proses/fun/17.md
         - file: proses/fun/18.md
         - file: proses/fun/19.md
+        - file: proses/fun/20.md
+        - file: proses/fun/21.md
+        - file: proses/fun/22.md
+        - file: proses/fun/23.md
+        - file: proses/fun/24.md
     - file: proses/wisdom/README.md
       sections:
         - file: proses/wisdom/01.md
