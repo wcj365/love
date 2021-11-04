@@ -8,9 +8,9 @@
   - height 180 图像高度
   - size 90 汉字大小
 - Signature
-  - width 560 图像宽度
+  - width 1100 图像宽度
   - height 100 图像高度
-  - size 60 汉字大小
+  - size 70 汉字大小
 
 
 - vi global search and find `6,10s/foo/bar/g`
