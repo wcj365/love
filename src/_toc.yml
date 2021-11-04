@@ -293,6 +293,8 @@ parts:
         - file: proses/health/07.md
         - file: proses/health/08.md
         - file: proses/health/09.md
+        - file: proses/health/10.md
+        - file: proses/health/11.md
     - file: proses/fun/README.md
       sections:
         - file: proses/fun/01.md
