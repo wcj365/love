@@ -112,6 +112,7 @@ parts:
         - file: classic_poems/ci_ling/09.md
         - file: classic_poems/ci_ling/10.md
         - file: classic_poems/ci_ling/11.md
+        - file: classic_poems/ci_ling/12.md
     - file: translate/README.md
       sections:
         - file: translate/01.md
@@ -264,6 +265,7 @@ parts:
         - file: proses/econ_tech/24.md
         - file: proses/econ_tech/25.md
         - file: proses/econ_tech/26.md
+        - file: proses/econ_tech/27.md
     - file: proses/life/README.md
       sections:
         - file: proses/life/01.md
@@ -310,6 +312,7 @@ parts:
         - file: proses/fun/16.md
         - file: proses/fun/17.md
         - file: proses/fun/18.md
+        - file: proses/fun/19.md
     - file: proses/wisdom/README.md
       sections:
         - file: proses/wisdom/01.md
