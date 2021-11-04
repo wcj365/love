@@ -3,9 +3,16 @@
 ## 参考资料
 
 - [字体转换器在线转换生成书法艺术字体](http://www.diyiziti.com/)
-  - width 600 图像宽度
-  - height 160 图像高度
-  - size 80 汉字大小
+- Book Name
+  - width 620 图像宽度
+  - height 180 图像高度
+  - size 90 汉字大小
+- Signature
+  - width 560 图像宽度
+  - height 100 图像高度
+  - size 60 汉字大小
+
+
 - vi global search and find `6,10s/foo/bar/g`
 
 # How to Build
