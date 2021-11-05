@@ -196,6 +196,7 @@ parts:
         - file: modern_poems/wisdom/08.md
         - file: modern_poems/wisdom/09.md
         - file: modern_poems/wisdom/10.md
+        - file: modern_poems/wisdom/11.md
     - file: modern_poems/homesick/README.md
       sections:
         - file: modern_poems/homesick/01.md
