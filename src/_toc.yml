@@ -38,7 +38,7 @@ parts:
         - file: classic_poems/wu_jue/25.md
         - file: classic_poems/wu_jue/26.md
         - file: classic_poems/wu_jue/27.md
-  
+        - file: classic_poems/wu_jue/28.md
     - file: classic_poems/wu_lv/README.md
       sections:
         - file: classic_poems/wu_lv/01.md
@@ -184,6 +184,8 @@ parts:
         - file: modern_poems/solitude/12.md
         - file: modern_poems/solitude/13.md
         - file: modern_poems/solitude/14.md
+        - file: modern_poems/solitude/15.md
+        - file: modern_poems/solitude/16.md
     - file: modern_poems/wisdom/README.md
       sections:
         - file: modern_poems/wisdom/01.md
@@ -267,6 +269,7 @@ parts:
         - file: proses/econ_tech/25.md
         - file: proses/econ_tech/26.md
         - file: proses/econ_tech/27.md
+        - file: proses/econ_tech/28.md
     - file: proses/life/README.md
       sections:
         - file: proses/life/01.md
@@ -302,6 +305,8 @@ parts:
         - file: proses/health/11.md
         - file: proses/health/12.md
         - file: proses/health/13.md
+        - file: proses/health/14.md
+        - file: proses/health/15.md
     - file: proses/fun/README.md
       sections:
         - file: proses/fun/01.md
