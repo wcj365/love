@@ -385,6 +385,7 @@ parts:
         - file: proses/poetry/05.md
         - file: proses/poetry/06.md
         - file: proses/poetry/07.md
+        - file: proses/poetry/08.md
     - file: proses/wordgame/README.md
       sections:
         - file: proses/wordgame/01.md
