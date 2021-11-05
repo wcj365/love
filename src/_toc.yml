@@ -84,6 +84,7 @@ parts:
         - file: classic_poems/qi_jue/25.md
         - file: classic_poems/qi_jue/26.md
         - file: classic_poems/qi_jue/27.md
+        - file: classic_poems/qi_jue/28.md
     - file: classic_poems/qi_lv/README.md
       sections:
         - file: classic_poems/qi_lv/01.md
