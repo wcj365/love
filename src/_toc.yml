@@ -282,6 +282,7 @@ parts:
         - file: proses/life/12.md
         - file: proses/life/13.md
         - file: proses/life/14.md
+        - file: proses/life/15.md
     - file: proses/health/README.md
       sections:
         - file: proses/health/01.md
@@ -396,6 +397,7 @@ parts:
         - file: proses/wordgame/24.md
         - file: proses/wordgame/25.md
         - file: proses/wordgame/26.md
+        - file: proses/wordgame/27.md
     - file: proses/english/README.md
       sections:
         - file: proses/english/01.md
