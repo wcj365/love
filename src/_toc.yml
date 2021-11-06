@@ -39,6 +39,7 @@ parts:
         - file: classic_poems/wu_jue/26.md
         - file: classic_poems/wu_jue/27.md
         - file: classic_poems/wu_jue/28.md
+        - file: classic_poems/wu_jue/29.md
     - file: classic_poems/wu_lv/README.md
       sections:
         - file: classic_poems/wu_lv/01.md
@@ -206,6 +207,7 @@ parts:
         - file: modern_poems/homesick/02.md
         - file: modern_poems/homesick/03.md
         - file: modern_poems/homesick/04.md
+        - file: modern_poems/homesick/05.md
     - file: modern_poems/love/README.md
       sections:
         - file: modern_poems/love/01.md
