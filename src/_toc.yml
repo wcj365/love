@@ -225,6 +225,7 @@ parts:
         - file: modern_poems/love/10.md
         - file: modern_poems/love/11.md
         - file: modern_poems/love/12.md
+        - file: modern_poems/love/13.md
     - file: modern_poems/birthday/README.md
       sections:
         - file: modern_poems/birthday/01.md
@@ -320,6 +321,7 @@ parts:
         - file: proses/health/13.md
         - file: proses/health/14.md
         - file: proses/health/15.md
+        - file: proses/health/16.md
     - file: proses/fun/README.md
       sections:
         - file: proses/fun/01.md
@@ -388,6 +390,7 @@ parts:
         - file: proses/wisdom/36.md
         - file: proses/wisdom/37.md
         - file: proses/wisdom/38.md
+        - file: proses/wisdom/39.md
     - file: proses/poetry/README.md
       sections:
         - file: proses/poetry/01.md
