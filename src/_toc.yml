@@ -271,6 +271,13 @@ parts:
         - file: proses/econ_tech/26.md
         - file: proses/econ_tech/27.md
         - file: proses/econ_tech/28.md
+        - file: proses/econ_tech/29.md
+        - file: proses/econ_tech/30.md
+        - file: proses/econ_tech/31.md
+        - file: proses/econ_tech/32.md
+        - file: proses/econ_tech/33.md
+        - file: proses/econ_tech/34.md
+        - file: proses/econ_tech/35.md
     - file: proses/life/README.md
       sections:
         - file: proses/life/01.md
