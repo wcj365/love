@@ -22,7 +22,7 @@ Output Path: _build/html
 [01mcopying extra files... [39;49;00mdone
 [01mdumping search index in Chinese (code: zh)... [39;49;00mdone
 [01mdumping object inventory... [39;49;00mdone
-[01mbuild succeeded, 1 warning.[39;49;00m
+[01mbuild succeeded.[39;49;00m
 
 The HTML pages are in _build/html.
 
@@ -946,9 +946,9 @@ Or paste this line directly into your browser bar:
   adding: docs/proses/poetry/ (stored 0%)
   adding: docs/proses/poetry/03.html (deflated 85%)
   adding: docs/proses/poetry/05.html (deflated 85%)
-  adding: docs/proses/poetry/04.html (deflated 84%)
+  adding: docs/proses/poetry/04.html (deflated 85%)
   adding: docs/proses/poetry/README.html (deflated 85%)
-  adding: docs/proses/poetry/01.html (deflated 84%)
+  adding: docs/proses/poetry/01.html (deflated 85%)
   adding: docs/proses/poetry/02.html (deflated 84%)
   adding: docs/proses/poetry/06.html (deflated 84%)
   adding: docs/proses/poetry/07.html (deflated 84%)
@@ -967,7 +967,7 @@ Or paste this line directly into your browser bar:
   adding: docs/proses/health/10.html (deflated 84%)
   adding: docs/proses/health/02.html (deflated 83%)
   adding: docs/proses/health/15.html (deflated 85%)
-  adding: docs/proses/health/06.html (deflated 84%)
+  adding: docs/proses/health/06.html (deflated 85%)
   adding: docs/proses/health/07.html (deflated 85%)
   adding: docs/proses/health/08.html (deflated 84%)
   adding: docs/proses/life/ (stored 0%)
@@ -985,7 +985,7 @@ Or paste this line directly into your browser bar:
   adding: docs/proses/life/18.html (deflated 85%)
   adding: docs/proses/life/01.html (deflated 83%)
   adding: docs/proses/life/10.html (deflated 84%)
-  adding: docs/proses/life/02.html (deflated 81%)
+  adding: docs/proses/life/02.html (deflated 82%)
   adding: docs/proses/life/15.html (deflated 84%)
   adding: docs/proses/life/06.html (deflated 83%)
   adding: docs/proses/life/07.html (deflated 84%)
@@ -1069,7 +1069,7 @@ Or paste this line directly into your browser bar:
   adding: docs/proses/wordgame/17.html (deflated 85%)
   adding: docs/proses/wordgame/18.html (deflated 85%)
   adding: docs/proses/wordgame/01.html (deflated 84%)
-  adding: docs/proses/wordgame/24.html (deflated 84%)
+  adding: docs/proses/wordgame/24.html (deflated 85%)
   adding: docs/proses/wordgame/10.html (deflated 85%)
   adding: docs/proses/wordgame/02.html (deflated 84%)
   adding: docs/proses/wordgame/15.html (deflated 84%)
