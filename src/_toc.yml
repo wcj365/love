@@ -155,6 +155,9 @@ parts:
         - file: classic_poems/other/28.md
         - file: classic_poems/other/29.md
         - file: classic_poems/other/30.md
+        - file: classic_poems/other/31.md
+        - file: classic_poems/other/32.md
+        - file: classic_poems/other/33.md
   - caption: （二）新诗
     chapters:
     - file: modern_poems/nature/README.md
