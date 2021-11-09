@@ -46,9 +46,8 @@
 ## Certifications
 
 * **SAFe Agilist**, Scaled Agile, Inc.
-* **PMP**, Project Management Institute 
+* **PMP**, PMI
 * **Certified Java Programmer**, Oracle 
-* **Certified Weblogic Developer**, Oracle
 
 ## Teaching
 
@@ -71,7 +70,7 @@
 
 ## Journal Roles
 
-* **Editor-in-Chief**, Int'l Journal of Patient-Centered Healthcare (IJPCH), IGI Global 
+* **Editor-in-Chief Emeritus**, Int'l Journal of Patient-Centered Healthcare (IJPCH), IGI Global 
 * **Editorial Review Board**, Issues in Information Systems (IIS), IACIS
 
 ## Awards

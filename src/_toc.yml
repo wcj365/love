@@ -245,6 +245,7 @@ parts:
         - file: modern_poems/english/06.md
         - file: modern_poems/english/07.md
         - file: modern_poems/english/08.md
+        - file: modern_poems/english/09.md
   - caption: （三）随笔
     chapters:
     - file: proses/econ_tech/README.md
