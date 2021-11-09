@@ -305,6 +305,7 @@ parts:
         - file: proses/life/16.md
         - file: proses/life/17.md
         - file: proses/life/18.md
+        - file: proses/life/19.md
     - file: proses/health/README.md
       sections:
         - file: proses/health/01.md
@@ -462,6 +463,7 @@ parts:
     - file: about/software.md
     - file: about/teaching.md
     - file: about/books.md
+    - file: about/chapters.md
     - file: about/dissertation.md
     - file: about/papers.md
     - file: about/social.md
