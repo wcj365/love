@@ -353,6 +353,7 @@ parts:
         - file: proses/fun/24.md
         - file: proses/fun/25.md
         - file: proses/fun/26.md
+        - file: proses/fun/27.md
     - file: proses/wisdom/README.md
       sections:
         - file: proses/wisdom/01.md
