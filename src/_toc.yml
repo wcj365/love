@@ -158,6 +158,7 @@ parts:
         - file: classic_poems/other/31.md
         - file: classic_poems/other/32.md
         - file: classic_poems/other/33.md
+        - file: classic_poems/other/34.md
   - caption: （二）新诗
     chapters:
     - file: modern_poems/nature/README.md
@@ -226,6 +227,8 @@ parts:
         - file: modern_poems/love/11.md
         - file: modern_poems/love/12.md
         - file: modern_poems/love/13.md
+        - file: modern_poems/love/14.md
+        - file: modern_poems/love/15.md
     - file: modern_poems/birthday/README.md
       sections:
         - file: modern_poems/birthday/01.md
@@ -310,6 +313,7 @@ parts:
         - file: proses/life/20.md
         - file: proses/life/21.md
         - file: proses/life/22.md
+        - file: proses/life/23.md
     - file: proses/health/README.md
       sections:
         - file: proses/health/01.md
@@ -358,6 +362,8 @@ parts:
         - file: proses/fun/25.md
         - file: proses/fun/26.md
         - file: proses/fun/27.md
+        - file: proses/fun/28.md
+        - file: proses/fun/29.md
     - file: proses/wisdom/README.md
       sections:
         - file: proses/wisdom/01.md
@@ -441,6 +447,7 @@ parts:
         - file: proses/wordgame/25.md
         - file: proses/wordgame/26.md
         - file: proses/wordgame/27.md
+        - file: proses/wordgame/28.md
     - file: proses/english/README.md
       sections:
         - file: proses/english/01.md
