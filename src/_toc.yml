@@ -159,6 +159,7 @@ parts:
         - file: classic_poems/other/32.md
         - file: classic_poems/other/33.md
         - file: classic_poems/other/34.md
+        - file: classic_poems/other/35.md
   - caption: （二）新诗
     chapters:
     - file: modern_poems/nature/README.md
@@ -205,6 +206,7 @@ parts:
         - file: modern_poems/wisdom/09.md
         - file: modern_poems/wisdom/10.md
         - file: modern_poems/wisdom/11.md
+        - file: modern_poems/wisdom/12.md
     - file: modern_poems/homesick/README.md
       sections:
         - file: modern_poems/homesick/01.md
@@ -408,6 +410,7 @@ parts:
         - file: proses/wisdom/40.md
         - file: proses/wisdom/41.md
         - file: proses/wisdom/42.md
+        - file: proses/wisdom/43.md
     - file: proses/poetry/README.md
       sections:
         - file: proses/poetry/01.md
