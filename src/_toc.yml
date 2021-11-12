@@ -95,6 +95,7 @@ parts:
         - file: classic_poems/qi_jue/29.md
         - file: classic_poems/qi_jue/30.md
         - file: classic_poems/qi_jue/31.md
+        - file: classic_poems/qi_jue/32.md
     - file: classic_poems/qi_lv/README.md
       sections:
         - file: classic_poems/qi_lv/01.md
@@ -268,6 +269,17 @@ parts:
         - file: modern_poems/english/09.md
   - caption: （三）随笔
     chapters:
+    - file: proses/politics/README.md
+      sections:
+        - file: proses/politics/01.md
+        - file: proses/politics/02.md
+        - file: proses/politics/03.md
+        - file: proses/politics/04.md
+        - file: proses/politics/05.md
+        - file: proses/politics/06.md
+        - file: proses/politics/07.md
+        - file: proses/politics/08.md
+        - file: proses/politics/09.md
     - file: proses/econ_tech/README.md
       sections:
         - file: proses/econ_tech/01.md
@@ -426,6 +438,12 @@ parts:
         - file: proses/wisdom/41.md
         - file: proses/wisdom/42.md
         - file: proses/wisdom/43.md
+        - file: proses/wisdom/44.md
+        - file: proses/wisdom/45.md
+        - file: proses/wisdom/46.md
+        - file: proses/wisdom/47.md
+        - file: proses/wisdom/48.md
+        - file: proses/wisdom/49.md
     - file: proses/poetry/README.md
       sections:
         - file: proses/poetry/01.md
