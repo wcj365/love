@@ -1410,3 +1410,8 @@ Finished generating PDF via HTML for book. Your PDF is here:
 
 [92m===============================================================================[0m
 
+[main 86e2769f] Built the static website of the book.
+ Author: Dr. Chaojie Wang <wcj365@gmail.com>
+ 493 files changed, 2450 insertions(+), 34 deletions(-)
+ rewrite docs/objects.inv (98%)
+ create mode 100644 junk.zip
