@@ -44,6 +44,7 @@ parts:
         - file: classic_poems/wu_jue/31.md
         - file: classic_poems/wu_jue/32.md
         - file: classic_poems/wu_jue/33.md
+        - file: classic_poems/wu_jue/34.md
     - file: classic_poems/wu_lv/README.md
       sections:
         - file: classic_poems/wu_lv/01.md
@@ -62,6 +63,7 @@ parts:
         - file: classic_poems/wu_lv/14.md
         - file: classic_poems/wu_lv/15.md
         - file: classic_poems/wu_lv/16.md
+        - file: classic_poems/wu_lv/17.md
     - file: classic_poems/qi_jue/README.md
       sections:
         - file: classic_poems/qi_jue/01.md
@@ -318,6 +320,8 @@ parts:
         - file: proses/econ_tech/34.md
         - file: proses/econ_tech/35.md
         - file: proses/econ_tech/36.md
+        - file: proses/econ_tech/37.md
+        - file: proses/econ_tech/38.md
     - file: proses/life/README.md
       sections:
         - file: proses/life/01.md
@@ -444,6 +448,8 @@ parts:
         - file: proses/wisdom/47.md
         - file: proses/wisdom/48.md
         - file: proses/wisdom/49.md
+        - file: proses/wisdom/50.md
+        - file: proses/wisdom/51.md
     - file: proses/poetry/README.md
       sections:
         - file: proses/poetry/01.md
@@ -454,6 +460,7 @@ parts:
         - file: proses/poetry/06.md
         - file: proses/poetry/07.md
         - file: proses/poetry/08.md
+        - file: proses/poetry/09.md
     - file: proses/wordgame/README.md
       sections:
         - file: proses/wordgame/01.md
