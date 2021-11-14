@@ -1,3 +1,5 @@
+pip
+wheel
 pyppeteer
 jieba3k
 jupyter-book
