@@ -1,9 +1,5 @@
 #!/usr/bin/bash
 
-git clone https://github.com/wcj365/love.git
-
-cd love/
-
 pip install -r requirements.txt
 
 if [ -d "_build" ] 
@@ -27,7 +23,6 @@ rm -r _build/
 # Push the changes to GitHub
 git config --global user.name wcj365
 git config --global user.email wcj365@gmail.com
-
 git add .
 git commit -m "Built the static website of the book."
 git push
