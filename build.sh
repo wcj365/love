@@ -1,5 +1,7 @@
 #!/usr/bin/bash
 
+pip install -r requirements.txt
+
 if [ -d "_build" ] 
 then
     rm -r _build 
