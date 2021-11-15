@@ -284,6 +284,9 @@ parts:
         - file: proses/politics/07.md
         - file: proses/politics/08.md
         - file: proses/politics/09.md
+        - file: proses/politics/10.md
+        - file: proses/politics/11.md
+        - file: proses/politics/12.md
     - file: proses/econ_tech/README.md
       sections:
         - file: proses/econ_tech/01.md
@@ -370,6 +373,8 @@ parts:
         - file: proses/health/15.md
         - file: proses/health/16.md
         - file: proses/health/17.md
+        - file: proses/health/18.md
+        - file: proses/health/19.md
     - file: proses/fun/README.md
       sections:
         - file: proses/fun/01.md
@@ -466,6 +471,7 @@ parts:
         - file: proses/poetry/07.md
         - file: proses/poetry/08.md
         - file: proses/poetry/09.md
+        - file: proses/poetry/10.md
     - file: proses/wordgame/README.md
       sections:
         - file: proses/wordgame/01.md
