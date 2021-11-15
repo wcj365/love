@@ -48,6 +48,9 @@ parts:
         - file: classic_poems/wu_jue/35.md
         - file: classic_poems/wu_jue/36.md
         - file: classic_poems/wu_jue/37.md
+        - file: classic_poems/wu_jue/38.md
+        - file: classic_poems/wu_jue/39.md
+        - file: classic_poems/wu_jue/40.md
     - file: classic_poems/wu_lv/README.md
       sections:
         - file: classic_poems/wu_lv/01.md
@@ -105,6 +108,8 @@ parts:
         - file: classic_poems/qi_jue/34.md
         - file: classic_poems/qi_jue/35.md
         - file: classic_poems/qi_jue/36.md
+        - file: classic_poems/qi_jue/37.md
+        - file: classic_poems/qi_jue/38.md
     - file: classic_poems/qi_lv/README.md
       sections:
         - file: classic_poems/qi_lv/01.md
@@ -186,6 +191,7 @@ parts:
         - file: classic_poems/other/36.md
         - file: classic_poems/other/37.md
         - file: classic_poems/other/38.md
+        - file: classic_poems/other/39.md
   - caption: （二）新诗
     chapters:
     - file: modern_poems/nature/README.md
@@ -297,6 +303,8 @@ parts:
         - file: proses/politics/12.md
         - file: proses/politics/13.md
         - file: proses/politics/14.md
+        - file: proses/politics/15.md
+        - file: proses/politics/16.md
     - file: proses/econ_tech/README.md
       sections:
         - file: proses/econ_tech/01.md
@@ -419,6 +427,8 @@ parts:
         - file: proses/fun/29.md
         - file: proses/fun/30.md
         - file: proses/fun/31.md
+        - file: proses/fun/32.md
+        - file: proses/fun/33.md
     - file: proses/wisdom/README.md
       sections:
         - file: proses/wisdom/01.md
@@ -474,6 +484,10 @@ parts:
         - file: proses/wisdom/51.md
         - file: proses/wisdom/52.md
         - file: proses/wisdom/53.md
+        - file: proses/wisdom/54.md
+        - file: proses/wisdom/55.md
+        - file: proses/wisdom/56.md
+        - file: proses/wisdom/57.md
     - file: proses/poetry/README.md
       sections:
         - file: proses/poetry/01.md
@@ -486,6 +500,7 @@ parts:
         - file: proses/poetry/08.md
         - file: proses/poetry/09.md
         - file: proses/poetry/10.md
+        - file: proses/poetry/11.md
     - file: proses/wordgame/README.md
       sections:
         - file: proses/wordgame/01.md
