@@ -285,6 +285,7 @@ parts:
         - file: modern_poems/english/09.md
         - file: modern_poems/english/10.md
         - file: modern_poems/english/11.md
+        - file: modern_poems/english/12.md
   - caption: （三）随笔
     chapters:
     - file: proses/politics/README.md
@@ -305,6 +306,8 @@ parts:
         - file: proses/politics/14.md
         - file: proses/politics/15.md
         - file: proses/politics/16.md
+        - file: proses/politics/17.md
+        - file: proses/politics/18.md
     - file: proses/econ_tech/README.md
       sections:
         - file: proses/econ_tech/01.md
@@ -429,6 +432,8 @@ parts:
         - file: proses/fun/31.md
         - file: proses/fun/32.md
         - file: proses/fun/33.md
+        - file: proses/fun/34.md
+        - file: proses/fun/35.md
     - file: proses/wisdom/README.md
       sections:
         - file: proses/wisdom/01.md
