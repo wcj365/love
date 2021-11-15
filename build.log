@@ -160,3 +160,7 @@ Or paste this line directly into your browser bar:
 
 [92m===============================================================================[0m
 
+[main 279c0708] Built the static website of the book.
+ Author: Dr. Chaojie Wang <wcj365@gmail.com>
+ 499 files changed, 246612 insertions(+), 9064 deletions(-)
+ rewrite docs/searchindex.js (87%)
