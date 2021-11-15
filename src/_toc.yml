@@ -47,6 +47,7 @@ parts:
         - file: classic_poems/wu_jue/34.md
         - file: classic_poems/wu_jue/35.md
         - file: classic_poems/wu_jue/36.md
+        - file: classic_poems/wu_jue/37.md
     - file: classic_poems/wu_lv/README.md
       sections:
         - file: classic_poems/wu_lv/01.md
@@ -415,6 +416,8 @@ parts:
         - file: proses/fun/27.md
         - file: proses/fun/28.md
         - file: proses/fun/29.md
+        - file: proses/fun/30.md
+        - file: proses/fun/31.md
     - file: proses/wisdom/README.md
       sections:
         - file: proses/wisdom/01.md
