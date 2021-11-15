@@ -45,6 +45,8 @@ parts:
         - file: classic_poems/wu_jue/32.md
         - file: classic_poems/wu_jue/33.md
         - file: classic_poems/wu_jue/34.md
+        - file: classic_poems/wu_jue/35.md
+        - file: classic_poems/wu_jue/36.md
     - file: classic_poems/wu_lv/README.md
       sections:
         - file: classic_poems/wu_lv/01.md
@@ -98,6 +100,10 @@ parts:
         - file: classic_poems/qi_jue/30.md
         - file: classic_poems/qi_jue/31.md
         - file: classic_poems/qi_jue/32.md
+        - file: classic_poems/qi_jue/33.md
+        - file: classic_poems/qi_jue/34.md
+        - file: classic_poems/qi_jue/35.md
+        - file: classic_poems/qi_jue/36.md
     - file: classic_poems/qi_lv/README.md
       sections:
         - file: classic_poems/qi_lv/01.md
@@ -287,6 +293,8 @@ parts:
         - file: proses/politics/10.md
         - file: proses/politics/11.md
         - file: proses/politics/12.md
+        - file: proses/politics/13.md
+        - file: proses/politics/14.md
     - file: proses/econ_tech/README.md
       sections:
         - file: proses/econ_tech/01.md
@@ -375,6 +383,7 @@ parts:
         - file: proses/health/17.md
         - file: proses/health/18.md
         - file: proses/health/19.md
+        - file: proses/health/20.md
     - file: proses/fun/README.md
       sections:
         - file: proses/fun/01.md
@@ -460,6 +469,7 @@ parts:
         - file: proses/wisdom/50.md
         - file: proses/wisdom/51.md
         - file: proses/wisdom/52.md
+        - file: proses/wisdom/53.md
     - file: proses/poetry/README.md
       sections:
         - file: proses/poetry/01.md
