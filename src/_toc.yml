@@ -123,6 +123,7 @@ parts:
         - file: classic_poems/qi_lv/14.md
         - file: classic_poems/qi_lv/15.md
         - file: classic_poems/qi_lv/16.md
+        - file: classic_poems/qi_lv/17.md
     - file: classic_poems/ci_ling/README.md
       sections:
         - file: classic_poems/ci_ling/01.md
