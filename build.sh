@@ -33,5 +33,6 @@ rm -r _build/
 # rm -r _build/
 
 # Push the changes to GitHub
+git add .
 git commit -m "Built the static website of the book."
 git push

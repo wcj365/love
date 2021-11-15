@@ -2,7 +2,7 @@
 
 ![](jaywang200.png)
 
-Always curious，Forever exploring。  
+*Always curious，Forever exploring。*  
 路漫漫其修远兮，吾将上下而求索。
 
 ## whoami? 
