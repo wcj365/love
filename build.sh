@@ -1,7 +1,5 @@
 #!/usr/bin/bash
 
-pip install -r requirements.txt
-
 if [ -d "_build" ] 
 then
     rm -r _build 
@@ -13,6 +11,7 @@ then
 fi
 
 # Build the static website for the book
+
 jupyter-book build --path-output . src
 mkdir docs
 cp -r _build/html/* ./docs/
@@ -27,12 +26,14 @@ rm -r _build/
 # fi
 # zip -r docs.zip ./docs/
 
-# Build the PDF version of the book - Not working
-# jupyter-book build --path-output . src --builder pdfhtml
-# cp _build/pdf/book.pdf ./pdf/
-# rm -r _build/
+# Build the PDF version of the book 
+
+jupyter-book build --path-output . src --builder pdfhtml
+cp _build/pdf/book.pdf ./pdf/
+rm -r _build/
 
 # Push the changes to GitHub
+
 git add .
-git commit -m "Built the static website of the book."
+git commit -m "Built the static website and the PDF verion of the book."
 git push
