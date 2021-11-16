@@ -160,3 +160,22 @@ Or paste this line directly into your browser bar:
 
 [92m===============================================================================[0m
 
+[main 7814e8a8] Built the static website of the book.
+ Author: Dr. Chaojie Wang <wcj365@gmail.com>
+ 567 files changed, 23999 insertions(+), 72 deletions(-)
+ create mode 100644 docs/_images/43.jpg
+ create mode 100644 docs/_sources/classic_poems/other/43.md
+ create mode 100644 docs/_sources/proses/fun/36.md
+ create mode 100644 docs/_sources/proses/politics/19.md
+ create mode 100644 docs/_sources/proses/politics/20.md
+ create mode 100644 docs/classic_poems/other/43.html
+ rewrite docs/objects.inv (98%)
+ create mode 100644 docs/proses/fun/36.html
+ create mode 100644 docs/proses/politics/19.html
+ create mode 100644 docs/proses/politics/20.html
+ rewrite docs/searchindex.js (92%)
+ create mode 100644 src/classic_poems/other/43.jpg
+ create mode 100644 src/classic_poems/other/43.md
+ create mode 100644 src/proses/fun/36.md
+ create mode 100644 src/proses/politics/19.md
+ create mode 100644 src/proses/politics/20.md
