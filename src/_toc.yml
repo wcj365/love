@@ -196,6 +196,7 @@ parts:
         - file: classic_poems/other/40.md
         - file: classic_poems/other/41.md
         - file: classic_poems/other/42.md
+        - file: classic_poems/other/43.md
   - caption: （二）新诗
     chapters:
     - file: modern_poems/nature/README.md
@@ -315,6 +316,8 @@ parts:
         - file: proses/politics/16.md
         - file: proses/politics/17.md
         - file: proses/politics/18.md
+        - file: proses/politics/19.md
+        - file: proses/politics/20.md
     - file: proses/econ_tech/README.md
       sections:
         - file: proses/econ_tech/01.md
@@ -445,6 +448,7 @@ parts:
         - file: proses/fun/33.md
         - file: proses/fun/34.md
         - file: proses/fun/35.md
+        - file: proses/fun/36.md
     - file: proses/wisdom/README.md
       sections:
         - file: proses/wisdom/01.md
