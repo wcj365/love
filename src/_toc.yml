@@ -114,6 +114,8 @@ parts:
         - file: classic_poems/qi_jue/36.md
         - file: classic_poems/qi_jue/37.md
         - file: classic_poems/qi_jue/38.md
+        - file: classic_poems/qi_jue/39.md
+        - file: classic_poems/qi_jue/40.md
     - file: classic_poems/qi_lv/README.md
       sections:
         - file: classic_poems/qi_lv/01.md
@@ -147,6 +149,7 @@ parts:
         - file: classic_poems/ci_ling/10.md
         - file: classic_poems/ci_ling/11.md
         - file: classic_poems/ci_ling/12.md
+        - file: classic_poems/ci_ling/13.md
     - file: translate/README.md
       sections:
         - file: translate/01.md
@@ -200,6 +203,7 @@ parts:
         - file: classic_poems/other/41.md
         - file: classic_poems/other/42.md
         - file: classic_poems/other/43.md
+        - file: classic_poems/other/44.md
   - caption: （二）新诗
     chapters:
     - file: modern_poems/nature/README.md
