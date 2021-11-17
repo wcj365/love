@@ -584,7 +584,7 @@ parts:
         - file: proses/english/15.md
         - file: proses/english/16.md
         - file: proses/english/17.md
-  - caption: （四）附录
+  - caption:
     chapters:
     - file: appendix/README.md
       sections:
@@ -592,7 +592,7 @@ parts:
         - file: appendix/ya_ge.md
         - file: appendix/monkey.md
         - file: appendix/yi_bo.md
-  - caption: （五）关于作者
+  - caption:
     chapters:
     - file: about/README.md
       sections:
