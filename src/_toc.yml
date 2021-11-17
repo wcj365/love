@@ -584,19 +584,23 @@ parts:
         - file: proses/english/15.md
         - file: proses/english/16.md
         - file: proses/english/17.md
-  - caption: （四）附录
-    chapters:
-    - file: appendix/word_cloud.md
-    - file: appendix/ya_ge.md
-    - file: appendix/monkey.md
-    - file: appendix/yi_bo.md
-  - caption: （五）关于作者
-    chapters:
-    - file: about/summary.md
-    - file: about/software.md
-    - file: about/teaching.md
-    - file: about/books.md
-    - file: about/chapters.md
-    - file: about/dissertation.md
-    - file: about/papers.md
-    - file: about/social.md
+  #- caption: （四）附录
+  #  chapters:
+  - file: proses/appendix/README.md
+    sections:
+      - file: appendix/word_cloud.md
+      - file: appendix/ya_ge.md
+      - file: appendix/monkey.md
+      - file: appendix/yi_bo.md
+  #- caption: （五）关于作者
+  #  chapters:
+  - file: proses/about/README.md
+    sections:
+      - file: about/summary.md
+      - file: about/software.md
+      - file: about/teaching.md
+      - file: about/books.md
+      - file: about/chapters.md
+      - file: about/dissertation.md
+      - file: about/papers.md
+      - file: about/social.md
