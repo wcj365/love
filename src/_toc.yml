@@ -586,7 +586,7 @@ parts:
         - file: proses/english/17.md
   - caption: （四）附录
     chapters:
-    - file: proses/appendix/README.md
+    - file: appendix/README.md
       sections:
         - file: appendix/word_cloud.md
         - file: appendix/ya_ge.md
@@ -594,7 +594,7 @@ parts:
         - file: appendix/yi_bo.md
   - caption: （五）关于作者
     chapters:
-    - file: proses/about/README.md
+    - file: about/README.md
       sections:
         - file: about/summary.md
         - file: about/software.md

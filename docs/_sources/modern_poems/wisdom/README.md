@@ -1,0 +1,4 @@
+# 智慧
+
+```{tableofcontents}
+```
