@@ -54,6 +54,8 @@ parts:
         - file: classic_poems/wu_jue/41.md
         - file: classic_poems/wu_jue/42.md
         - file: classic_poems/wu_jue/43.md
+        - file: classic_poems/wu_jue/44.md
+        - file: classic_poems/wu_jue/45.md
     - file: classic_poems/wu_lv/README.md
       sections:
         - file: classic_poems/wu_lv/01.md
@@ -74,6 +76,7 @@ parts:
         - file: classic_poems/wu_lv/16.md
         - file: classic_poems/wu_lv/17.md
         - file: classic_poems/wu_lv/18.md
+        - file: classic_poems/wu_lv/19.md
     - file: classic_poems/qi_jue/README.md
       sections:
         - file: classic_poems/qi_jue/01.md
@@ -135,6 +138,7 @@ parts:
         - file: classic_poems/qi_lv/15.md
         - file: classic_poems/qi_lv/16.md
         - file: classic_poems/qi_lv/17.md
+        - file: classic_poems/qi_lv/18.md
     - file: classic_poems/ci_ling/README.md
       sections:
         - file: classic_poems/ci_ling/01.md
@@ -395,6 +399,7 @@ parts:
         - file: proses/life/24.md
         - file: proses/life/25.md
         - file: proses/life/26.md
+        - file: proses/life/27.md
     - file: proses/health/README.md
       sections:
         - file: proses/health/01.md
