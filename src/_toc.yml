@@ -6,6 +6,7 @@ parts:
     chapters:
     - file: xu.md
     - file: zi_xu.md
+    - file: word_cloud.md
   - caption:
     numbered: False  # Only applies to chapters in Part 1.
     chapters:
@@ -166,6 +167,7 @@ parts:
             - file: translate/06.md
         - file: classic_poems/other/README.md
           sections:
+            - file: classic_poems/other/00ya_ge.md
             - file: classic_poems/other/01.md
             - file: classic_poems/other/02.md
             - file: classic_poems/other/03.md
@@ -379,6 +381,8 @@ parts:
             - file: proses/econ_tech/40.md
         - file: proses/life/README.md
           sections:
+            - file: proses/life/001monkey.md
+            - file: proses/life/002yi_bo.md
             - file: proses/life/01.md
             - file: proses/life/02.md
             - file: proses/life/03.md
@@ -598,14 +602,6 @@ parts:
           sections:
             - file: english/tea/01.md
             - file: english/tea/02.md
-  - caption:
-    chapters:
-    - file: appendix/README.md
-      sections:
-        - file: appendix/word_cloud.md
-        - file: appendix/ya_ge.md
-        - file: appendix/monkey.md
-        - file: appendix/yi_bo.md
   - caption:
     chapters:
     - file: about/README.md
