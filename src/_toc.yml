@@ -6,6 +6,7 @@ parts:
     chapters:
     - file: xu.md
     - file: zi_xu.md
+    - file: ya_ge.md
     - file: word_cloud.md
   - caption:
     numbered: False  # Only applies to chapters in Part 1.
@@ -167,7 +168,6 @@ parts:
             - file: translate/06.md
         - file: classic_poems/other/README.md
           sections:
-            - file: classic_poems/other/00ya_ge.md
             - file: classic_poems/other/01.md
             - file: classic_poems/other/02.md
             - file: classic_poems/other/03.md

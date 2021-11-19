@@ -2,6 +2,7 @@
 
 import glob
 import os
+import shutil
 
 SOURCE_FOLDER = "../src/classic_poems"
 TARGET_FOLDER = "./classic_poems"
@@ -9,7 +10,12 @@ TARGET_FOLDER = "./classic_poems"
 if not os.path.exists(TARGET_FOLDER):
     os.mkdir(TARGET_FOLDER) 
 
-CHAPTERS = ["01_wu_jue", "02_wu_lv","03_qi_jue", "04_qi_lv", "05_ci_ling", "06_other"]
+shutil.copy("../src/xu.md",TARGET_FOLDER + "/01_xu.md")
+shutil.copy("../src/zi_xu.md",TARGET_FOLDER + "/02_zi_xu.md")
+shutil.copy("../src/ya_ge.md",TARGET_FOLDER + "/03_ya_ge.md")
+shutil.copy("../src/word_cloud.md",TARGET_FOLDER + "/04_word_cloud.md")
+
+CHAPTERS = ["05_wu_jue", "06_wu_lv","07_qi_jue", "08_qi_lv", "09_ci_ling", "10_other"]
 
 
 for chapter in CHAPTERS:
