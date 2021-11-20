@@ -28,9 +28,9 @@ rm -r _build/
 
 # Build the PDF version of the book 
 
-jupyter-book build --path-output . src --builder pdfhtml
-cp _build/pdf/book.pdf ./pdf/
-rm -r _build/
+#jupyter-book build --path-output . src --builder pdfhtml
+#cp _build/pdf/book.pdf ./pdf/
+#rm -r _build/
 
 # Push the changes to GitHub
 

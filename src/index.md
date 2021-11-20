@@ -6,7 +6,7 @@
 ![酒](_static/images/jiu.PNG)
 ![作者王超杰](_static/images/signature.PNG)
 
-**PDF版本**
+**下载PDF版本**
 
 - [第一册　格律诗](https://github.com/wcj365/love/raw/main/pdf/wcj365_classic.pdf)
 - [第二册　自由诗](https://github.com/wcj365/love/raw/main/pdf/wcj365_modern.pdf)
