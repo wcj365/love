@@ -80,7 +80,6 @@ parts:
             - file: classic_poems/wu_lv/16.md
             - file: classic_poems/wu_lv/17.md
             - file: classic_poems/wu_lv/18.md
-            - file: classic_poems/wu_lv/19.md
         - file: classic_poems/qi_jue/README.md
           sections:
             - file: classic_poems/qi_jue/01.md
