@@ -187,12 +187,13 @@
 
 数年以后，猴哥逛书店，偶然看到一个书，书名叫【Fall In Lake or Fall In Love - My Serendipitous Encounter With The Eastern Wisdom】(掉进湖里还是坠入爱河 - 我与东方智慧的一次邂逅）。
 打开封面，第一页上赫然写着：
+
 > To the Mysterious Master  
 > I am sure someday you will stumble upon this book  
-> just as I stumbled upon you
+> just as I stumbled upon you 
 > 
-> 献给神秘的大师  
-> 相信有一天你会邂逅这本书  
+> 献给神秘的大师    
+> 相信有一天你会邂逅这本书    
 > 就如当年我邂逅你一样  
 
 
@@ -319,13 +320,15 @@
 
 ## 【人生的四个“自”和四种“情”】
 
- 四个“自”
+四个“自”:
+
 -	自由的思想
 -	自主的职业
 -	自在的生活
 -	自律的行为
 
-四种“情”
+四种“情”:
+
 -	亲情
 -	乡情
 -	爱情
@@ -360,6 +363,7 @@
 \newpage
 
 ## 【2019感悟】
+
 -	自由是在各种约束下还能自在自如。没有约束，谈何自由。
 -	简约是最好的写作习惯。不光是写作，在为人处世的方方面面包括吃喝穿用都要简约。
 -	在这信息过量，物质丰富的时代，简约更是一种品德。

@@ -274,7 +274,8 @@ Walk, not talk。
 Be mindful, not mind full；  
 Be a human, not a demon；
 
-Love monkeys, not money。 （This one is optional。)
+Love monkey, not money。   
+（This one is optional。)
 
 观察，不要寻觅；  
 体验，不要盲从。
@@ -285,7 +286,8 @@ Love monkeys, not money。 （This one is optional。)
 持正念，不装杂念；  
 做常人，不当妖魔。
 
-惜猴子，不惜银子。（这个就随喜吧。）
+惜猴子，不惜银子。  
+（这个就随喜吧。）
 
 ![](../../src/modern_poems/english/07.jpg)
 
@@ -348,7 +350,12 @@ Now and here。
 **Nowhere or Now and Here**
 
 From time to time we get stuck and our lives seem to go nowhere. 
-The word “Nowhere” can be seen as the combination of either “No” and “Where” or “Now” and “Here”. There are two options. We can choose one or the other. When we choose Now and Here, we stop whining and start living again. This is what Zen calls “Live the life here and now” ( “活在当下“)。
+
+The word “Nowhere” can be seen as the combination of either “No” and “Where” or “Now” and “Here”. 
+
+There are two options. We can choose one or the other. When we choose Now and Here, we stop whining and start living again. 
+
+This is what Zen calls “Live the life here and now” ( “活在当下“)。
 
 ![](../../src/modern_poems/english/08.gif)
 
@@ -356,42 +363,42 @@ The word “Nowhere” can be seen as the combination of either “No” and “
 
 ##  【Software Development Chaos】
 
-Kiran asked  
-“Are we ready  
-to integrate the code?”
+Kiran asked    
+"Are we ready      
+to integrate the code?"
 
-Anthony replied 
-“No”
+Anthony replied   
+"No"
 
-Ram replied  
-“Oh, No”
+Ram replied     
+"Oh, No"
 
-“No, No” 
-We heard Sridevi echo
+"No, No"  
+We heard Sridevi echo  
 
-Priya replied 
-“I can say yes 
-If I can catch Venkat by the toe”
+Priya replied  
+"I can say yes  
+If I can catch Venkat by the toe"
 
-She needs help with JBPM 
+She needs help with JBPM    
 But Venkat is no show
 
-It took 45 minutes to publish 
+It took 45 minutes to publish   
 RAD 8 is so slow
 
-It should be RAPID 
+It should be RAPID   
 What a joke
 
-No stable build to validate 
+No stable build to validate   
 Our testers didn’t sit idle
 
-They wrote test cases 
+They wrote test cases   
 on specs with too many holes
 
-They feel a little lucky 
-“At least we don’t have to code”
+They feel a little lucky   
+"At least we don’t have to code"
 
-Despite the chaos 
+Despite the chaos   
 We all still have hope
 
 注： 这首诗记录我作软件开发项目经理的经历。SSA DCPS program。
@@ -474,9 +481,10 @@ I want to celebrate with beer;
 But before we cheer,  
 Let’s finish our paper。
 
-The end may be near,
-But the future is even better。
-Until then, 
+The end may be near,  
+But the future is even better。  
+
+Until then,     
 Let's fight together。
 
 (6) Fred，The Overachiever 

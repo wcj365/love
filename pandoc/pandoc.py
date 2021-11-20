@@ -19,14 +19,35 @@ for book in books:
     shutil.copy(f"00_{book}.md",f"{TARGET_FOLDER}/00_{book}.md")
     shutil.copy("Makefile",TARGET_FOLDER + "/Makefile")
     if book == "classic_poems":
+
         shutil.copy("../src/xu.md",TARGET_FOLDER + "/01_xu.md")
+        with open(TARGET_FOLDER + "/01_xu.md", "a") as f_append:
+            f_append.write("\n\n")
+            f_append.write("\\newpage")
+            f_append.write("\n\n")   
+
         shutil.copy("../src/zi_xu.md",TARGET_FOLDER + "/02_zi_xu.md")
-        shutil.copy("../src/ya_ge.md",TARGET_FOLDER + "/03_ya_ge.md")
+        with open(TARGET_FOLDER + "/02_zi_xu.md", "a") as f_append:
+            f_append.write("\n\n")
+            f_append.write("\\newpage")
+            f_append.write("\n\n")  
+         
         shutil.copy("../src/ya_ge.jpg",TARGET_FOLDER + "/ya_ge.jpg")
-        shutil.copy("../src/word_cloud.md",TARGET_FOLDER + "/04_word_cloud.md")
+        shutil.copy("../src/ya_ge.md",TARGET_FOLDER + "/03_ya_ge.md")
+        with open(TARGET_FOLDER + "/03_ya_ge.md", "a") as f_append:
+            f_append.write("\n\n")
+            f_append.write("\\newpage")
+            f_append.write("\n\n")   
+
         shutil.copy("../src/word_cloud.png",TARGET_FOLDER + "/word_cloud.png")
+        shutil.copy("../src/word_cloud.md",TARGET_FOLDER + "/04_word_cloud.md")
+        with open(TARGET_FOLDER + "/04_word_cloud.md", "a") as f_append:
+            f_append.write("\n\n")
+            f_append.write("\\newpage")
+            f_append.write("\n\n")   
 
         CHAPTERS = ["05_wu_jue", "06_wu_lv","07_qi_jue", "08_qi_lv", "09_ci_ling", "10_other"]
+        
     elif book == "modern_poems":
         CHAPTERS = ["01_nature", "02_solitude","03_wisdom", "04_homesick", "05_love", "06_birthday", "07_english"]
     elif book == "proses":
