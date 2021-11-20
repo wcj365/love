@@ -19,9 +19,6 @@
 - 邓小平有“白猫黑猫论”。
 - 西方谚语也有“条条大路通罗马（All roads lead to Rome)”。
 
-![](../../src/classic_poems/wu_jue/01.jpg)
-
-
 \newpage
 
 ## 【茶】

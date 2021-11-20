@@ -1,6 +1,6 @@
 ---
 title: "乡愁永酒诗文集"
-subtitle: 【第一册 • 旧体诗】
+subtitle: 【第三册 •　随笔】
 author: 王超杰
 CJKmainfont: "AR PL UKai TW" 
 mainfont: "AR PL UKai TW" 
@@ -16,10 +16,10 @@ lang: en-US
 #lang: zh-CN   NOT　WORKING！
 ---
 
-**【第一册 • 旧诗】**
-**【第二册 • 新诗】**
-**【第三册 • 随笔】**
-**【第四册 • 英文】**
+
+\begin{center}
+【第三册 • 随笔】
+\end{center}
 
 
 \pagebreak
