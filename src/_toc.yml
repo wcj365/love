@@ -9,7 +9,6 @@ parts:
     - file: 03_ya_ge.md
     - file: 04_word_cloud.md
     - file: 05_yi_bo.md
-    - file: 06_author.md
   - caption:
     numbered: False  # Only applies to chapters in Part 1.
     chapters:

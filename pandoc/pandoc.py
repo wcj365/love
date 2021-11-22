@@ -4,34 +4,38 @@ import glob
 import os
 import shutil
 
-books = ["classic_poems", "modern_poems", "proses", "english"]
+SOURCE = "../src/"
+TARGET = "../_pandoc/"
 
-for book in books:
+BOOKS = ["classic_poems", "modern_poems", "proses", "english"]
 
-    SOURCE_FOLDER = f"../src/{book}"
-    TARGET_FOLDER = f"./{book}"
+if os.path.exists(TARGET):
+    shutil.rmtree(TARGET) 
 
-    if os.path.exists(TARGET_FOLDER):
-        shutil.rmtree(TARGET_FOLDER) 
+os.mkdir(TARGET) 
 
-    os.mkdir(TARGET_FOLDER) 
+for book in BOOKS:
 
-    shutil.copy(f"00_{book}.md",f"{TARGET_FOLDER}/00_{book}.md")
-    shutil.copy("Makefile",TARGET_FOLDER + "/Makefile")
+    BOOK_SOURCE = f"{SOURCE}{book}/"
+    BOOK_TARGET = f"{TARGET}{book}/"
+
+    os.mkdir(BOOK_TARGET) 
+
+    shutil.copy(f"00_{book}.md",f"{BOOK_TARGET}00_{book}.md")
 
     if book == "classic_poems":
-        files = os.listdir("../src/")
+        files = os.listdir(SOURCE)
         for file in files:
             if not file.startswith("0"):
                 continue      
-            shutil.copy("../src/" + file,TARGET_FOLDER)
+            shutil.copy(SOURCE + file, BOOK_TARGET)
             if file.endswith(".md"):
-                with open(TARGET_FOLDER + file, "a") as f_append:
+                with open(BOOK_TARGET + file, "a") as f_append:
                     f_append.write("\n\n")
                     f_append.write("\\newpage")
                     f_append.write("\n\n")   
 
-        CHAPTERS = ["05_wu_jue", "06_wu_lv","07_qi_jue", "08_qi_lv", "09_ci_ling", "10_other"]
+        CHAPTERS = ["07_wu_jue", "08_wu_lv","09_qi_jue", "10_qi_lv", "11_ci_ling", "12_other"]
         
     elif book == "modern_poems":
         CHAPTERS = ["01_nature", "02_solitude","03_wisdom", "04_homesick", "05_love", "06_birthday", "07_english"]
@@ -41,10 +45,10 @@ for book in books:
         CHAPTERS = ["01_academic", "02_system", "03_tea"]
 
     for chapter in CHAPTERS:
-        chapter_folder = SOURCE_FOLDER + "/" + chapter[3:]
+        chapter_folder = BOOK_SOURCE + chapter[3:]
         files = glob.glob(chapter_folder + "/*.md")
         files.sort()
-        chapter_file = TARGET_FOLDER + "/"+ chapter + ".md"
+        chapter_file = BOOK_TARGET + chapter + ".md"
         if os.path.exists(chapter_file):
             os.remove(chapter_file)
         with open(chapter_file, "a") as f_append:
