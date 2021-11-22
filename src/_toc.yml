@@ -8,6 +8,8 @@ parts:
     - file: zi_xu.md
     - file: ya_ge.md
     - file: word_cloud.md
+    - file: yi_bo.md
+    - file: author.md
   - caption:
     numbered: False  # Only applies to chapters in Part 1.
     chapters:
@@ -380,8 +382,7 @@ parts:
             - file: proses/econ_tech/40.md
         - file: proses/life/README.md
           sections:
-            - file: proses/life/001monkey.md
-            - file: proses/life/002yi_bo.md
+            - file: proses/life/00.md
             - file: proses/life/01.md
             - file: proses/life/02.md
             - file: proses/life/03.md
@@ -612,6 +613,3 @@ parts:
             - file: english/other/01.md
             - file: english/other/02.md
             - file: english/other/03.md
-  - caption:
-    chapters:
-    - file: author.md

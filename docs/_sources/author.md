@@ -1,4 +1,4 @@
-# 【关于作者】
+# 【作者简历】
 
 ![](author.png)
 
@@ -95,16 +95,16 @@
 - **Full Marathon (4:56)**, 2012 Marine Corps Marathon
 - **Co-founder**, Patuxent Atheletic League of Striders (PALs), Maryland
 
+*Read, write, and run - therapies for a happy life.*
+
 ## Social Media 
 
-- [LinkedIn Profile 领英](https://www.linkedin.com/in/wcj365)
+- [LinkedIn 领英](https://www.linkedin.com/in/wcj365)
 - [Facebook 脸书](https://www.facebook.com/wcj365)
 - [Google Scholar 谷歌学者](https://scholar.google.com/citations?user=-qZM58cAAAAJ)
 - [ORCID](https://orcid.org/0000-0001-8521-9420)
-- [GitHub Profile](https://github.com/wcj365)
+- [GitHub](https://github.com/wcj365)
 
 ## Contact 
 
 - wcj365@gmail.com
-
-*Read, write, and run - therapies for a happy life.*
