@@ -1,1 +1,1 @@
-# Use Pandoc to generate PDF version
+# Use Pandoc to generate PDF version of the books

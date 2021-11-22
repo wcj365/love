@@ -3,3 +3,4 @@ docs.zip
 .venv
 .ipynb_checkpoints
 _build
+_pandoc
