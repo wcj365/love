@@ -1,0 +1,4 @@
+# Academic Writings
+
+```{tableofcontents}
+```

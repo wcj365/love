@@ -578,6 +578,12 @@ parts:
     chapters:
     - file: english/README.md
       sections:
+        - file: english/academic/README.md  
+          sections:
+            - file: about/01_books.md
+            - file: about/02_chapters.md
+            - file: about/03_dissertation.md
+            - file: about/04_papers.md
         - file: english/system/README.md            
           sections:
             - file: english/system/01.md
@@ -608,13 +614,4 @@ parts:
             - file: english/other/03.md
   - caption:
     chapters:
-    - file: about/README.md
-      sections:
-        - file: about/summary.md
-        - file: about/software.md
-        - file: about/teaching.md
-        - file: about/books.md
-        - file: about/chapters.md
-        - file: about/dissertation.md
-        - file: about/papers.md
-        - file: about/social.md
+    - file: author.md

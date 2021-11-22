@@ -1,4 +1,4 @@
-# System Thinking
+# System Thinking Blog
 
 ```{tableofcontents}
 ```
