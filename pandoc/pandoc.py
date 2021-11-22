@@ -20,7 +20,13 @@ for book in books:
     shutil.copy("Makefile",TARGET_FOLDER + "/Makefile")
     if book == "classic_poems":
 
-        shutil.copy("../src/xu.md",TARGET_FOLDER + "/01_xu.md")
+
+        files = glob.glob("../src/*.md")
+        for file in files:
+            if "index" in file:
+                continue          # skip index.md
+
+            shutil.copy("../src/xu.md",TARGET_FOLDER + "/01_xu.md")
         with open(TARGET_FOLDER + "/01_xu.md", "a") as f_append:
             f_append.write("\n\n")
             f_append.write("\\newpage")
