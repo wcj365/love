@@ -35,5 +35,5 @@ rm -r _build/
 # Push the changes to GitHub
 
 git add .
-git commit -m "Built the static website and the PDF verion of the book."
+git commit -m "Built the static website."
 git push

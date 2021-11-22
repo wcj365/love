@@ -38,3 +38,15 @@ Or paste this line directly into your browser bar:
 
 [92m===============================================================================[0m
 
+[main bdd1dc2a2] Built the static website and the PDF verion of the book.
+ Author: Dr. Chaojie Wang <wcj365@gmail.com>
+ 19 files changed, 11 insertions(+), 11 deletions(-)
+ rewrite docs/_images/031.jpg (93%)
+ copy docs/_images/{031.jpg => 032.jpg} (100%)
+ rename docs/_images/{032.jpg => 033.jpg} (100%)
+ rename docs/_images/{033.jpg => 034.jpg} (100%)
+ rewrite docs/_images/042.jpg (98%)
+ copy docs/_images/{042.jpg => 043.jpg} (100%)
+ rename docs/_images/{043.jpg => 044.jpg} (100%)
+ rename docs/_images/{044.jpg => 045.jpg} (100%)
+ rename docs/_images/{045.jpg => 046.jpg} (100%)

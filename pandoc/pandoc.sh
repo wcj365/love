@@ -18,5 +18,5 @@ done
 cd ../
 
 git add .
-git commit -m "Built the static website and the PDF verion of the book."
+git commit -m "Built the PDF verion of the books."
 git push
