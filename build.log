@@ -38,3 +38,7 @@ Or paste this line directly into your browser bar:
 
 [92m===============================================================================[0m
 
+[main 5067881d] Built the static website and the PDF verion of the book.
+ Author: Dr. Chaojie Wang <wcj365@gmail.com>
+ 42 files changed, 601 insertions(+), 431 deletions(-)
+ rewrite build.log (89%)

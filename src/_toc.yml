@@ -601,6 +601,11 @@ parts:
           sections:
             - file: english/tea/01.md
             - file: english/tea/02.md
+        - file: english/other/README.md            
+          sections:
+            - file: english/other/01.md
+            - file: english/other/02.md
+            - file: english/other/03.md
   - caption:
     chapters:
     - file: about/README.md
