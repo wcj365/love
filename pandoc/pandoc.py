@@ -26,14 +26,19 @@ for book in BOOKS:
     if book == "classic_poems":
         files = os.listdir(SOURCE)
         for file in files:
-            if not file.startswith("0"):
-                continue      
-            shutil.copy(SOURCE + file, BOOK_TARGET)
-            if file.endswith(".md"):
-                with open(BOOK_TARGET + file, "a") as f_append:
-                    f_append.write("\n\n")
-                    f_append.write("\\newpage")
-                    f_append.write("\n\n")   
+            if not (file.startswith("0") and file.endswith(".md")):    
+                continue 
+            with open(BOOK_TARGET + file, "w") as f_write:
+                with open(SOURCE + file, "r") as f_read:
+                    lines = f_read.readlines()
+                    for line in lines:
+                        if line.startswith("![]"):
+                            f_write.write("![](" + SOURCE + line[4:])
+                        else:
+                            f_write.write(line)
+                    f_write.write("\n\n")
+                    f_write.write("\\newpage")
+                    f_write.write("\n\n")   
 
         CHAPTERS = ["07_wu_jue", "08_wu_lv","09_qi_jue", "10_qi_lv", "11_ci_ling", "12_other"]
         
@@ -62,8 +67,8 @@ for book in BOOKS:
                     f_append.write("#")
                     lines = f_read.readlines()
                     for line in lines:
-                        if "![]" in line:
-                            f_append.write("![](" + "../" + chapter_folder + "/" + line[4:])
+                        if line.startswith("![]"):
+                            f_append.write("![](" + chapter_folder + "/" + line[4:])
                         else:
                             f_append.write(line)
                     f_append.write("\n\n")
