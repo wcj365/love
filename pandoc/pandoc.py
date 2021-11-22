@@ -18,52 +18,18 @@ for book in books:
 
     shutil.copy(f"00_{book}.md",f"{TARGET_FOLDER}/00_{book}.md")
     shutil.copy("Makefile",TARGET_FOLDER + "/Makefile")
+
     if book == "classic_poems":
-
-
-        files = glob.glob("../src/*.md")
+        files = os.listdir("../src/")
         for file in files:
-            if "index" in file:
-                continue          # skip index.md
-
-            shutil.copy("../src/xu.md",TARGET_FOLDER + "/01_xu.md")
-        with open(TARGET_FOLDER + "/01_xu.md", "a") as f_append:
-            f_append.write("\n\n")
-            f_append.write("\\newpage")
-            f_append.write("\n\n")   
-
-        shutil.copy("../src/zi_xu.md",TARGET_FOLDER + "/02_zi_xu.md")
-        with open(TARGET_FOLDER + "/02_zi_xu.md", "a") as f_append:
-            f_append.write("\n\n")
-            f_append.write("\\newpage")
-            f_append.write("\n\n")  
-         
-        shutil.copy("../src/ya_ge.jpg",TARGET_FOLDER + "/ya_ge.jpg")
-        shutil.copy("../src/ya_ge.md",TARGET_FOLDER + "/03_ya_ge.md")
-        with open(TARGET_FOLDER + "/03_ya_ge.md", "a") as f_append:
-            f_append.write("\n\n")
-            f_append.write("\\newpage")
-            f_append.write("\n\n")   
-
-        shutil.copy("../src/word_cloud.png",TARGET_FOLDER + "/word_cloud.png")
-        shutil.copy("../src/word_cloud.md",TARGET_FOLDER + "/04_word_cloud.md")
-        with open(TARGET_FOLDER + "/04_word_cloud.md", "a") as f_append:
-            f_append.write("\n\n")
-            f_append.write("\\newpage")
-            f_append.write("\n\n")   
-
-        shutil.copy("../src/ya_ge.jpg",TARGET_FOLDER + "/ya_ge.jpg")
-        shutil.copy("../src/ya_ge.md",TARGET_FOLDER + "/03_ya_ge.md")
-        with open(TARGET_FOLDER + "/03_ya_ge.md", "a") as f_append:
-            f_append.write("\n\n")
-            f_append.write("\\newpage")
-            f_append.write("\n\n")   
-
-        shutil.copy("../src/yi_boyi_bo.md",TARGET_FOLDER + "/05_yi_bo.md")
-        with open(TARGET_FOLDER + "/05_yi_bo.md", "a") as f_append:
-            f_append.write("\n\n")
-            f_append.write("\\newpage")
-            f_append.write("\n\n")   
+            if not file.startswith("0"):
+                continue      
+            shutil.copy("../src/" + file,TARGET_FOLDER)
+            if file.endswith(".md"):
+                with open(TARGET_FOLDER + file, "a") as f_append:
+                    f_append.write("\n\n")
+                    f_append.write("\\newpage")
+                    f_append.write("\n\n")   
 
         CHAPTERS = ["05_wu_jue", "06_wu_lv","07_qi_jue", "08_qi_lv", "09_ci_ling", "10_other"]
         
@@ -72,7 +38,7 @@ for book in books:
     elif book == "proses":
         CHAPTERS = ["01_politics", "02_econ_tech","03_life", "04_health", "05_fun", "06_wisdom", "07_poetry","08_wordgame"]
     else:    # book == "english"
-        CHAPTERS = ["01_system", "02_tea"]
+        CHAPTERS = ["01_academic", "02_system", "03_tea"]
 
     for chapter in CHAPTERS:
         chapter_folder = SOURCE_FOLDER + "/" + chapter[3:]
@@ -98,9 +64,4 @@ for book in books:
                             f_append.write(line)
                     f_append.write("\n\n")
                     f_append.write("\\newpage")
-                    f_append.write("\n\n")
-
-
-
-    
-
+                    f_append.write("\n\n")  

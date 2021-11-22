@@ -22,7 +22,7 @@ Output Path: _build/html
 [01mcopying extra files... [39;49;00mdone
 [01mdumping search index in Chinese (code: zh)... [39;49;00mdone
 [01mdumping object inventory... [39;49;00mdone
-[01mbuild succeeded, 12 warnings.[39;49;00m
+[01mbuild succeeded.[39;49;00m
 
 The HTML pages are in _build/html.
 
