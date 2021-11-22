@@ -26,7 +26,7 @@ html:
   google_analytics_id       : "G-ZZD3P7PC6T"  # A GA id that can be used to track book views.
   home_page_in_navbar       : false  # Whether to include your home page in the left Navigation Bar
   baseurl                   : ""  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
-  search_bar_text           : "搜索"
+  search_bar_text           : ""
 
 launch_buttons:
   jupyterhub_url            : https://colab.research.google.com
