@@ -1,4 +1,4 @@
-# Academic Writings 学术作品
+# Academic Writtings 学术作品
 
 ```{tableofcontents}
 ```
