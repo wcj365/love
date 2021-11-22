@@ -46,6 +46,19 @@ for book in books:
             f_append.write("\\newpage")
             f_append.write("\n\n")   
 
+        shutil.copy("../src/ya_ge.jpg",TARGET_FOLDER + "/ya_ge.jpg")
+        shutil.copy("../src/ya_ge.md",TARGET_FOLDER + "/03_ya_ge.md")
+        with open(TARGET_FOLDER + "/03_ya_ge.md", "a") as f_append:
+            f_append.write("\n\n")
+            f_append.write("\\newpage")
+            f_append.write("\n\n")   
+
+        shutil.copy("../src/yi_boyi_bo.md",TARGET_FOLDER + "/05_yi_bo.md")
+        with open(TARGET_FOLDER + "/05_yi_bo.md", "a") as f_append:
+            f_append.write("\n\n")
+            f_append.write("\\newpage")
+            f_append.write("\n\n")   
+
         CHAPTERS = ["05_wu_jue", "06_wu_lv","07_qi_jue", "08_qi_lv", "09_ci_ling", "10_other"]
         
     elif book == "modern_poems":
