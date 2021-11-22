@@ -12,7 +12,7 @@
 
 是故，作者自号穆阳猴，朋友谓之猴哥。
 
-![](../../src/proses/life/monkey.jpg)
+![](../src/proses/life/monkey.jpg)
 
 \newpage
 
@@ -218,7 +218,7 @@
 有一次，超芳上卫生间，女儿没注意到，不知哪位故意大叫一声说“芳仔，这末葬这么深的臭沟，你怎么跳下去了！”，女儿咋听，悲痛情急中大声哭叫起来，
 边上人们大乐。可见女儿对父亲感情有多深。（我老家厨房墙边有一条沟与邻居的房子隔开，由于常年不疏通，又脏又臭。)
 
-![](../../src/proses/life/05.jpg)
+![](../src/proses/life/05.jpg)
 
 
 \newpage
@@ -538,7 +538,7 @@ Love, Jay, the Wang (one) and the only.
 
 注：王字的读音和英文one（一）的读音相似。the one and the only 是独一无二。
  
-![](../../src/proses/life/12.png)
+![](../src/proses/life/12.png)
 
 \newpage
 
@@ -638,7 +638,7 @@ Love, Jay, the Wang (one) and the only.
 
 注：图片是三十年前大学辅导员给我的毕业留言。
 
-![](../../src/proses/life/15.jpg)
+![](../src/proses/life/15.jpg)
 
 
 
@@ -661,7 +661,7 @@ Love, Jay, the Wang (one) and the only.
 热爱生活;  
 珍惜生命。
 
-![](../../src/proses/life/16.jpg)
+![](../src/proses/life/16.jpg)
 
 
 \newpage
@@ -726,7 +726,7 @@ Love, Jay, the Wang (one) and the only.
 >
 > 西德尼 • 哈里斯 (美国记者 1917 - 1986)
 
-![](../../src/proses/life/18.jpg)
+![](../src/proses/life/18.jpg)
 
 
 \newpage
@@ -735,39 +735,39 @@ Love, Jay, the Wang (one) and the only.
 
 两周前我离开供职近十年的洛克希德马丁公司(Lockheed Martin)。过去这十年，我参与了国家档案管理局（NARA），社会保障管理局（SSA），药品食品管理局（FDA），联邦航空管理局（FAA）的系统开发和项目管理。这期间，拿了一个荣誉奖，读了一个工商管理硕士学位，跑了两个马拉松，送了两个孩子上大学(主要是老婆育子有方, 孩子自己努力)。这期间，帮助了不少人，结交了许多朋友，也遇到了个别小人。做事有过不慎, 待人有过不周。遇到过几次危机，经历过几番周折。分享几张照片，以资纪念。
 
-![](../../src/proses/life/19a.png)
+![](../src/proses/life/19a.png)
 
 图一：为国家档案管理局项目做出突出贡献，获得洛克希德马丁公司荣誉嘉奖。
 
-![](../../src/proses/life/19b.jpg)
+![](../src/proses/life/19b.jpg)
 
 图二：参与预警信息发布系统的研发。
 
-![](../../src/proses/life/19c.jpg)
+![](../src/proses/life/19c.jpg)
 
 图三：预警信息发布系统在美国急救管理年会上展出，和开发团队在会展上合影。
 
-![](../../src/proses/life/19d.jpg)
+![](../src/proses/life/19d.jpg)
 
 图四：社会保障管理局项目团队的三套马车：从左到右，测试组长，分析组长，开发组长。
 
-![](../../src/proses/life/19e.jpg)
+![](../src/proses/life/19e.jpg)
 
 图五：洛克希德马丁公司的中国同事，午餐饭局吃友。
 
-![](../../src/proses/life/19f.jpg)
+![](../src/proses/life/19f.jpg)
 
 图六：社会保障管理局项目团队午餐合影。
 
-![](../../src/proses/life/19g.jpg)
+![](../src/proses/life/19g.jpg)
 
 图七：在办公室打盹。
 
-![](../../src/proses/life/19h.jpg)
+![](../src/proses/life/19h.jpg)
 
 图八：联邦航空管理局项目团队午餐合影。
 
-![](../../src/proses/life/19i.jpg)
+![](../src/proses/life/19i.jpg)
 
 图九：2012年参加美国海军陆战队马拉松，和颁奖的士兵合影。
 
@@ -862,7 +862,7 @@ Love, Jay, the Wang (one) and the only.
 慈母手中签, 游子爱心连。  
 半百知天命, 平安胜万钱。
 
-![](../../src/proses/life/25.jpg)
+![](../src/proses/life/25.jpg)
 
 \newpage
 

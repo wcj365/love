@@ -150,7 +150,7 @@ How are you doing？
 
 猴啊又独饮
 
-![](../../src/classic_poems/other/10.jpg)
+![](../src/classic_poems/other/10.jpg)
 
 
 
@@ -170,7 +170,7 @@ How are you doing？
 
 注：2016年新春，开车路上爆胎。接着洛克希德马丁公司裁员，三月履新麦特智库。
 
-![](../../src/classic_poems/other/11.jpg)
+![](../src/classic_poems/other/11.jpg)
 
 
 \newpage
@@ -184,7 +184,7 @@ How are you doing？
 
 “說法者，無法可說，是名說法。” - 《金刚经》
 
-![](../../src/classic_poems/other/12.jpg)
+![](../src/classic_poems/other/12.jpg)
 
  
 
@@ -224,7 +224,7 @@ How are you doing？
 生活处处都有禅，看你是闲还是忙。  
 忙人不闻鸟吟唱，闲人见草动柔肠。
 
-![](../../src/classic_poems/other/16.jpg)
+![](../src/classic_poems/other/16.jpg)
 
 \newpage
 
@@ -233,7 +233,7 @@ How are you doing？
 打盹谁说不是禅，养生何必靠仙丹。  
 伸直懒腰打哈欠，闭目养神心地宽。
 
-![](../../src/classic_poems/other/17.jpg)
+![](../src/classic_poems/other/17.jpg)
  
 
 
@@ -321,7 +321,7 @@ How are you doing？
 
 注：猴哥有一回职场遇险， 一段时间，天天抄写【心经】，效果甚佳。
 
-![](../../src/classic_poems/other/22.jpg)
+![](../src/classic_poems/other/22.jpg)
 
 \newpage
 
@@ -387,7 +387,7 @@ How are you doing？
 活在人间 
 佛在人间
 
-![](../../src/classic_poems/other/26.png)
+![](../src/classic_poems/other/26.png)
 
 \newpage
 
@@ -471,7 +471,7 @@ How are you doing？
 猴哥静静观赏，十几分钟之久。一直在等她问"画眉深浅入时无"。半晌才明白人家老美没读过唐诗宋词。
 女人为什么比男人长寿，原因之一就是她们每天都至少习禅十五分钟。
 
-![](../../src/classic_poems/other/29.jpg)
+![](../src/classic_poems/other/29.jpg)
 
 附：朋友徐海的回应
 
@@ -493,7 +493,7 @@ How are you doing？
 山有木兮木有枝，水无舟兮舟无辑。  
 情能补拙是良训，一分心劳一分愁。
 
-![](../../src/classic_poems/other/30.jpg)
+![](../src/classic_poems/other/30.jpg)
 
 
 \newpage
@@ -572,7 +572,7 @@ How are you doing？
 满眼碧绿濯不妖，香远益清，止观心头照。   
 万般皆浊我惟傲，独领风骚儒释道。
 
-![](../../src/classic_poems/other/37.jpg)
+![](../src/classic_poems/other/37.jpg)
 
 \newpage
 
@@ -616,7 +616,7 @@ How are you doing？
 菩提本无树，明镜亦非台。  
 本来无一物，何处惹尘埃？
 
-![](../../src/classic_poems/other/39.png)
+![](../src/classic_poems/other/39.png)
 
 \newpage
 
@@ -671,7 +671,7 @@ How are you doing？
 饮水思源，道法自然性归本;  
 持杯赏叶，心无挂碍身自由。
 
-![](../../src/classic_poems/other/43.jpg)
+![](../src/classic_poems/other/43.jpg)
 
 附：缪锐萍 【闲看柳浪】
 

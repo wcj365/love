@@ -50,9 +50,9 @@
 偶尔得之  
 只能窃喜无法张扬
 
-![](../../src/modern_poems/solitude/02a.jpg)
+![](../src/modern_poems/solitude/02a.jpg)
 
-![](../../src/modern_poems/solitude/02b.jpg)
+![](../src/modern_poems/solitude/02b.jpg)
  
 
 
@@ -173,7 +173,7 @@
 哥俩齐声说  
 “再会，在不酒的将来”
 
-![](../../src/modern_poems/solitude/05.jpg)
+![](../src/modern_poems/solitude/05.jpg)
 
 \newpage
 
@@ -253,7 +253,7 @@
 从容地小憩  
 再把得失是非盘点
 
-![](../../src/modern_poems/solitude/07.jpg)
+![](../src/modern_poems/solitude/07.jpg)
 
 \newpage
 
@@ -328,7 +328,7 @@
 这里  
 俺是博主！
 
-![](../../src/modern_poems/solitude/10.jpg)
+![](../src/modern_poems/solitude/10.jpg)
 
 
 \newpage
@@ -382,7 +382,7 @@
 朝我招手  
 匆匆飘过
  
-![](../../src/modern_poems/solitude/12.jpg)
+![](../src/modern_poems/solitude/12.jpg)
 
 \newpage
 
@@ -425,7 +425,7 @@
 心有日月常明  
 趴着躺着都行
 
-![](../../src/modern_poems/solitude/14.jpg)
+![](../src/modern_poems/solitude/14.jpg)
 
 朋友回应，共同创作:
 
@@ -538,7 +538,7 @@ Learn How to Love the Natural Self
 好 好 好  
 跑 跑 跑
 
-![](../../src/modern_poems/solitude/17.jpg)
+![](../src/modern_poems/solitude/17.jpg)
 
 图：猴哥马拉松训练计划
 

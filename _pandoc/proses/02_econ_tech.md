@@ -18,7 +18,7 @@
 
 这个古代诗人就是我们现代所谓的数据科学家。数据科学就是从大量数据中挖掘信息，发现知识，并用简单易懂的方式与人分享， 辅助决策。
 
-![](../../src/proses/econ_tech/01.png)
+![](../src/proses/econ_tech/01.png)
 
 \newpage
 
@@ -40,7 +40,7 @@
 所以数据科学家不能光有诗人的情怀，还要有政治家的胸怀。遇事不慌，坐怀不乱。
 面对现状，如实报告。出谋献策，辅助领导。
 
-![](../../src/proses/econ_tech/02.png)
+![](../src/proses/econ_tech/02.png)
 
 \newpage
 
@@ -115,7 +115,7 @@
 懂得成本效益分析，了解组织管理理论，理解政治利益冲突。数据科学家还要讲道德伦理，
 学会分析和纠正数据和算法中存在的偏见，保护数据安全和个人隐私。
 
-![](../../src/proses/econ_tech/05.png)
+![](../src/proses/econ_tech/05.png)
 
 \newpage
 
@@ -130,7 +130,7 @@
 
 数据科学家既要懂统计学又要懂计算机科学。根据多年工作经验和学习心得冶炼升华形成的这一张图，从六个维度比较统计推断和机器学习，让你一目了然。
 
-![](../../src/proses/econ_tech/06.png)
+![](../src/proses/econ_tech/06.png)
 
 
 \newpage
@@ -194,7 +194,7 @@
 > That one can truly manage other people is by no means adequately proven. But one can always manage oneself. 
 > Indeed, executives who do not manage themselves for effectiveness cannot possibly expect to manage their associates and subordinates. Management is largely by example. Executives who do not know how to make themselves effective in their own job and work set the wrong example。
 
-![](../../src/proses/econ_tech/08.jpg)
+![](../src/proses/econ_tech/08.jpg)
 
 \newpage
 
@@ -251,7 +251,7 @@
 
 当一个企业形成一种欺下眉上的文化时，员工不能发挥积极性和创造力，企业就不能高效率运转，最终将走向衰退, 乃至破产倒闭。
 
-![](../../src/proses/econ_tech/10.jpg)
+![](../src/proses/econ_tech/10.jpg)
 
 
 \newpage
@@ -313,7 +313,7 @@
 
 猴总老矣，尚能算否？
 
-![](../../src/proses/econ_tech/12.jpg)
+![](../src/proses/econ_tech/12.jpg)
 
 
 \newpage
@@ -420,7 +420,7 @@
 
 一言以蔽之, 资本主义就是工人辛苦劳动,资本家吃香喝辣, 小股民买单。
 
-![](../../src/proses/econ_tech/18.jpg)
+![](../src/proses/econ_tech/18.jpg)
  
 
 
@@ -473,7 +473,7 @@
 
 白人不干，就闹起来。
 
-![](../../src/proses/econ_tech/20.jpg)
+![](../src/proses/econ_tech/20.jpg)
 
 
 \newpage
@@ -544,7 +544,7 @@
 
 > “归去来兮，田园将芜胡不归！” - 陶渊明
 
-![](../../src/proses/econ_tech/22.jpg)
+![](../src/proses/econ_tech/22.jpg)
 
 
 \newpage
@@ -571,7 +571,7 @@
 
 包括美国人民在内的世界人民，应当三思，不可不察。
 
-![](../../src/proses/econ_tech/23.jpg)
+![](../src/proses/econ_tech/23.jpg)
 
 
 \newpage
@@ -592,7 +592,7 @@ Why？
 
 另外，文化和发展的关系应该不是单向的。发展也会影响文化。经济发达了，人们更加独立，而对集体的依赖会减少，因而个人主义程度会提高。
 
-![](../../src/proses/econ_tech/24.png)
+![](../src/proses/econ_tech/24.png)
 
 
 \newpage
@@ -607,7 +607,7 @@ Why？
 
 > Dr. 王不视
 
-![](../../src/proses/econ_tech/25.jpg)
+![](../src/proses/econ_tech/25.jpg)
 
 \newpage
 
@@ -630,7 +630,7 @@ Why？
 > 冷凳闲坐日如年，何妨横躺好春眠。  
 > 站着顾影易自怜，倒下反得一片天。
 
-![](../../src/proses/econ_tech/26.jpg)
+![](../src/proses/econ_tech/26.jpg)
 
 
 \newpage
@@ -650,7 +650,7 @@ Why？
 
 不明白的人还误以为他说的是中国。
 
-![](../../src/proses/econ_tech/27.jpg)
+![](../src/proses/econ_tech/27.jpg)
 
 
 \newpage
@@ -672,7 +672,7 @@ Nothing matters,  only people do.
 世上本无难事, 让人搞复杂了。  
 事本无关紧要, 只有人最重要。
 
-![](../../src/proses/econ_tech/29.jpg)
+![](../src/proses/econ_tech/29.jpg)
 
 \newpage
 
@@ -831,7 +831,7 @@ P股的历史和人类的历史一样长, 应该从人类祖先猴子那里开�
 汉字把复杂的自然现象和社会现象通过简单易懂的可视化方式表达出来，使得人们的沟通协更加作流畅高效，
 传统的文化习俗更加容易地代代相传。
 
-![](../../src/proses/econ_tech/38.jpg)
+![](../src/proses/econ_tech/38.jpg)
 
 
 \newpage
@@ -849,7 +849,7 @@ P股的历史和人类的历史一样长, 应该从人类祖先猴子那里开�
 
 > 立念在身，有知有见。有明有达。
 
-![](../../src/proses/econ_tech/9.jpg)
+![](../src/proses/econ_tech/9.jpg)
 
 
 

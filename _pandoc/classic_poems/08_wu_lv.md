@@ -22,7 +22,7 @@
 无为惆怅起，有感故情长。  
 安乐知随遇，时时见梓桑。
 
-![](../../src/classic_poems/wu_lv/01.jpg)
+![](../src/classic_poems/wu_lv/01.jpg)
 
 \newpage
 
@@ -39,7 +39,7 @@
 - 五眼联盟（FVEY）：美国，加拿大，英国，澳大利亚，新西兰。
 - 金砖五国（BRICS）：巴西，俄罗斯，印度，中国，南非。
 
-![](../../src/classic_poems/wu_lv/02.jpg)
+![](../src/classic_poems/wu_lv/02.jpg)
 
 
 \newpage
@@ -51,7 +51,7 @@
 韧性迎霜雪，柔情抚客襟。  
 蜂蝶无觅处，清净见禅心。
 
-![](../../src/classic_poems/wu_lv/03.jpg)
+![](../src/classic_poems/wu_lv/03.jpg)
 
 
 \newpage
@@ -77,7 +77,7 @@
 - 【易传 • 系辞 • 上】第一章开篇：“天尊地卑。乾坤定矣。卑高以陈。贵贱位矣。动静有常。刚柔断矣。” 讲的也是宇宙的自然秩序。
 - 人法地，地法天，天法道，道法自然。故人最终要回归自然。
 
-![](../../src/classic_poems/wu_lv/04.jpg)
+![](../src/classic_poems/wu_lv/04.jpg)
 
 \newpage
 
@@ -94,7 +94,7 @@
 - 这里空代表释（五蕴皆空），有代表儒（有责有为），无代表道（无为而治）。参见【猴哥悟空（一）】
 - 写于2016年猴年春节。
 
-![](../../src/classic_poems/wu_lv/05.jpg)
+![](../src/classic_poems/wu_lv/05.jpg)
 
 
 \newpage
@@ -106,7 +106,7 @@
 旅愁无处遣, 时运与谁悲？  
 纵有互联网, 怎如形影随。
 
-![](../../src/classic_poems/wu_lv/06.jpg)
+![](../src/classic_poems/wu_lv/06.jpg)
 
 
 \newpage
@@ -130,7 +130,7 @@
 
 注: 猴哥和猴友们住在福州西郊的建行干部学校, 夜晚大门上锁。半夜有人心情不好, 大家只好翻墙出去买酒和点心。
 
-![](../../src/classic_poems/wu_lv/08.jpg)
+![](../src/classic_poems/wu_lv/08.jpg)
 
 
 \newpage
@@ -159,7 +159,7 @@
 德国烤蹄膀和德国生啤是我们最爱。常去的另一家是比利时餐馆，它的布鲁塞尔青口（Mussels from Brussels）
 和比利时啤酒是我们必点的。四人中两人居住马里兰州，两人居住弗吉尼亚州。我们定期在马里兰州的一家韩国餐馆小聚，吃韩国烤肉，喝韩国烧酒。
 
-![](../../src/classic_poems/wu_lv/10.jpg)
+![](../src/classic_poems/wu_lv/10.jpg)
 
 \newpage
 
@@ -176,7 +176,7 @@
 > 据说这两棵松树由于根部几乎没有土层，虽然有一些年份，但它们一直长不大，
 > 然而它们的挺拔姿态，生生不息，抵御风雨的力量，足以让观者欣佩。”
 
-![](../../src/classic_poems/wu_lv/11.jpg)
+![](../src/classic_poems/wu_lv/11.jpg)
 
 \newpage
 
@@ -187,7 +187,7 @@
 新冠全球虐，流言网络登。  
 佳节多保重，人性必归真。
 
-![](../../src/classic_poems/wu_lv/12.png)
+![](../src/classic_poems/wu_lv/12.png)
 
 \newpage
 
@@ -208,7 +208,7 @@
 - 狮虎指狮子岩和虎头村。又指同学们如雄狮猛虎。
 - 煮酒出自三国演义煮酒论英雄。曹操刘备一代枭雄，犹如狮虎。
 
-![](../../src/classic_poems/wu_lv/13.png)
+![](../src/classic_poems/wu_lv/13.png)
 
 附：
 
@@ -238,7 +238,7 @@
 - 青帝为古代春神，负责花草树木。唐末农民起义领袖黄巢的【题菊花】写 "他年我若为青帝，报与桃花一处开。"
 - 菩道，指弘扬佛法，普渡众生之菩提道，菩萨道。
 
-![](../../src/classic_poems/wu_lv/14.jpg)
+![](../src/classic_poems/wu_lv/14.jpg)
 
 朋友提示，这枝野花是剑兰。百度一下，大吃一惊。原来剑兰还是名花，与玫瑰、康乃馨、扶郎花一起被誉为“世界四大切花”。
 
@@ -271,9 +271,9 @@
 风摧枝欲坠，雪覆草经衰。  
 松鼠知花季，缘来果自开。
 
-![](../../src/classic_poems/wu_lv/15a.jpg)
+![](../src/classic_poems/wu_lv/15a.jpg)
 
-![](../../src/classic_poems/wu_lv/15b.jpg)
+![](../src/classic_poems/wu_lv/15b.jpg)
 
 \newpage
 
@@ -297,7 +297,7 @@
 
 > “夫吴人与越人相恶也，当其同舟共济，遇风，其相救也如左右手。” 
 
-![](../../src/classic_poems/wu_lv/17.jpg)
+![](../src/classic_poems/wu_lv/17.jpg)
 
 \newpage
 
@@ -338,7 +338,7 @@
 - 民主党内又细分建制派，进步派，和激进派；
 - 共和党内又细分基督保守派，建制派，温和派，自由派，和茶党。
 
-![](../../src/classic_poems/wu_lv/18.png)
+![](../src/classic_poems/wu_lv/18.png)
 
 \newpage
 

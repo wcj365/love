@@ -128,7 +128,7 @@
   - KISS是“Keep It Simple and Sweet”（保持简单和甜蜜）的缩写。
   - KISS 也是“Keep It Simple and Stupid”（保持简单合糊涂）的缩写。
 
-![](../../src/modern_poems/love/04.jpg)
+![](../src/modern_poems/love/04.jpg)
 
 \newpage
 
@@ -190,7 +190,7 @@
 温馨最简易  
 只要我和你
 
-![](../../src/modern_poems/love/05.jpg)
+![](../src/modern_poems/love/05.jpg)
 
 
 \newpage
@@ -311,7 +311,7 @@
 - “三十功名尘与土，八千里路云和月。莫等闲，白了少年头，空悲切。” 出自南宋爱国诗人岳飞的《满江红》。
 - 【Sealed With A Kiss 以吻封缄】是一首英文老，十分优美动听。
  
-![](../../src/modern_poems/love/08.jpg)
+![](../src/modern_poems/love/08.jpg)
 
 \newpage
 

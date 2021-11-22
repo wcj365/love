@@ -27,7 +27,7 @@
 
 相信一个既能深谋远虑，又能克己奉公的文化会永远立于不衰之地。
 
-![](../../src/proses/politics/02.png)
+![](../src/proses/politics/02.png)
 
 \newpage
 
@@ -43,9 +43,9 @@
 
 德法意三国比较独立，其中一个重要因素是它们都有自己独特的语言和文化。
 
-![](../../src/proses/politics/03a.png)
+![](../src/proses/politics/03a.png)
 
-![](../../src/proses/politics/03b.png)
+![](../src/proses/politics/03b.png)
 
 \newpage
 
@@ -61,9 +61,9 @@
 
 伊拉克战争和阿富汗战争，前车之鉴，不可不察。
 
-![](../../src/proses/politics/04a.png)
+![](../src/proses/politics/04a.png)
 
-![](../../src/proses/politics/04b.png)
+![](../src/proses/politics/04b.png)
 
 \newpage
 
@@ -82,7 +82,7 @@
 - 右下角是富而不强的国家，除了日本，韩国，和沙特以外，其余是西方发达国家。
 - 左下角是既不富又不强的国家，它们分布在南亚，东南亚，拉丁美洲，中东，和东欧。印度是其中最强也最穷的一个。
 
-![](../../src/proses/politics/05.png)
+![](../src/proses/politics/05.png)
 
 \newpage
 
@@ -144,9 +144,9 @@ Chindius = China + India + US
 共同解决全球面临的各种难题，
 人类的未来将会更加美好。
 
-![](../../src/proses/politics/07a.png)
+![](../src/proses/politics/07a.png)
 
-![](../../src/proses/politics/07b.png)
+![](../src/proses/politics/07b.png)
 
 \newpage
 
@@ -163,9 +163,9 @@ Chindius = China + India + US
 
 图二比较中国和美国过去三十年的发展变化。中国的气泡（人均GDP）比美国小，中国2019年的人均GDP还不到美国1990的水平。中国的预期寿命三十年来不断提高，逐渐接近美国。生育率上世纪90年代一直下降，世纪末开始回升，逐步接近美国。
 
-![](../../src/proses/politics/08a.png)
+![](../src/proses/politics/08a.png)
 
-![](../../src/proses/politics/08b.png)
+![](../src/proses/politics/08b.png)
 
 \newpage
 
@@ -183,11 +183,11 @@ Chindius = China + India + US
 
 世界各国本该同心协力，解决争端，对付危机，促进和平。这是理想。但现实残酷。
 
-![](../../src/proses/politics/09a.png)
+![](../src/proses/politics/09a.png)
 
-![](../../src/proses/politics/09b.png)
+![](../src/proses/politics/09b.png)
 
-![](../../src/proses/politics/09c.png)
+![](../src/proses/politics/09c.png)
 
 \newpage
 
@@ -358,7 +358,7 @@ Chindius = China + India + US
 
 三学和谐，世界和平。
 
-![](../../src/proses/politics/16.png)
+![](../src/proses/politics/16.png)
 
 
 \newpage
@@ -392,12 +392,12 @@ Chindius = China + India + US
 图一显示的是所有国家，每一个点代表一个国家，点的颜色代表国家所在地区。
 可以看出点的分布松散随机，显示世界文化的多样化。
 
-![](../../src/proses/politics/17a.png)
+![](../src/proses/politics/17a.png)
 
 图二把中国和五眼联盟放在一起作比较，可以看出， 五眼联盟的五个国家文化十分相近，形成一个聚类。
 而中国文化金鸡独立，与五眼联盟相距甚远。
 
-![](../../src/proses/politics/17b.png)
+![](../src/proses/politics/17b.png)
 
 
 \newpage
@@ -430,7 +430,7 @@ Chindius = China + India + US
 过去半个世纪的全球化，中国的崛起。美国国内少数族裔人口的增加，要求更公正，平等的待遇和机会。
 他们一下子不适应。还想用老一套的做法来统治世界，治理国家。
 
-![](../../src/proses/politics/18.jpg)
+![](../src/proses/politics/18.jpg)
 
 \newpage
 

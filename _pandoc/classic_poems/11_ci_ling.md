@@ -117,7 +117,7 @@
 岸边垂钓，  
 不急不恼不愁。
 
-![](../../src/classic_poems/ci_ling/06.jpg)
+![](../src/classic_poems/ci_ling/06.jpg)
 
 
 \newpage
@@ -178,7 +178,7 @@
 超生题  
 7。3。 
 
-![](../../src/classic_poems/ci_ling/10.jpg)
+![](../src/classic_poems/ci_ling/10.jpg)
 
 \newpage
 
@@ -232,7 +232,7 @@
 江水长，湖水长，  
 湖水流江去不还，佳人正凭栏。
 
-![](../../src/classic_poems/ci_ling/13.jpg)
+![](../src/classic_poems/ci_ling/13.jpg)
 
 \newpage
 

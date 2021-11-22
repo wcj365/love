@@ -60,7 +60,7 @@
 
 客人已经醉了好几回, 大家还不过瘾, 接着使劲灌酒。反正醉酒上飞机正好呼呼大睡。
  
-![](../../src/proses/poetry/02.png)
+![](../src/proses/poetry/02.png)
 
 \newpage
 
@@ -208,7 +208,7 @@
 
 今天你有烦恼, 请读读这首诗。 
 
-![](../../src/proses/poetry/06.jpg)
+![](../src/proses/poetry/06.jpg)
 
 \newpage
 
@@ -307,7 +307,7 @@ How Good You Are!
 
 让我想起"独在异乡为异客"。 异者才孤独，才寂寞。这里又会联想到屈原。路慢慢。独醒。独清。
 
-![](../../src/proses/poetry/10.png)
+![](../src/proses/poetry/10.png)
 
 \newpage
 

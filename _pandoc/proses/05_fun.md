@@ -25,7 +25,7 @@
 
 假如你的爱情出现问题，不凡问问自己爱情的地基还稳固吗？爱情的房间是否还温馨？爱情的屋顶有没有漏洞？
 
-![](../../src/proses/fun/01.jpg)
+![](../src/proses/fun/01.jpg)
 
 
 \newpage
@@ -84,7 +84,7 @@
 这张照片里有一群女运动员跑在他后面，他急匆匆，不时看表。
 比赛结束，他有感而发，写了一首诙谐的英文小诗。我把它翻成中文，与大家共享。
 
-![](../../src/proses/fun/04a.png)
+![](../src/proses/fun/04a.png)
 
 > 【Chased by Girls - Old Li】   
 > But I am late   
@@ -105,7 +105,7 @@
 
 无独有偶，更确切地说是“近墨者黑”，我在十月十五日参赛巴尔的摩马拉松，也有类似的一张相片。后面跟着一群女运动员。不过我慢悠悠，一点不急。我东施效颦，也写了一首。
 
-![](../../src/proses/fun/04b.png)
+![](../src/proses/fun/04b.png)
 
 > 【Chased by Girls – Monkey】  
 > You don't have to be hasty  
@@ -251,7 +251,7 @@
 
 掌握了这三项基本原则，你的天生的创造力就会给你很多具体的妙法。
 
-![](../../src/proses/fun/08.gif)
+![](../src/proses/fun/08.gif)
 
 
 \newpage
@@ -277,7 +277,7 @@
 
 难怪中国经济增长比美国高那么多。
 
-![](../../src/proses/fun/09.png)
+![](../src/proses/fun/09.png)
 
 
 \newpage
@@ -395,11 +395,11 @@
 
 女生们，想一想你的视窗有几个？
 
-![](../../src/proses/fun/15a.jpg)
+![](../src/proses/fun/15a.jpg)
 
 图一：八十年代的老式微机 - 看那显示器有多胖多土。
 
-![](../../src/proses/fun/15b.jpg)
+![](../src/proses/fun/15b.jpg)
  
 图二：二十一世纪新式微机。看那显示器有多薄多酷；键盘几乎没有变化；小小的鼠标却神通广大。
 
@@ -448,9 +448,9 @@
 
 我谢了律师，高高兴兴回到家。老婆端上热腾腾香喷喷的一盘丝瓜。我边吃边自言自语，"到底是法治好呢还是人治好?"。老婆在边上冷冷地回应，"你什么事都爱上纲上线。法治人治，关你啥事? 没有女人，世界没治!"
 
-![](../../src/proses/fun/18a.jpg)
+![](../src/proses/fun/18a.jpg)
 
-![](../../src/proses/fun/18b.jpg)
+![](../src/proses/fun/18b.jpg)
 
 
 \newpage
@@ -465,7 +465,7 @@
 
 旅居海外就是这样，洋文不地道，中文还退步。
 
-![](../../src/proses/fun/19.jpg)
+![](../src/proses/fun/19.jpg)
 
 
 \newpage
@@ -484,7 +484,7 @@
 
 没想到猴婆气乎乎，立马回应“是离婚！”。  
 
-![](../../src/proses/fun/20.jpg)
+![](../src/proses/fun/20.jpg)
 
 
 \newpage
@@ -499,7 +499,7 @@
 
 猴哥突然在想，猴婆五十岁生日送什么礼物? 可以考虑送一副老花镜，并在生日贺卡上写"Eye Love You"。
 
-![](../../src/proses/fun/21.jpg)
+![](../src/proses/fun/21.jpg)
 
 \newpage
 
@@ -532,7 +532,7 @@
 
 另一方面也说明为人父是一件很难的事。必须牺牲自我，修身历练。
 
-![](../../src/proses/fun/23.jpg)
+![](../src/proses/fun/23.jpg)
 
 
 \newpage
@@ -628,7 +628,7 @@
 你可懂得  
 我的苦口婆心?
 
-![](../../src/proses/fun/27.jpg)
+![](../src/proses/fun/27.jpg)
 
 \newpage
 
@@ -701,7 +701,7 @@
 
 注：鸡帝屁乃指GDP。几十年来不顾全局，片面追求GDP的高速增长是腐败和道德沦丧的根源。
 
-![](../../src/proses/fun/30.png)
+![](../src/proses/fun/30.png)
 
 \newpage
 
@@ -725,7 +725,7 @@
 > 老老学习，天天向内。    
 > 不上不下，俺是老中。
 
-![](../../src/proses/fun/31.png)
+![](../src/proses/fun/31.png)
 
 
 \newpage
@@ -798,7 +798,7 @@
 >
 > 电邮: dr-yu-ren-jie@april-first.com (字数请控制在41字以内，余教授时间宝贵)
 
-![](../../src/proses/fun/34.jpg)
+![](../src/proses/fun/34.jpg)
 
 \newpage
 
@@ -834,7 +834,7 @@
 
 注：余教授因为两周前涉及百慕大考古事件被美国联邦调查局约谈。哥伦比亚大学迫于政府压力，以有潜在危害国家安全为由把余教授辞退。余教授为生计所迫，不得不改行当记者。
 
-![](../../src/proses/fun/35.jpg)
+![](../src/proses/fun/35.jpg)
 
 \newpage
 

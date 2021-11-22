@@ -25,7 +25,7 @@
 
 汉字作为最古老，最美妙的数据可视化， 从穆字便可略见一斑。
 
-![](../../src/proses/wordgame/01.jpg)
+![](../src/proses/wordgame/01.jpg)
 
 
 \newpage
@@ -174,7 +174,7 @@
 - 再次是个人的敬业和努力。一切都体现在实践和实战(Practice)中，要有高质量的产品 (Product)和绩效 (Performance)。否则名不副实。要walk the walk, 不要talk the talk。 就是多做少说。老实为人，踏实做事。
 -	最后就是要有明确的人生目的和事业目标(Purpose)。你想要什么？你的组织需要什么？个人和组织两者要合拍一致。另外为人做事要有底线和原则(Principle)，不可失责，违规，犯法。实现理想还要靠毅力和坚持 (perseverance, Persistence)。 
 
-![](../../src/proses/wordgame/06.png)
+![](../src/proses/wordgame/06.png)
 
 \newpage
 
@@ -319,7 +319,7 @@
 当我们达到这样一个境界时，就可以从从容容地和天上白云平起平坐，指点苍穹， 笑谈尘世，煮酒论英雄了。
 
  
-![](../../src/proses/wordgame/12.jpg)
+![](../src/proses/wordgame/12.jpg)
 
 \newpage
 
@@ -512,7 +512,7 @@ P则不同，先直线上升到峰值，然后市场调整跌到半途打住，�
 
 成亲那一天, 从胡建省胡州市西湖公园飞来一只美丽的蝴蝶, 为他们祝胡。
 
-![](../../src/proses/wordgame/23.jpg)
+![](../src/proses/wordgame/23.jpg)
 
  
 
@@ -559,7 +559,7 @@ bo 和 re 合在一起便是英文 bore, 意思是无聊。 比如：
 
 哪天你觉得无聊，你离般若的禅境其实就不远了。
 
-![](../../src/proses/wordgame/25.png)
+![](../src/proses/wordgame/25.png)
 
 
 \newpage
@@ -580,7 +580,7 @@ bo 和 re 合在一起便是英文 bore, 意思是无聊。 比如：
 
 注：三摩地，三藐三菩提，菩提，和般若都是从梵文或巴利文音译过来。它们意思相近，都是指修行达到的最高境界，亦称无上正觉。
 
-![](../../src/proses/wordgame/26.jpg)
+![](../src/proses/wordgame/26.jpg)
 
 
 \newpage
@@ -601,7 +601,7 @@ bo 和 re 合在一起便是英文 bore, 意思是无聊。 比如：
 
 顺便提一下，大家熟悉的Rest通常是“休息”的意思， 比如“Take a good rest”就是“好好休息一下"。
 
-![](../../src/proses/wordgame/27.jpg)
+![](../src/proses/wordgame/27.jpg)
 
 
 \newpage
@@ -616,7 +616,7 @@ bo 和 re 合在一起便是英文 bore, 意思是无聊。 比如：
 
 今天, 你慈善了吗?
 
-![](../../src/proses/wordgame/28.jpg)
+![](../src/proses/wordgame/28.jpg)
 
 
 \newpage

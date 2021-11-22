@@ -17,7 +17,7 @@
 候鸟思归羁海角，坚冰欲破志天涯。  
 岸边孤影曾清瘦，野径寻踪问落霞。
 
-![](../../src/classic_poems/qi_lv/02.jpg)
+![](../src/classic_poems/qi_lv/02.jpg)
 
 
 \newpage
@@ -111,7 +111,7 @@
 - 那天群众问撒野详情, 猴哥吱吱唔唔, 羞于启齿, 还好群主解围, 回答大家 “猴哥大闹天宫” 。
 真是一言以蔽之。我惊叹领导英明的同时, 暗问: how do you know? (猴肚又闹) 
 
-![](../../src/classic_poems/qi_lv/09.jpg)
+![](../src/classic_poems/qi_lv/09.jpg)
 
 \newpage
 
@@ -139,7 +139,7 @@
 - 2014年夏天猴哥和清华校友，跑友，兼邻居刘晔发起成立马里兰州哈维郡华人跑群，取名“知足常跑”。
 - 足有双意，既是满足，又是跑步之足。刘君为群主，管理有方，群众多达二百余人。
 
-![](../../src/classic_poems/qi_lv/11.jpg)
+![](../src/classic_poems/qi_lv/11.jpg)
 
 \newpage
 
@@ -205,7 +205,7 @@
   - 诗词 (Poetry)
   - 程序 (Programming)
 
-![](../../src/classic_poems/qi_lv/14.png)
+![](../src/classic_poems/qi_lv/14.png)
 
 \newpage
 
@@ -240,9 +240,9 @@
 东日尚晴天，红梅映眼前。  
 凌霄观自在，云水意如莲。
 
-![](../../src/classic_poems/qi_lv/15a.jpg)
+![](../src/classic_poems/qi_lv/15a.jpg)
 
-![](../../src/classic_poems/qi_lv/15b.jpg)
+![](../src/classic_poems/qi_lv/15b.jpg)
 
 \newpage
 
@@ -255,9 +255,9 @@
 
 注：我祖父的生平，参见[【不能不知道的人物：穆阳水蜜桃的开拓者缪怀琛！】](https://mp.weixin.qq.com/s/yHeTOYSul2H7movGAnC7BA)
 
-![](../../src/classic_poems/qi_lv/16a.jpg)
+![](../src/classic_poems/qi_lv/16a.jpg)
 
-![](../../src/classic_poems/qi_lv/16b.jpg)
+![](../src/classic_poems/qi_lv/16b.jpg)
 
 \newpage
 
@@ -268,9 +268,9 @@
 庭前残雪身心净，院后疏林骨气华。  
 节气轮回缘日月，情思变幻似云霞。
 
-![](../../src/classic_poems/qi_lv/17a.jpg)
+![](../src/classic_poems/qi_lv/17a.jpg)
 
-![](../../src/classic_poems/qi_lv/17b.jpg)
+![](../src/classic_poems/qi_lv/17b.jpg)
 
 \newpage
 
@@ -281,7 +281,7 @@
 仲尼济世德为本，黄帝疗疾养在先。    
 八卦太极穷万变，阴阳互补尽绵延。
 
-![](../../src/classic_poems/qi_lv/18.jpg)
+![](../src/classic_poems/qi_lv/18.jpg)
 
 注：【礼仪】“夫人伦之道,以德为本。至德以孝为先。”
 

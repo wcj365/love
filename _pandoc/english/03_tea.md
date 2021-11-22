@@ -65,7 +65,7 @@ take the time to brew the conversation slowly. You will be amazed by the results
 Tea, talk and time are the most powerful trio that works in tandem to 
 enrich, enhance and enlighten our lives.
 
-![](../../src/english/tea/01.jpg)
+![](../src/english/tea/01.jpg)
 
 \newpage
 
@@ -117,7 +117,7 @@ It may be time to slow down a little bit and to get back to the basics of life.
 Tea can help in many ways with its powerful healing power and the lesson it 
 teaches us about time and timing.
 
-![](../../src/english/tea/02.jpg)
+![](../src/english/tea/02.jpg)
 
 \newpage
 

@@ -31,7 +31,7 @@
 芽叶浮沉自在游，色泽深浅见春秋。  
 清汤冷热随冬夏，香气淡浓禅意留。
 
-![](../../src/classic_poems/wu_jue/02.jpg)
+![](../src/classic_poems/wu_jue/02.jpg)
 
 
 \newpage
@@ -69,7 +69,7 @@
 东西明月异，今古客心同。  
 微信虽神妙，乡愁怕太浓。
 
-![](../../src/classic_poems/wu_jue/05.jpg)
+![](../src/classic_poems/wu_jue/05.jpg)
 
 \newpage
 
@@ -78,7 +78,7 @@
 父道与天同, 茫茫四宇中。  
 无穷江海水, 万物尽葱葱。
 
-![](../../src/classic_poems/wu_jue/06.jpg)
+![](../src/classic_poems/wu_jue/06.jpg)
 
 \newpage
 
@@ -87,7 +87,7 @@
 远客家乡至, 幽林众鸟欢。   
 火红枫叶美, 应谢降秋霜。 
 
-![](../../src/classic_poems/wu_jue/07.jpg)
+![](../src/classic_poems/wu_jue/07.jpg)
 
 
 \newpage
@@ -97,7 +97,7 @@
 窗前几朵开，窗外一片白。  
 望雪心方净，观花念又来。
 
-![](../../src/classic_poems/wu_jue/08.png)
+![](../src/classic_poems/wu_jue/08.png)
 
 \newpage
 
@@ -126,7 +126,7 @@
 孤帆逆水行，远影浪峰轻。  
 碧海长空尽，欲泊何处停？
 
-![](../../src/classic_poems/wu_jue/11.jpg)
+![](../src/classic_poems/wu_jue/11.jpg)
 
 \newpage
 
@@ -302,7 +302,7 @@ I rather bare my bottom
 迷雾随流水，炊烟绕远山。  
 无缘尘世见，相遇在云端。
 
-![](../../src/classic_poems/wu_jue/26.jpg)
+![](../src/classic_poems/wu_jue/26.jpg)
 
 
 
@@ -318,7 +318,7 @@ I rather bare my bottom
 多情山俊秀，寡欲水常流。    
 天地菩提树，何须世外求?
 
-![](../../src/classic_poems/wu_jue/27.jpg)
+![](../src/classic_poems/wu_jue/27.jpg)
 
 \newpage
 
@@ -337,7 +337,7 @@ I rather bare my bottom
 三桃你我她，绿叶缀枝丫。  
 甜蜜家乡水，何时到海涯?
 
-![](../../src/classic_poems/wu_jue/29.jpg)
+![](../src/classic_poems/wu_jue/29.jpg)
 
 \newpage
 
@@ -346,9 +346,9 @@ I rather bare my bottom
 北美芳菲尽，老家梅李酸。   
 悄悄吞口水，回味旧时欢。
 
-![](../../src/classic_poems/wu_jue/30a.jpg)
+![](../src/classic_poems/wu_jue/30a.jpg)
 
-![](../../src/classic_poems/wu_jue/30b.jpg)
+![](../src/classic_poems/wu_jue/30b.jpg)
 
 \newpage
 
@@ -364,7 +364,7 @@ I rather bare my bottom
   - 二是呆傻。异客痴呆，与众不同，与野花一样寂寞清净，无人问津。
 - 想起屈原的"举世皆浊我独清，众人皆醉我独醒。是以见放。”
 
-![](../../src/classic_poems/wu_jue/31.jpg)
+![](../src/classic_poems/wu_jue/31.jpg)
 
 \newpage
 
@@ -373,7 +373,7 @@ I rather bare my bottom
 残月半空临，孤灯照客心。   
 无言谁自语？欲说有谁听？
 
-![](../../src/classic_poems/wu_jue/32.jpg)
+![](../src/classic_poems/wu_jue/32.jpg)
 
 \newpage
 
@@ -382,7 +382,7 @@ I rather bare my bottom
 网乃人编织，缚人难缚仙。   
 小庭闲信步，天地阔无边。
 
-![](../../src/classic_poems/wu_jue/33.jpg)
+![](../src/classic_poems/wu_jue/33.jpg)
 
 \newpage
 
@@ -405,7 +405,7 @@ I rather bare my bottom
 野岸无舟廓，江天映晚红。  
 临风添妩媚，浩气寄苍穹。
 
-![](../../src/classic_poems/wu_jue/34.jpg)
+![](../src/classic_poems/wu_jue/34.jpg)
 
 \newpage
 
@@ -421,7 +421,7 @@ I rather bare my bottom
 - 这里效仿贾岛的名句“二句三年得，一吟双泪流”和杜甫的名句“文章千古事，得失寸心知”。
 - 借此展示一下码农的看家本领 (trade secret): 拷贝和粘贴 (copy and paste) 
 
-![](../../src/classic_poems/wu_jue/35.jpg)
+![](../src/classic_poems/wu_jue/35.jpg)
 
 
 \newpage
@@ -439,7 +439,7 @@ I rather bare my bottom
 
 注：石马兜又称雨巷, [历史](https://kknews.cc/zh-sg/history/6943n63.html)。
 
-![](../../src/classic_poems/wu_jue/36.jpg)
+![](../src/classic_poems/wu_jue/36.jpg)
 
 \newpage
 
@@ -448,7 +448,7 @@ I rather bare my bottom
 空中月半明，枝上叶双轻。  
 风过云无影，为何不见星?
 
-![](../../src/classic_poems/wu_jue/37.jpg)
+![](../src/classic_poems/wu_jue/37.jpg)
 
 \newpage
 
@@ -457,7 +457,7 @@ I rather bare my bottom
 天湖落世间，垂钓四神仙。  
 不见鱼儿跳，棹横舟自闲。
 
-![](../../src/classic_poems/wu_jue/38.jpg)
+![](../src/classic_poems/wu_jue/38.jpg)
 
 附: 缪锐萍【点绛唇 • 江舟垂钓】
 
@@ -479,9 +479,9 @@ I rather bare my bottom
 
 十里长堤惊拍岸，万古钱塘如梦幻。如梦幻，不羁岁月，几回豪放？
 
-![](../../src/classic_poems/wu_jue/39a.jpg)
+![](../src/classic_poems/wu_jue/39a.jpg)
 
-![](../../src/classic_poems/wu_jue/39b.jpg)
+![](../src/classic_poems/wu_jue/39b.jpg)
 
 \newpage
 

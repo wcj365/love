@@ -70,7 +70,7 @@
 - "人无德不立，业无德不兴，国无德不威"出自西汉刘向【战国策】
 - “兴，百姓苦; 亡，百姓苦" 出自元朝张养浩【山坡羊·潼关怀古】 
 
-![](../../src/proses/wisdom/03.jpg)
+![](../src/proses/wisdom/03.jpg)
 
 
 \newpage
@@ -95,7 +95,7 @@
 最后，人的身体只需要有限的食物，吃多了造成负担而生病折寿；同样，人的大脑不需要也不能承受过多的信息。 
 信息过量，会造成头脑不清。所以，人们不仅要**忌口以保持身体健康**，还要**忌眼以保持精神健康**。
 
-![](../../src/proses/wisdom/04.jpg)
+![](../src/proses/wisdom/04.jpg)
 
 
 
@@ -217,7 +217,7 @@
 
 “这辈子注定你是庸才，我是蠢才；但转世必定你是英才，我是伟才。” 
 
-![](../../src/proses/wisdom/09.jpg)
+![](../src/proses/wisdom/09.jpg)
 
 
 \newpage
@@ -332,7 +332,7 @@
 
 儒释道易，东方文化之精髓。
 
-![](../../src/proses/wisdom/14.jpg)
+![](../src/proses/wisdom/14.jpg)
 
 
 \newpage
@@ -361,7 +361,7 @@
 佛教不是深奥莫测的空，不可捉摸的悟，不切实际的禅。佛教是实实在在的做人之道。
 我们每个人要是能做到《无量寿经》这简短浅显的十六个字，我们就成佛了， 家庭就和睦了， 社会就和谐了，世界就和平了。
 
-![](../../src/proses/wisdom/15.jpg)
+![](../src/proses/wisdom/15.jpg)
 
 \newpage
 
@@ -382,7 +382,7 @@
 
 前者是小乘，后者是大乘。西瓜大的甜，饺子小的香。小乘大乘，都是佛法，各有千秋，皆我所爱。
 
-![](../../src/proses/wisdom/16.png)
+![](../src/proses/wisdom/16.png)
 
 \newpage
 
@@ -406,7 +406,7 @@
 
 龙刚走不远，听到虎大吼: "龙哥，你的山珍是不是从我岛上偷的?"
 
-![](../../src/proses/wisdom/17.jpg)
+![](../src/proses/wisdom/17.jpg)
 
 
 \newpage
@@ -435,7 +435,7 @@
 
 虎只好回到它的群里，和它的虾兵蟹将，狐仙狼士商量对策。
 
-![](../../src/proses/wisdom/18.jpg)
+![](../src/proses/wisdom/18.jpg)
 
 
 
@@ -499,7 +499,7 @@
 
 东西半球构成世界的一个整体，犹如阴和阳构成太极的一个整体。东西半球失衡，地球在宇宙之中就不稳定，搞不好要掉下来的。大家要特别注意。
 
-![](../../src/proses/wisdom/20.png)
+![](../src/proses/wisdom/20.png)
 
 \newpage
 
@@ -624,7 +624,7 @@
 - Happiness - 幸福
 - Harmony - 和谐
 
-![](../../src/proses/wisdom/25.jpg)
+![](../src/proses/wisdom/25.jpg)
 
 
 \newpage
@@ -688,7 +688,7 @@
 
 佛陀的法和老子的道都是讲宇宙，自然，和人类的因果关系及变化规律。这种因果关系精深玄妙，才不可言说；这种变化规律不以人的意志为转移，所以人才不可妄为。
 
-![](../../src/proses/wisdom/27.jpg)
+![](../src/proses/wisdom/27.jpg)
 
 \newpage
 
@@ -710,7 +710,7 @@
 空气， 肉眼看不见，似无；  
 然而空气中充满生命不可或缺的氧气和对人体有害的微尘，乃有。
 
-![](../../src/proses/wisdom/28.jpg)
+![](../src/proses/wisdom/28.jpg)
  
 
 
@@ -756,7 +756,7 @@
 
 西方列强及其政客要能学点佛的智慧，这个世界就不会这样不公平和不安宁。
 
-![](../../src/proses/wisdom/30.jpg)
+![](../src/proses/wisdom/30.jpg)
 
 
 \newpage
@@ -789,7 +789,7 @@
 
 > 大道无形
 
-![](../../src/proses/wisdom/31.jpg)
+![](../src/proses/wisdom/31.jpg)
 
 
 \newpage
@@ -818,7 +818,7 @@
 
 只有松以律己，才能从容淡定。只有把自己搞定了，才能有耐心和细心去关爱他人。
 
-![](../../src/proses/wisdom/32.jpg)
+![](../src/proses/wisdom/32.jpg)
 
 
 \newpage
@@ -833,7 +833,7 @@
 
 烧香拜佛求菩萨，都不管用。因为佛说，你自心有佛，自救吧。
 
-![](../../src/proses/wisdom/33.jpg)
+![](../src/proses/wisdom/33.jpg)
 
 \newpage
 
@@ -849,7 +849,7 @@
 
 不过我要感恩云的慷概。她带来的雨露滋润万物，助我腰杆挺直，枝叶葱绿。特别是秋燥冬寒的季节，让我望云止渴直到春天来临。
 
-![](../../src/proses/wisdom/34.jpg)
+![](../src/proses/wisdom/34.jpg)
 
 \newpage
 
@@ -923,7 +923,7 @@
 无常深处藏因果，苦因结果即轮回。  
 通达彼岸从何始? 平等慈悲智慧随。
 
-![](../../src/proses/wisdom/35.png)
+![](../src/proses/wisdom/35.png)
 
 \newpage
 
@@ -947,7 +947,7 @@
 > 佛與眾生性不異，凡夫見異聖無差。  
 > 【大乘理趣經】
 
-![](../../src/proses/wisdom/36.png)
+![](../src/proses/wisdom/36.png)
 
 \newpage
 
@@ -984,7 +984,7 @@
 
 所以人不能光有气，还要有度。这就是气度。
 
-![](../../src/proses/wisdom/38.jpg)
+![](../src/proses/wisdom/38.jpg)
 
 
 \newpage
@@ -1013,7 +1013,7 @@
 
 我执不除，人类就会在烦恼和苦难中执迷不悟，不得解脱。
 
-![](../../src/proses/wisdom/39.jpg)
+![](../src/proses/wisdom/39.jpg)
 
 \newpage
 
@@ -1080,7 +1080,7 @@
 
 所以道家崇尚自然，反对虚伪；崇尚自由，反对约束；崇尚个性，反对苟同；崇尚无为，反对妄为；崇尚快乐，反对苦行。
 
-![](../../src/proses/wisdom/42.png)
+![](../src/proses/wisdom/42.png)
 
 \newpage
 
@@ -1126,7 +1126,7 @@
 我: 就像我的老脸一张?  
 镜: No。我只照见童心一颗。
 
-![](../../src/proses/wisdom/44.jpg)
+![](../src/proses/wisdom/44.jpg)
 
 \newpage
 
@@ -1171,9 +1171,9 @@
 问：那......  
 答：你再问，我跟你急！
 
-![](../../src/proses/wisdom/46a.jpg)
+![](../src/proses/wisdom/46a.jpg)
 
-![](../../src/proses/wisdom/46b.jpg)
+![](../src/proses/wisdom/46b.jpg)
 
 
 \newpage
@@ -1205,7 +1205,7 @@ SMART方法是一种基于目标的管理方法，好的目标必须具有如下
 - R（Relevant)：要有实际意义，不要假大空
 - T（Time-based)：要定时完成，不要无限拖延
 
-![](../../src/proses/wisdom/47.png)
+![](../src/proses/wisdom/47.png)
 
 \newpage
 
@@ -1255,7 +1255,7 @@ SMART方法是一种基于目标的管理方法，好的目标必须具有如下
 数字加汉字是美的平方;  
 再加佛法就是美的立方。
 
-![](../../src/proses/wisdom/49.png)
+![](../src/proses/wisdom/49.png)
 
 \newpage
 
@@ -1272,9 +1272,9 @@ SMART方法是一种基于目标的管理方法，好的目标必须具有如下
 学法度己，传法助人。
 法喜充满，不亦乐乎。
 
-![](../../src/proses/wisdom/50a.png)
+![](../src/proses/wisdom/50a.png)
 
-![](../../src/proses/wisdom/50b.png)
+![](../src/proses/wisdom/50b.png)
 
 
 \newpage
@@ -1309,7 +1309,7 @@ SMART方法是一种基于目标的管理方法，好的目标必须具有如下
 - 三经：【易经】，【山海经】，【黄帝内经】，统称上古三大奇书。
 - 三教： 释，道，儒。
 
-![](../../src/proses/wisdom/52.png)
+![](../src/proses/wisdom/52.png)
 
 \newpage
 
@@ -1325,7 +1325,7 @@ SMART方法是一种基于目标的管理方法，好的目标必须具有如下
 
 科学，道学，佛学，各有千秋。三学兼修，知天识命。
 
-![](../../src/proses/wisdom/53.png)
+![](../src/proses/wisdom/53.png)
 
 \newpage
 
@@ -1402,7 +1402,7 @@ SMART方法是一种基于目标的管理方法，好的目标必须具有如下
 
 这个结论可以推而广之，用来比较科学与哲学之别，西方文化与东方文化之别。
 
-![](../../src/proses/wisdom/57.jpg)
+![](../src/proses/wisdom/57.jpg)
 
 
 \newpage

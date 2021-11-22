@@ -5,7 +5,7 @@
 越野穿林返水边，春风吹皱半湖天。  
 闲云莫恼妆无镜，吾性空明映大千。
 
-![](../../src/classic_poems/qi_jue/01.jpg)
+![](../src/classic_poems/qi_jue/01.jpg)
 
 附：
 
@@ -35,7 +35,7 @@
 楫棹无分长与短，同舟共命济八方。  
 身居曹府心牵汉，欲架高桥系两强。
 
-![](../../src/classic_poems/qi_jue/02.jpg)
+![](../src/classic_poems/qi_jue/02.jpg)
 
 
 \newpage
@@ -54,7 +54,7 @@
 夜眠冻醒月如霜，晨起添衣御早凉。  
 欲作悲秋伤感赋，林中红叶映门窗。
 
-![](../../src/classic_poems/qi_jue/04.jpg)
+![](../src/classic_poems/qi_jue/04.jpg)
 
 \newpage
 
@@ -63,7 +63,7 @@
 今宵明月洒清辉，似近还遥不忍窥。  
 怀旧本来无定日，为何此刻最思归。
 
-![](../../src/classic_poems/qi_jue/05.jpg)
+![](../src/classic_poems/qi_jue/05.jpg)
 
 
 \newpage
@@ -73,7 +73,7 @@
 别情离绪几时休，愧对浮云问去留。  
 应笑庄生心志远，迷蝶渡海梦难求。
 
-![](../../src/classic_poems/qi_jue/06.jpg)
+![](../src/classic_poems/qi_jue/06.jpg)
 
 
 
@@ -94,7 +94,7 @@
 孤芳自赏有谁识？乐在其中天地知。  
 莫道人生得意少，桃源就在静闲时。
 
-![](../../src/classic_poems/qi_jue/08.jpg)
+![](../src/classic_poems/qi_jue/08.jpg)
 
 
 
@@ -105,7 +105,7 @@
 老树新枝峭壁间，行人止步叹流年。  
 人生衰盛平常事，世代传承总向前。
 
-![](../../src/classic_poems/qi_jue/09.jpg)
+![](../src/classic_poems/qi_jue/09.jpg)
 
 \newpage
 
@@ -117,7 +117,7 @@
 注：观童鞋分享家乡近照，有感而作。我觉得生命美丽而人心困惑， 人们借诗词文字抒发复杂而难以言喻的感情。
 古诗词是很好的表达方式。严格约束迫使作者含蓄精简。复杂感情是"不可道"的， 可道非情也。所以简约最美最真。
 
-![](../../src/classic_poems/qi_jue/10.jpg)
+![](../src/classic_poems/qi_jue/10.jpg)
 
 
 \newpage
@@ -166,7 +166,7 @@
 夜静灯孤倚小窗，随心开卷沁书香。  
 先人智慧如明月，半是朦胧半亮堂。
 
-![](../../src/classic_poems/qi_jue/13.jpg)
+![](../src/classic_poems/qi_jue/13.jpg)
 
 \newpage
 
@@ -225,7 +225,7 @@
 - 张雁女士参赛的是巴尔迪摩马拉松。巴尔迪摩是美国东部的一个重要港口城市, 华人美其名曰明珠港, 与夏威夷的珍珠港一东一西相媲美。猴哥的第一个马拉松跑的就是2011年巴尔的摩马拉松。
 - 波士顿马拉松世界著名, 参赛者根据年龄性别区分必须达到一定的成绩标准才能报名参赛。2013年比赛期间遭两个兄弟歹徒残忍爆炸, 死伤惨重。死者中有一位华人女生同胞。
 
-![](../../src/classic_poems/qi_jue/19.jpg)
+![](../src/classic_poems/qi_jue/19.jpg)
 
 
 
@@ -265,7 +265,7 @@
 
 注：美国马里兰州哥伦比亚市的Elkhorn湖, 宁静美丽, 是夏天跑步和散步的好去处。动完赏静, 别有一番风味。
 
-![](../../src/classic_poems/qi_jue/21.jpg)
+![](../src/classic_poems/qi_jue/21.jpg)
 
 
 \newpage
@@ -303,7 +303,7 @@
 
 
 
-![](../../src/classic_poems/qi_jue/22.jpg)
+![](../src/classic_poems/qi_jue/22.jpg)
 
 
 \newpage
@@ -319,7 +319,7 @@ v2.0
 霜雪欲来愁满地，客心如水泛春潮  
 
 
-![](../../src/classic_poems/qi_jue/23.jpg)
+![](../src/classic_poems/qi_jue/23.jpg)
 
 
 \newpage
@@ -336,7 +336,7 @@ v2.0
 新陈代谢顺天时，朽木根边长绿枝。    
 成住坏空皆净土，高飞倦鸟莫归迟。
 
-![](../../src/classic_poems/qi_jue/25.jpg)
+![](../src/classic_poems/qi_jue/25.jpg)
 
 \newpage
 
@@ -345,7 +345,7 @@ v2.0
 巫山有路情为径，欲海无涯空作舟。  
 情能补拙是良训，一分心苦一分缘。
 
-![](../../src/classic_poems/qi_jue/26.png)
+![](../src/classic_poems/qi_jue/26.png)
 
 
 \newpage
@@ -361,7 +361,7 @@ v2.0
 - 瀑布垂直而下，故"落"。线面横跨平地，故"卧"。
 - 李白醉饮，迷迷糊糊，故"疑"。我浅酌，清清楚楚，故"恰"。
 
-![](../../src/classic_poems/qi_jue/27.png)
+![](../src/classic_poems/qi_jue/27.png)
 
 \newpage
 
@@ -378,7 +378,7 @@ v2.0
 无粉无花心饱满，有筋有骨瓣端庄。   
 植根泥土情怀素，欲放含苞精气藏。
 
-![](../../src/classic_poems/qi_jue/29.jpg)
+![](../src/classic_poems/qi_jue/29.jpg)
 
 \newpage
 
@@ -399,9 +399,9 @@ v2.0
 何时偷得半日闲？  
 乐乎山水随我意。
 
-![](../../src/classic_poems/qi_jue/30a.jpg)
+![](../src/classic_poems/qi_jue/30a.jpg)
 
-![](../../src/classic_poems/qi_jue/30b.jpg)
+![](../src/classic_poems/qi_jue/30b.jpg)
 
 
 \newpage
@@ -411,9 +411,9 @@ v2.0
 初心冷净冰川雪，善念慈悲霜叶秋。  
 品格如山崇峻极，情怀与水共清幽。
 
-![](../../src/classic_poems/qi_jue/31a.jpg)
+![](../src/classic_poems/qi_jue/31a.jpg)
 
-![](../../src/classic_poems/qi_jue/31b.jpg)
+![](../src/classic_poems/qi_jue/31b.jpg)
 
 \newpage
 
@@ -426,9 +426,9 @@ v2.0
 和三位同胞教授博士合作得很愉快。特别是张昊博士，来美才一年，英语说得非常流利，
 学术水平高，编程技术强，年轻有为，前途无量。写七绝一首以庆贺。
 
-![](../../src/classic_poems/qi_jue/32a.jpg)
+![](../src/classic_poems/qi_jue/32a.jpg)
 
-![](../../src/classic_poems/qi_jue/32b.png)
+![](../src/classic_poems/qi_jue/32b.png)
 
 \newpage
 
@@ -450,7 +450,7 @@ v2.0
 立冬秋暮，衰草连天树，翠点花红疑春住，寻觅一阳深处。  
 尽道时序匆匆，人生随遇从容，试问荣枯谁主？清风明月共融。
 
-![](../../src/classic_poems/qi_jue/33.jpg)
+![](../src/classic_poems/qi_jue/33.jpg)
 
 
 \newpage
@@ -460,7 +460,7 @@ v2.0
 霞光妙笔挂云天，画海诗山梦幻间。  
 红日终将喷薄现，琼田玉鉴谱新篇。
 
-![](../../src/classic_poems/qi_jue/34.jpg)
+![](../src/classic_poems/qi_jue/34.jpg)
 
 \newpage
 
@@ -476,7 +476,7 @@ v2.0
 湖水依山抱，白云入镜台。  
 空留沙渚绿，静候鹭归来。
 
-![](../../src/classic_poems/qi_jue/35.jpg)
+![](../src/classic_poems/qi_jue/35.jpg)
 
 \newpage
 
@@ -532,7 +532,7 @@ v2.0
 自在娇花如柳絮，藤枯叶落正飞去。  
 秋风起，留不住，何惧天涯无归处。
 
-![](../../src/classic_poems/qi_jue/40.jpg)
+![](../src/classic_poems/qi_jue/40.jpg)
 
 \newpage
 

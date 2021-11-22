@@ -16,7 +16,7 @@ Pink pointed out that while the Agricultural Age and Industrial Age requires phy
 
 We have passed the Information Age in which knowledge workers were in demand and had thrived. We are now in the Conceptual Age where people with both knowledge and wisdom are in high demand and will thrive.
 
-![](../../src/english/system/01.jpg)
+![](../src/english/system/01.jpg)
 
 
 \newpage
@@ -43,7 +43,7 @@ But most importantly, the East and the West should learn to tolerate and respect
 
 The world peace and the future survival of our human race depend largely on the balance and harmony of the East and the West. If the current trend of imbalance persists, the world will become more and more dangerous and human survival will be at great risk.
 
-![](../../src/english/system/02.png)
+![](../src/english/system/02.png)
 
 
 \newpage
@@ -68,7 +68,7 @@ In the world, There are gaps between the rich and the poor, the power and the pe
 Global issues and social problems are rooted in the gaps and imbalance and bridging the gaps and restoring the balance are keys to long term peace and harmony. 
 The health and happiness of all human beings depend on the harmony and the peace of the world.
 
-![](../../src/english/system/03.png)
+![](../src/english/system/03.png)
 
 
 \newpage
@@ -86,7 +86,7 @@ In the late 1960's systems researchers in the University of Lancaster, UK led by
 
 Thinking is only the means, not the end. The end goal is to solve problem. But to solve problems, we have to understand them first. Thinking has to begin with seeing first.
 
-![](../../src/english/system/04.jpg)
+![](../src/english/system/04.jpg)
 
 
 \newpage
@@ -217,7 +217,7 @@ Mindfulness is rooted in Buddhism and has been practiced by its followers for th
 
 A happier mind sees better, thinks better and acts better.
 
-![](../../src/english/system/08.jpg)
+![](../src/english/system/08.jpg)
 
 
 \newpage
@@ -251,7 +251,7 @@ Great minds think alike. The iceberg model of mind from ancient Chinese sages re
 
 Is there a deeper connection between mind and culture other than the fact that they both share the same iceberg model? Underlying a culture are people and the essence of a person is his or her mind. May we simplify a culture as a system of individual minds?
 
-![](../../src/english/system/09.jpg)
+![](../src/english/system/09.jpg)
 
 
 \newpage
@@ -290,7 +290,7 @@ can remove the ignorance and indulging desires and save us from endless sufferin
 What you see if what you think. What you think is what you act. Before you can act systemically you have to think systemically. 
 Before you can think systemically you have to see systemically.
 
-![](../../src/english/system/10.jpg)
+![](../src/english/system/10.jpg)
 
 
 \newpage
@@ -319,7 +319,7 @@ Hence, there is no beauty of life and no need for systems thinking as a discipli
 
 So be humble and embrace complexity and uncertainty.
 
-![](../../src/english/system/11.JPG)
+![](../src/english/system/11.JPG)
 
 
 \newpage
@@ -459,7 +459,7 @@ Peter Senge concluded that:
 
 So, the whole is indivisible, indescribable and has to be experienced.
 
-![](../../src/english/system/15.png)
+![](../src/english/system/15.png)
 
 
 \newpage

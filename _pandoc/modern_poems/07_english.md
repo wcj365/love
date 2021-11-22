@@ -14,7 +14,7 @@ It brings me cheers.
 
 注：开车上班路上遇雨，有感而发。
 
-![](../../src/modern_poems/english/01.jpg)
+![](../src/modern_poems/english/01.jpg)
 
 
 \newpage
@@ -96,7 +96,7 @@ Have little
 So, I  
 Write little!
 
-![](../../src/modern_poems/english/03.jpg)
+![](../src/modern_poems/english/03.jpg)
 
 
 
@@ -182,7 +182,7 @@ If you are lucky, they may taste the ocean.
 而今历尽沧桑故，滴水便知海味殊；   
 芥纳须弥一即多，离尘入净烦恼无。 
 
-![](../../src/modern_poems/english/05.jpg)
+![](../src/modern_poems/english/05.jpg)
 
 \newpage
 
@@ -289,7 +289,7 @@ Love monkey, not money。
 惜猴子，不惜银子。  
 （这个就随喜吧。）
 
-![](../../src/modern_poems/english/07.jpg)
+![](../src/modern_poems/english/07.jpg)
 
 
 \newpage
@@ -357,7 +357,7 @@ There are two options. We can choose one or the other. When we choose Now and He
 
 This is what Zen calls “Live the life here and now” ( “活在当下“)。
 
-![](../../src/modern_poems/english/08.gif)
+![](../src/modern_poems/english/08.gif)
 
 \newpage
 
@@ -583,7 +583,7 @@ On the way to work today, I made up this silly poem.
 惊醒俺这美国狼  
 “你吃米诺，尾羊便式汤？”
 
-![](../../src/modern_poems/english/12.jpg)
+![](../src/modern_poems/english/12.jpg)
 
 \newpage
 

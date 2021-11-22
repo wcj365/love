@@ -35,7 +35,7 @@
 你给人间梦幻  
 你把天地相连
 
-![](../../src/modern_poems/nature/01.jpg)
+![](../src/modern_poems/nature/01.jpg)
 
 \newpage
 
@@ -188,7 +188,7 @@
 吸新鲜空气  
 喝清水
 
-![](../../src/modern_poems/nature/04.jpg)
+![](../src/modern_poems/nature/04.jpg)
 
 
 \newpage
@@ -207,7 +207,7 @@
 见到你,  
 才知道阳光, 空气和水来自哪里
 
-![](../../src/modern_poems/nature/05.jpg)
+![](../src/modern_poems/nature/05.jpg)
 
 \newpage
 
@@ -364,7 +364,7 @@
   - 跑三圈是土豪奢侈
 - 仅以这首小诗献给爱好跑步的群众和朋友。
 
-![](../../src/modern_poems/nature/09.jpg)
+![](../src/modern_poems/nature/09.jpg)
 
 
 
@@ -395,9 +395,9 @@
 
 注：在夏威夷度假，看到山海相接，有感而作。
 
-![](../../src/modern_poems/nature/10a.jpg)
+![](../src/modern_poems/nature/10a.jpg)
 
-![](../../src/modern_poems/nature/10b.jpg)
+![](../src/modern_poems/nature/10b.jpg)
 
 
 \newpage
