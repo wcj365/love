@@ -580,10 +580,10 @@ parts:
       sections:
         - file: english/academic/README.md  
           sections:
-            - file: about/01_books.md
-            - file: about/02_chapters.md
-            - file: about/03_dissertation.md
-            - file: about/04_papers.md
+            - file: english/academic/01_books.md
+            - file: english/academic/02_chapters.md
+            - file: english/academic/03_dissertation.md
+            - file: english/academic/04_papers.md
         - file: english/system/README.md            
           sections:
             - file: english/system/01.md
