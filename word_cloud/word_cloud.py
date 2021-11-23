@@ -52,9 +52,9 @@ mask = np.array(Image.open('china_map.png'))
 # This is specifically created according to my document
 
 my_stopwords = ["美","中","有","一","二","三","四","五", "七", "新","年","字","更", "其","指",
-    "不","不要", "不能", "一天", "一种","新韵","有感", "一首", "里","", "而", "太","皆",
+    "不","不要", "不能", "一天", "一种","新韵","有感", "一首", "里","", "而", "太","皆", "拉", "出自",
     "出", "自","正", "莫", "作","生", "日", "偶", "文章","出","入","外", "成", "比利", "BQ", "波士",
-    "萍","韵","猴","哥","注","附"]
+    "萍","韵","猴","哥","注","附","群","微","信","拉松","代表"]
 
 
 cn_stopwords = []
@@ -72,7 +72,7 @@ for book in BOOKS:
     wc_file = "wc_" + book + ".txt"
 
     # read the source data (saved from Word to plain text with Chinese Simpled GB2312 encoding)
-    with open(wc_file, "r", encoding="utf-8") as f:
+    with open(wc_file, "r") as f:
         txt = f.read()
 
     word_list = jieba.lcut(txt,cut_all=True)   # 结巴词库切分词 精准模式
@@ -83,6 +83,8 @@ for book in BOOKS:
 
     w = wordcloud.WordCloud(width=1000,
                             height=700,
+                          #  max_words=150,
+                          #  min_font_size=8,
                             stopwords=stopwords,
                             background_color='white',
                             font_path='/usr/share/fonts/truetype/arphic-bkai00mp/bkai00mp.ttf',
@@ -93,4 +95,4 @@ for book in BOOKS:
 
     w.generate(word_clean)
 
-    w.to_file("wc_" + book + ".png")
+    w.to_file("../src/04_word_cloud.png")
