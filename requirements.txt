@@ -1,3 +1,5 @@
 wheel
 jieba3k
 jupyter-book
+wordcloud
+imageio
