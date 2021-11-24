@@ -158,12 +158,20 @@ parts:
             - file: classic_poems/ci_ling/11.md
             - file: classic_poems/ci_ling/12.md
             - file: classic_poems/ci_ling/13.md
-        - file: translate/README.md
+        - file: classic_poems/dui_lian/README.md
           sections:
-            - file: translate/01.md
-            - file: translate/02.md
-            - file: translate/03.md
-            - file: translate/04.md
+            - file: classic_poems/dui_lian/01.md
+            - file: classic_poems/dui_lian/02.md
+            - file: classic_poems/dui_lian/03.md
+            - file: classic_poems/dui_lian/04.md
+            - file: classic_poems/dui_lian/05.md
+            - file: classic_poems/dui_lian/06.md
+        - file: classic_poems/translate/README.md
+          sections:
+            - file: classic_poems/translate/01.md
+            - file: classic_poems/translate/02.md
+            - file: classic_poems/translate/03.md
+            - file: classic_poems/translate/04.md
             - file: translate/05.md
             - file: translate/06.md
         - file: classic_poems/other/README.md
@@ -208,7 +216,6 @@ parts:
             - file: classic_poems/other/38.md
             - file: classic_poems/other/39.md
             - file: classic_poems/other/40.md
-            - file: classic_poems/other/41.md
             - file: classic_poems/other/42.md
             - file: classic_poems/other/43.md
             - file: classic_poems/other/44.md
@@ -327,7 +334,6 @@ parts:
             - file: proses/politics/08.md
             - file: proses/politics/09.md
             - file: proses/politics/10.md
-            - file: proses/politics/11.md
             - file: proses/politics/12.md
             - file: proses/politics/13.md
             - file: proses/politics/14.md
@@ -482,7 +488,6 @@ parts:
             - file: proses/wisdom/08.md
             - file: proses/wisdom/09.md
             - file: proses/wisdom/10.md
-            - file: proses/wisdom/11.md
             - file: proses/wisdom/12.md
             - file: proses/wisdom/13.md
             - file: proses/wisdom/14.md
@@ -525,7 +530,6 @@ parts:
             - file: proses/wisdom/51.md
             - file: proses/wisdom/52.md
             - file: proses/wisdom/53.md
-            - file: proses/wisdom/54.md
             - file: proses/wisdom/55.md
             - file: proses/wisdom/56.md
             - file: proses/wisdom/57.md
@@ -550,7 +554,6 @@ parts:
             - file: proses/wordgame/02.md
             - file: proses/wordgame/03.md
             - file: proses/wordgame/04.md
-            - file: proses/wordgame/05.md
             - file: proses/wordgame/06.md
             - file: proses/wordgame/07.md
             - file: proses/wordgame/08.md
@@ -563,7 +566,6 @@ parts:
             - file: proses/wordgame/15.md
             - file: proses/wordgame/16.md
             - file: proses/wordgame/17.md
-            - file: proses/wordgame/18.md
             - file: proses/wordgame/19.md
             - file: proses/wordgame/20.md
             - file: proses/wordgame/21.md
