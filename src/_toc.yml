@@ -166,6 +166,7 @@ parts:
             - file: classic_poems/dui_lian/04.md
             - file: classic_poems/dui_lian/05.md
             - file: classic_poems/dui_lian/06.md
+            - file: classic_poems/dui_lian/07.md
         - file: classic_poems/translate/README.md
           sections:
             - file: classic_poems/translate/01.md
@@ -469,7 +470,6 @@ parts:
             - file: proses/fun/27.md
             - file: proses/fun/28.md
             - file: proses/fun/29.md
-            - file: proses/fun/30.md
             - file: proses/fun/31.md
             - file: proses/fun/32.md
             - file: proses/fun/33.md
