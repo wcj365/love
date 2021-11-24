@@ -12,12 +12,19 @@ import jieba
 #BOOKS = ["classic_poems", "modern_poems", "proses", "english"]
 BOOKS = ["classic_poems"]
 
+SOURCE = "../src/"
+TARGET = "../_pandoc/"
+
+if os.path.exists(TARGET):
+    shutil.rmtree(TARGET) 
+
+os.mkdir(TARGET) 
+
 for book in BOOKS:
-    wc_file = "wc_" + book + ".txt"
-    if os.path.exists(wc_file):
-        os.remove(wc_file) 
+    wc_file = TARGET + "wc_" + book + ".txt"
+
     with open(wc_file, "a") as f_append:
-        files = glob.glob(f"../src/{book}/**/*.md", recursive=True)
+        files = glob.glob(f"{SOURCE}{book}/**/*.md", recursive=True)
         files.sort()
         for file in files:
             if "README.md" in file:
@@ -32,16 +39,13 @@ for book in BOOKS:
             f_append.write("\n")
 
 
-WC_ALL = "wc_all.txt"
-
-if os.path.exists(WC_ALL):
-    os.remove(WC_ALL) 
+WC_ALL = TARGET + "wc_all.txt"
 
 with open(WC_ALL, "a") as f_append:
     for book in BOOKS:
         if book == "english":
             continue
-        wc_file = "wc_" + book + ".txt"
+        wc_file = TARGET + "wc_" + book + ".txt"
         with open(wc_file, "r") as f_read:
             f_append.writelines(f_read.readlines())
             f_append.write("\n")
@@ -69,7 +73,7 @@ stopwords = my_stopwords + cn_stopwords + list(wordcloud.STOPWORDS)
 #BOOKS.append("all")
 
 for book in BOOKS:
-    wc_file = "wc_" + book + ".txt"
+    wc_file = TARGET + "wc_" + book + ".txt"
 
     # read the source data (saved from Word to plain text with Chinese Simpled GB2312 encoding)
     with open(wc_file, "r") as f:
@@ -78,7 +82,7 @@ for book in BOOKS:
     word_list = jieba.lcut(txt,cut_all=True)   # 结巴词库切分词 精准模式
  #   word_list = [word for word in word_list if len(word.strip())>1]   #清洗一个字的词
     word_clean = " ".join(word_list)
-    with open("wc_" + book + "_clean.txt", "w") as f:
+    with open(TARGET+ "wc_" + book + "_clean.txt", "w") as f:
         f.write(word_clean)
 
     w = wordcloud.WordCloud(width=1000,
@@ -95,4 +99,4 @@ for book in BOOKS:
 
     w.generate(word_clean)
 
-    w.to_file("../src/04_word_cloud.png")
+    w.to_file(SOURCE+ "04_word_cloud.png")

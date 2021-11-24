@@ -1,6 +1,7 @@
-build.log
+jupyter_book.log
 docs.zip
 .venv
 .ipynb_checkpoints
 _build
 _pandoc
+_word_cloud
