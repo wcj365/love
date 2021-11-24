@@ -219,7 +219,6 @@ parts:
             - file: classic_poems/other/40.md
             - file: classic_poems/other/42.md
             - file: classic_poems/other/43.md
-            - file: classic_poems/other/44.md
   - caption:
     chapters:
     - file: modern_poems/README.md
@@ -576,6 +575,7 @@ parts:
             - file: proses/wordgame/26.md
             - file: proses/wordgame/27.md
             - file: proses/wordgame/28.md
+            - file: proses/wordgame/29.md
   - caption:
     chapters:
     - file: english/README.md
