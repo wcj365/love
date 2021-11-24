@@ -40,7 +40,7 @@ for book in BOOKS:
                     f_write.write("\\newpage")
                     f_write.write("\n\n")   
 
-        CHAPTERS = ["07_wu_jue", "08_wu_lv","09_qi_jue", "10_qi_lv", "11_ci_ling", "12_other"]
+        CHAPTERS = ["07_wu_jue", "08_wu_lv","09_qi_jue", "10_qi_lv", "11_ci_ling", "12_dui_lian", "13_other"]
         
     elif book == "modern_poems":
         CHAPTERS = ["01_nature", "02_solitude","03_wisdom", "04_homesick", "05_love", "06_birthday", "07_english"]
