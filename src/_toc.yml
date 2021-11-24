@@ -344,6 +344,12 @@ parts:
             - file: proses/politics/18.md
             - file: proses/politics/19.md
             - file: proses/politics/20.md
+            - file: proses/politics/21.md
+            - file: proses/politics/13.md
+            - file: proses/politics/24.md
+            - file: proses/politics/26.md
+            - file: proses/politics/27.md
+            - file: proses/politics/29.md
         - file: proses/econ_tech/README.md
           sections:
             - file: proses/econ_tech/01.md
@@ -360,7 +366,6 @@ parts:
             - file: proses/econ_tech/12.md
             - file: proses/econ_tech/13.md
             - file: proses/econ_tech/14.md
-            - file: proses/econ_tech/15.md
             - file: proses/econ_tech/16.md
             - file: proses/econ_tech/17.md
             - file: proses/econ_tech/18.md
@@ -368,13 +373,8 @@ parts:
             - file: proses/econ_tech/20.md
             - file: proses/econ_tech/21.md
             - file: proses/econ_tech/22.md
-            - file: proses/econ_tech/23.md
-            - file: proses/econ_tech/24.md
             - file: proses/econ_tech/25.md
-            - file: proses/econ_tech/26.md
-            - file: proses/econ_tech/27.md
             - file: proses/econ_tech/28.md
-            - file: proses/econ_tech/29.md
             - file: proses/econ_tech/30.md
             - file: proses/econ_tech/31.md
             - file: proses/econ_tech/32.md
