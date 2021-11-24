@@ -93,7 +93,7 @@
 
 - **Full Marathon (5:10)**, 2011 Baltimore Running Festival
 - **Full Marathon (4:56)**, 2012 Marine Corps Marathon
-- **Co-founder**, Patuxent Atheletic League of Striders (PALs), Maryland
+- **Co-founder**, 知足常跑 Patuxent Atheletic League of Striders (PALs), Maryland
 
 *Read, write, and run - therapies for a happy life.*
 
