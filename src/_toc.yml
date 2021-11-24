@@ -172,8 +172,8 @@ parts:
             - file: classic_poems/translate/02.md
             - file: classic_poems/translate/03.md
             - file: classic_poems/translate/04.md
-            - file: translate/05.md
-            - file: translate/06.md
+            - file: classic_poems/translate/05.md
+            - file: classic_poems/translate/06.md
         - file: classic_poems/other/README.md
           sections:
             - file: classic_poems/other/01.md
