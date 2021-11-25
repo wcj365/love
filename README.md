@@ -12,8 +12,13 @@
   - height 100 图像高度
   - size 70 汉字大小
 
-## vi 
-- vi global search and find `6,10s/foo/bar/g`
+## vi Search and Replace 
+
+`6,10s/foo/bar/g`
+
+- s for substitude 
+- g for global
+- 6, 10 for starting line 6 and ending line 10
 
 # How to Build
 
