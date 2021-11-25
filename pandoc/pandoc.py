@@ -61,7 +61,7 @@ for book in BOOKS:
             os.remove(chapter_file)
         with open(chapter_file, "a") as f_append:
             f_append.write("\\vspace{1cm}")
-            f_append.write("\n")
+            f_append.write("\n\n")
             f_append.write("\\begin{center}")
             f_append.write("\n")     
 
