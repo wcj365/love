@@ -12,7 +12,7 @@
   - height 100 图像高度
   - size 70 汉字大小
 
-
+## vi 
 - vi global search and find `6,10s/foo/bar/g`
 
 # How to Build
