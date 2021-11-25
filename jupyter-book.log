@@ -38,3 +38,22 @@ Or paste this line directly into your browser bar:
 
 [92m===============================================================================[0m
 
+[main a4c4048f8] Built the static website.
+ Author: Dr. Chaojie Wang <wcj365@gmail.com>
+ 596 files changed, 3019 insertions(+), 2972 deletions(-)
+ create mode 100644 all.sh
+ rename docs/_images/{43.jpg => 08.jpg} (100%)
+ rename docs/_images/{08.jpg => 081.jpg} (100%)
+ rename docs/_images/{081.jpg => 082.jpg} (100%)
+ rename docs/_images/{082.jpg => 083.jpg} (100%)
+ rename docs/_images/{083.jpg => 084.jpg} (100%)
+ rename docs/_images/{084.jpg => 085.jpg} (100%)
+ rewrite docs/_images/44.jpg (99%)
+ copy docs/_images/{44.jpg => 441.jpg} (100%)
+ rename docs/_sources/classic_poems/{other/43.md => dui_lian/08.md} (86%)
+ rename docs/classic_poems/{other/43.html => dui_lian/08.html} (96%)
+ rewrite docs/searchindex.js (91%)
+ create mode 100644 jupyter-book.log
+ create mode 100644 pandoc/pandoc.log
+ rename src/classic_poems/{other/43.jpg => dui_lian/08.jpg} (100%)
+ rename src/classic_poems/{other/43.md => dui_lian/08.md} (86%)
