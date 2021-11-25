@@ -166,6 +166,7 @@ parts:
             - file: classic_poems/dui_lian/05.md
             - file: classic_poems/dui_lian/06.md
             - file: classic_poems/dui_lian/07.md
+            - file: classic_poems/dui_lian/08.md
         - file: classic_poems/translate/README.md
           sections:
             - file: classic_poems/translate/01.md
@@ -217,7 +218,6 @@ parts:
             - file: classic_poems/other/39.md
             - file: classic_poems/other/40.md
             - file: classic_poems/other/42.md
-            - file: classic_poems/other/43.md
             - file: classic_poems/other/44.md
   - caption:
     chapters:
