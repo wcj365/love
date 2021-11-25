@@ -69,11 +69,10 @@ for book in BOOKS:
                 new_line = "# " + CHAPTERS_CN[int(chapter.split("_")[0]) - 1] + f_read.readline().split(" ")[-1]
  
             f_append.write(new_line)
-            f_append.write("\n")
             f_append.write("\\end{center}")
-            f_append.write("\n")
+            f_append.write("\n\n")
             f_append.write("\\newpage")
-            f_append.write("\n")
+            f_append.write("\n\n")
 
             for file in files:
                 if "README.md" in file:
