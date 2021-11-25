@@ -16,9 +16,16 @@ lang: en-US
 #lang: zh-CN   NOT　WORKING！
 ---
 
-
+\vspace{4cm}
 \begin{center}
 【第一册 • 格律诗】
+
+
+www.wcj365.xyz
+
+
+
+© 2021 Dr Chaojie Wang 王超杰
 \end{center}
 
 
