@@ -60,13 +60,21 @@ for book in BOOKS:
         if os.path.exists(chapter_file):
             os.remove(chapter_file)
         with open(chapter_file, "a") as f_append:
+            f_append.write("\\vspace{1cm}")
+            f_append.write("\n")
+            f_append.write("\\begin{center}")
+            
             with open(chapter_folder + "/README.md", "r") as f_read:
                 old_line = f_read.readline()
-                new_line = "# " + CHAPTERS_CN[int(chapter.split("_")[0]) - 1] + old_line.split(" ")[-1]
-                f_append.write(new_line)
-                f_append.write("\n")
-                f_append.write("\\newpage")
-                f_append.write("\n")
+
+            new_line = "# " + CHAPTERS_CN[int(chapter.split("_")[0]) - 1] + old_line.split(" ")[-1]
+            f_append.write(new_line)
+            f_append.write("\n")
+            f_append.write("\\end{center}")
+            f_append.write("\n")
+            f_append.write("\\newpage")
+            f_append.write("\n")
+
             for file in files:
                 if "README.md" in file:
                     continue
