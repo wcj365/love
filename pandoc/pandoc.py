@@ -62,7 +62,7 @@ for book in BOOKS:
         with open(chapter_file, "a") as f_append:
 
             with open(chapter_folder + "/README.md", "r") as f_read:
-                 f_append.write("# " + CHAPTERS_CN[int(chapter.split("_")[0]) - 1] + f_read.readline().split(" ")[-1])
+                 f_append.write("# " + CHAPTERS_CN[int(chapter.split("_")[0]) - 1] + " ".join(f_read.readline().split(" ")[1:]))
  
             f_append.write("\n")
 #            f_append.write("\\newpage")
