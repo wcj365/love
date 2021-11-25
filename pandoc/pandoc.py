@@ -63,11 +63,11 @@ for book in BOOKS:
             f_append.write("\\vspace{1cm}")
             f_append.write("\n")
             f_append.write("\\begin{center}")
-            
-            with open(chapter_folder + "/README.md", "r") as f_read:
-                old_line = f_read.readline()
+            f_append.write("\n")     
 
-            new_line = "# " + CHAPTERS_CN[int(chapter.split("_")[0]) - 1] + old_line.split(" ")[-1]
+            with open(chapter_folder + "/README.md", "r") as f_read:
+                new_line = CHAPTERS_CN[int(chapter.split("_")[0]) - 1] + f_read.readline().split(" ")[-1]
+ 
             f_append.write(new_line)
             f_append.write("\n")
             f_append.write("\\end{center}")
