@@ -60,16 +60,10 @@ for book in BOOKS:
         if os.path.exists(chapter_file):
             os.remove(chapter_file)
         with open(chapter_file, "a") as f_append:
-            f_append.write("\\vspace{1cm}")
-            f_append.write("\n\n")
-            f_append.write("\\begin{center}")
-            f_append.write("\n")     
 
             with open(chapter_folder + "/README.md", "r") as f_read:
-                new_line = "# " + CHAPTERS_CN[int(chapter.split("_")[0]) - 1] + f_read.readline().split(" ")[-1]
+                 f_append.write("# " + CHAPTERS_CN[int(chapter.split("_")[0]) - 1] + f_read.readline().split(" ")[-1])
  
-            f_append.write(new_line)
-            f_append.write("\\end{center}")
             f_append.write("\n\n")
             f_append.write("\\newpage")
             f_append.write("\n\n")
