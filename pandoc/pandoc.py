@@ -9,6 +9,8 @@ TARGET = "../_pandoc/"
 
 BOOKS = ["classic_poems", "modern_poems", "proses", "english"]
 
+CHAPTERS_CN = ["（一）", "（二）", "（三）", "（四）", "（五）", "（六）", "（七）", "（八）"]
+
 if os.path.exists(TARGET):
     shutil.rmtree(TARGET) 
 
@@ -40,7 +42,7 @@ for book in BOOKS:
                     f_write.write("\\newpage")
                     f_write.write("\n\n")   
 
-        CHAPTERS = ["07_wu_jue", "08_wu_lv","09_qi_jue", "10_qi_lv", "11_ci_ling", "12_dui_lian", "13_other"]
+        CHAPTERS = ["01_wu_jue", "02_wu_lv","03_qi_jue", "04_qi_lv", "05_ci_ling", "06_dui_lian", "07_other"]
         
     elif book == "modern_poems":
         CHAPTERS = ["01_nature", "02_solitude","03_wisdom", "04_homesick", "05_love", "06_birthday", "07_english"]
@@ -58,7 +60,9 @@ for book in BOOKS:
             os.remove(chapter_file)
         with open(chapter_file, "a") as f_append:
             with open(chapter_folder + "/README.md", "r") as f_read:
-                f_append.write(f_read.readline())
+                old_line = f_read.readline()
+                new_line = "# " + CHAPTERS_CN[int(chapter.split("_")[0]) - 1] + old_line.split(" ")[-1]
+                f_append.write(new_line)
                 f_append.write("\n")
             for file in files:
                 if "README.md" in file:
