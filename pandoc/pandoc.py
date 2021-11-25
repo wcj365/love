@@ -9,6 +9,7 @@ TARGET = "../_pandoc/"
 
 BOOKS = ["classic_poems", "modern_poems", "proses", "english"]
 
+
 CHAPTERS_CN = ["（一）", "（二）", "（三）", "（四）", "（五）", "（六）", "（七）", "（八）"]
 
 if os.path.exists(TARGET):
@@ -63,6 +64,8 @@ for book in BOOKS:
                 old_line = f_read.readline()
                 new_line = "# " + CHAPTERS_CN[int(chapter.split("_")[0]) - 1] + old_line.split(" ")[-1]
                 f_append.write(new_line)
+                f_append.write("\n")
+                f_append.write("\\newpage")
                 f_append.write("\n")
             for file in files:
                 if "README.md" in file:
