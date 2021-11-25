@@ -7,7 +7,7 @@ python pandoc.py
 # Generate PDF files
 
 BOOKS="classic_poems modern_poems proses english"
-BOOKS="classic_poems"
+#BOOKS="classic_poems"
 
 for book in $BOOKS
 do
