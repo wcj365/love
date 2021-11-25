@@ -72,7 +72,6 @@ parts:
             - file: classic_poems/wu_lv/07.md
             - file: classic_poems/wu_lv/08.md
             - file: classic_poems/wu_lv/09.md
-            - file: classic_poems/wu_lv/10.md
             - file: classic_poems/wu_lv/11.md
             - file: classic_poems/wu_lv/12.md
             - file: classic_poems/wu_lv/13.md
@@ -219,6 +218,7 @@ parts:
             - file: classic_poems/other/40.md
             - file: classic_poems/other/42.md
             - file: classic_poems/other/43.md
+            - file: classic_poems/other/44.md
   - caption:
     chapters:
     - file: modern_poems/README.md

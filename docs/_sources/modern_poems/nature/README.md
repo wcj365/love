@@ -1,4 +1,0 @@
-# 自然
-
-```{tableofcontents}
-```
