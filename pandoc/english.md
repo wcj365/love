@@ -21,7 +21,6 @@ lang: en-US
 
 【第四册 • 英文作品】
 
-\vspace{4cm}
 
 www.wcj365.xyz
 
