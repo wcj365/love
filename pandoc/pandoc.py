@@ -23,7 +23,7 @@ for book in BOOKS:
 
     os.mkdir(BOOK_TARGET) 
 
-    shutil.copy(f"00_{book}.md",f"{BOOK_TARGET}00_{book}.md")
+    shutil.copy(f"{book}.md",f"{BOOK_TARGET}000_{book}.md")
 
     if book == "classic_poems":
         files = os.listdir(SOURCE)
