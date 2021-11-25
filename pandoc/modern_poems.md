@@ -18,8 +18,18 @@ lang: en-US
 
 
 \begin{center}
+
 【第二册 • 自由诗】
+
+\vspace{15cm}
+
+www.wcj365.xyz
+
+© 2020 Dr. Chaojie Wang
+
 \end{center}
+
+
 
 
 \pagebreak

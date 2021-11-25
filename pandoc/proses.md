@@ -18,8 +18,18 @@ lang: en-US
 
 
 \begin{center}
+
 【第三册 • 随笔】
+
+\vspace{15cm}
+
+www.wcj365.xyz
+
+© 2020 Dr. Chaojie Wang
+
 \end{center}
+
+
 
 
 \pagebreak
