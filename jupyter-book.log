@@ -38,3 +38,45 @@ Or paste this line directly into your browser bar:
 
 [92m===============================================================================[0m
 
+[main 990b878a3] Built the static website.
+ Author: Dr. Chaojie Wang <wcj365@gmail.com>
+ 81 files changed, 77 insertions(+), 56 deletions(-)
+ rewrite docs/_images/04.jpg (96%)
+ copy docs/_images/{04.jpg => 041.jpg} (100%)
+ rename docs/_images/{041.jpg => 042.jpg} (100%)
+ rename docs/_images/{042.jpg => 043.jpg} (100%)
+ rename docs/_images/{043.jpg => 044.jpg} (100%)
+ rename docs/_images/{044.jpg => 045.jpg} (100%)
+ rename docs/_images/{045.jpg => 046.jpg} (100%)
+ rename docs/_images/{046.jpg => 047.jpg} (100%)
+ rewrite docs/_images/103.jpg (97%)
+ copy docs/_images/{103.jpg => 104.jpg} (100%)
+ rename docs/_images/{104.jpg => 105.jpg} (100%)
+ rename docs/_images/{105.jpg => 106.jpg} (100%)
+ rewrite docs/_images/121.jpg (97%)
+ copy docs/_images/{121.jpg => 122.jpg} (100%)
+ rename docs/_images/{122.jpg => 123.jpg} (100%)
+ rename docs/_images/{123.jpg => 124.jpg} (100%)
+ rename docs/_images/{124.jpg => 125.jpg} (100%)
+ rewrite docs/_images/132.jpg (96%)
+ copy docs/_images/{132.jpg => 133.jpg} (100%)
+ rewrite docs/_images/161.jpg (96%)
+ copy docs/_images/{161.jpg => 162.jpg} (100%)
+ rewrite docs/_images/18a.jpg (95%)
+ copy docs/_images/{18a.jpg => 18a1.jpg} (100%)
+ rewrite docs/_images/18b.jpg (93%)
+ copy docs/_images/{18b.jpg => 18b1.jpg} (100%)
+ rewrite docs/_images/19.jpg (96%)
+ create mode 100644 docs/_images/22a.jpg
+ create mode 100644 docs/_images/22b.jpg
+ rewrite docs/searchindex.js (80%)
+ create mode 100644 src/classic_poems/dui_lian/04.jpg
+ create mode 100644 src/classic_poems/qi_jue/16.jpg
+ rewrite src/classic_poems/qi_jue/19.jpg (96%)
+ create mode 100644 src/classic_poems/qi_lv/13.jpg
+ create mode 100644 src/classic_poems/wu_jue/10.jpg
+ create mode 100644 src/classic_poems/wu_jue/12.jpg
+ create mode 100644 src/classic_poems/wu_jue/18a.jpg
+ create mode 100644 src/classic_poems/wu_jue/18b.jpg
+ create mode 100644 src/classic_poems/wu_jue/22a.jpg
+ create mode 100644 src/classic_poems/wu_jue/22b.jpg
