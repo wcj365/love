@@ -10,7 +10,7 @@ output:
   pdf_document:
     toc: false
 documentclass: extarticle
-fontsize: 14pt
+fontsize: 17pt
 rights: © 2021 Dr Chaojie Wang 王超杰
 lang: en-US
 #lang: zh-CN   NOT　WORKING！
@@ -21,7 +21,7 @@ lang: en-US
 
 【第三册 • 随笔】
 
-\vspace{15cm}
+\vspace{14cm}
 
 www.wcj365.xyz
 

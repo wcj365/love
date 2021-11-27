@@ -9,8 +9,10 @@ TARGET = "../_pandoc/"
 
 BOOKS = ["classic_poems", "modern_poems", "proses", "english"]
 
+CHAPTERS_CN = ["一", "二", "三", "四", "五", "六", "七", "八"]
+#CHAPTERS_CN = ["（一）", "（二）", "（三）", "（四）", "（五）", "（六）", "（七）", "（八）"]
 
-CHAPTERS_CN = ["（一）", "（二）", "（三）", "（四）", "（五）", "（六）", "（七）", "（八）"]
+#CHAPTERS_CN = ["第一辑 ", "第一辑（二）", "第一辑（三）", "（四）", "（五）", "（六）", "（七）", "（八）"]
 
 if os.path.exists(TARGET):
     shutil.rmtree(TARGET) 
@@ -62,11 +64,18 @@ for book in BOOKS:
         with open(chapter_file, "a") as f_append:
 
             with open(chapter_folder + "/README.md", "r") as f_read:
-                 f_append.write("# " + CHAPTERS_CN[int(chapter.split("_")[0]) - 1] + " ".join(f_read.readline().split(" ")[1:]))
- 
-            f_append.write("\n")
-#            f_append.write("\\newpage")
-#            f_append.write("\n\n")
+                title = " ".join(f_read.readline().split(" ")[1:])
+                f_append.write("# " + "第" + CHAPTERS_CN[int(chapter.split("_")[0]) - 1] + "辑 " + title)
+            
+            f_append.write("\n\n")
+            f_append.write("\\vspace{4in}")
+            f_append.write("\n\n")
+            f_append.write("\\begin{center}")
+            f_append.write("{\huge " + title + "}")
+            f_append.write("\\end{center}")
+            f_append.write("\n\n")
+            f_append.write("\\newpage")
+            f_append.write("\n\n")
 
             for file in files:
                 if "README.md" in file:

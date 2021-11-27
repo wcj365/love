@@ -10,7 +10,7 @@ output:
   pdf_document:
     toc: false
 documentclass: extarticle
-fontsize: 14pt
+fontsize: 17pt
 rights: © 2021 Dr Chaojie Wang 王超杰
 lang: en-US
 #lang: zh-CN   NOT　WORKING！
@@ -20,16 +20,13 @@ lang: en-US
 
 【第一册 • 格律诗】
 
-\vspace{15cm}
+\vspace{14cm}
 
 www.wcj365.xyz
 
 © 2020 Dr. Chaojie Wang
 
 \end{center}
-
-
-
 
 \pagebreak
 \tableofcontents
