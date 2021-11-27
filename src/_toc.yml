@@ -346,9 +346,16 @@ parts:
             - file: proses/politics/21.md
             - file: proses/politics/23.md
             - file: proses/politics/24.md
+            - file: proses/politics/25.md
             - file: proses/politics/26.md
             - file: proses/politics/27.md
+            - file: proses/politics/28.md
             - file: proses/politics/29.md
+            - file: proses/politics/30.md
+            - file: proses/politics/31.md
+            - file: proses/politics/32.md
+            - file: proses/politics/33.md
+            - file: proses/politics/34.md
         - file: proses/econ_tech/README.md
           sections:
             - file: proses/econ_tech/01.md
@@ -369,7 +376,6 @@ parts:
             - file: proses/econ_tech/17.md
             - file: proses/econ_tech/18.md
             - file: proses/econ_tech/19.md
-            - file: proses/econ_tech/20.md
             - file: proses/econ_tech/21.md
             - file: proses/econ_tech/22.md
             - file: proses/econ_tech/25.md
@@ -450,14 +456,11 @@ parts:
             - file: proses/fun/08.md
             - file: proses/fun/09.md
             - file: proses/fun/10.md
-            - file: proses/fun/11.md
             - file: proses/fun/12.md
             - file: proses/fun/13.md
             - file: proses/fun/14.md
             - file: proses/fun/15.md
             - file: proses/fun/16.md
-            - file: proses/fun/17.md
-            - file: proses/fun/18.md
             - file: proses/fun/19.md
             - file: proses/fun/20.md
             - file: proses/fun/21.md
@@ -492,10 +495,7 @@ parts:
             - file: proses/wisdom/14.md
             - file: proses/wisdom/15.md
             - file: proses/wisdom/16.md
-            - file: proses/wisdom/17.md
-            - file: proses/wisdom/18.md
             - file: proses/wisdom/19.md
-            - file: proses/wisdom/20.md
             - file: proses/wisdom/21.md
             - file: proses/wisdom/22.md
             - file: proses/wisdom/23.md
