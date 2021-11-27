@@ -4,11 +4,11 @@ root: index.md
 parts:
   - caption:
     chapters:
-    - file: 01_xu.md
-    - file: 02_zi_xu.md
-    - file: 03_ya_ge.md
-    - file: 04_word_cloud.md
-    - file: 05_yi_bo.md
+    - file: 001_xu.md
+    - file: 002_zi_xu.md
+    - file: 003_ya_ge.md
+    - file: 004_word_cloud.md
+    - file: 005_yi_bo.md
   - caption:
     numbered: False  # Only applies to chapters in Part 1.
     chapters:
