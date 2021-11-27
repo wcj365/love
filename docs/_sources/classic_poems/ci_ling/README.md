@@ -1,4 +1,0 @@
-# 词令
-
-```{tableofcontents}
-```
