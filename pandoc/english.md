@@ -16,7 +16,7 @@ lang: en-US
 #lang: zh-CN   NOT　WORKING！
 ---
 
-![logo](../src/_static/images/love-logo2.png)
+![&nbsp;](../src/_static/images/love-logo2.png)
 
 \begin{center}
 
