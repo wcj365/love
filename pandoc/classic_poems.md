@@ -20,6 +20,8 @@ lang: en-US
 
 【第一册 • 格律诗】
 
+![](_static/images/love-logo2.png)
+
 \vspace{14cm}
 
 www.wcj365.xyz
