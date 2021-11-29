@@ -356,6 +356,7 @@ parts:
             - file: proses/politics/32.md
             - file: proses/politics/33.md
             - file: proses/politics/34.md
+            - file: proses/politics/35.md
         - file: proses/econ_tech/README.md
           sections:
             - file: proses/econ_tech/01.md
