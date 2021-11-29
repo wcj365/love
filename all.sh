@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-. jupyter_book.sh > jupyter_book.log
+. jupyter_book.sh
 
 cd pandoc
 

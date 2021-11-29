@@ -12,7 +12,7 @@ fi
 
 # Build the static website for the book
 
-jupyter-book build --path-output . src
+jupyter-book build --path-output . src > jupyter_book.log
 mkdir docs
 cp -r _build/html/* ./docs/
 cp .nojekyll docs/

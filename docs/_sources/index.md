@@ -6,14 +6,12 @@
 ![酒](_static/images/jiu.PNG)
 ![作者王超杰](_static/images/signature.PNG)
 
-## 新作
+**2021年11月新作**
 
-### 2021年11月
+- [【七律 • 东方智慧 • 新韵】](classic_poems/qi_lv/18.md)
+- [【随笔 • 什么是元宇宙?】](proses/politics/35.md)
 
-- [【智慧 • 新韵】](classic_poems/qi_lv/18.md)
-- [【什么是元宇宙?】](proses/politics/35.md)
-
-## 下载PDF版本
+**下载PDF版本**
 
 - [第一册　格律诗](https://github.com/wcj365/love/raw/main/pdf/wcj365_classic_poems.pdf)
 - [第二册　自由诗](https://github.com/wcj365/love/raw/main/pdf/wcj365_modern_poems.pdf)
