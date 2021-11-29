@@ -40,3 +40,5 @@ sphinx:
     html_search_language: zh_CN    # make sure to pip install jieba3k
     latex_elements:
       fncychap: \usepackage[UTF8]{ctex}
+    html_theme_options: 
+        use_download_button: false
