@@ -9,19 +9,14 @@ python pandoc.py
 BOOKS="classic_poems modern_poems proses english"
 #BOOKS="classic_poems"
 
-today=$(date +%F)
 
 for book in $BOOKS
 do
-    pandoc --pdf-engine=xelatex  `find ../_pandoc/$book -name '*.md' | sort` -o ../pdf/$today_$book.pdf
+    pandoc --pdf-engine=xelatex  `find ../_pandoc/$book -name '*.md' | sort` -o ../pdf/wcj365_$book.pdf
 #    pandoc --pdf-engine=xelatex  `find ../_pandoc/$book -name '*.md' | sort` -o ../pdf/wcj365_$book.epub
 #    pandoc --pdf-engine=xelatex  `find ../_pandoc/$book -name '*.md' | sort` -o ../pdf/wcj365_$book.docx
 #    pandoc --pdf-engine=xelatex  `find ../_pandoc/$book -name '*.md' | sort` -o ../pdf/wcj365_$book.html
 done
-
-# Update index.html
-
-sed -i "s/wcj365_/$today_/g" ../src/index.md
 
 # Push the changes to GitHub
 

@@ -10,9 +10,6 @@ TARGET = "../_pandoc/"
 BOOKS = ["classic_poems", "modern_poems", "proses", "english"]
 
 CHAPTERS_CN = ["一", "二", "三", "四", "五", "六", "七", "八"]
-#CHAPTERS_CN = ["（一）", "（二）", "（三）", "（四）", "（五）", "（六）", "（七）", "（八）"]
-
-#CHAPTERS_CN = ["第一辑 ", "第一辑（二）", "第一辑（三）", "（四）", "（五）", "（六）", "（七）", "（八）"]
 
 if os.path.exists(TARGET):
     shutil.rmtree(TARGET) 

@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
-. jupyter_book.sh > jupyter-book.log
+. jupyter_book.sh > jupyter_book.log
 
 cd pandoc
 
-. pandoc.sh > pandoc.log
+. pandoc.sh 
