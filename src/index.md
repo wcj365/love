@@ -10,7 +10,7 @@
 
 ### 2021年11月
 
-- [【七律东方智慧 • 新韵】](classic_poems/qi_lv/18.md)
+- [【东方智慧 • 新韵】](classic_poems/qi_lv/18.md)
 - [【什么是元宇宙?】](proses/politics/35.md)
 
 ## 下载PDF版本
