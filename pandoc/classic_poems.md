@@ -16,7 +16,7 @@ lang: en-US
 #lang: zh-CN   NOT　WORKING！
 ---
 
-
+![](_static/images/love-logo2.png)
 
 \begin{center}
 
@@ -26,7 +26,7 @@ lang: en-US
 \vspace{4cm}
 
 
-\includegraphics[]{_static/images/love-logo2.png}
+
 
 \vspace{4cm}
 
