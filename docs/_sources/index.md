@@ -8,6 +8,7 @@
 
 **2021年11月新作**
 
+- [【七绝 • 秋 • 新韵】](classic_poems/qi_jue/41.md)
 - [【七律 • 东方智慧 • 新韵】](classic_poems/qi_lv/18.md)
 - [【随笔 • 什么是元宇宙?】](proses/politics/35.md)
 - [【词云图 • 新版】](004_word_cloud.md)

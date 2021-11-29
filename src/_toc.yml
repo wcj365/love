@@ -113,6 +113,7 @@ parts:
             - file: classic_poems/qi_jue/38.md
             - file: classic_poems/qi_jue/39.md
             - file: classic_poems/qi_jue/40.md
+            - file: classic_poems/qi_jue/41.md
         - file: classic_poems/qi_lv/README.md
           sections:
             - file: classic_poems/qi_lv/01.md
