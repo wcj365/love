@@ -16,7 +16,7 @@ lang: en-US
 #lang: zh-CN   NOT　WORKING！
 ---
 
-<figure>![](../src/_static/images/love-logo2.png){ style="width: 70%; margin: auto;" }</figure>
+<figure>![](../src/_static/images/love-logo2.png){ style="align="center"; margin: auto;" }</figure>
 
 \begin{center}
 
