@@ -20,9 +20,13 @@ lang: en-US
 
 【第一册 • 格律诗】
 
-![](_static/images/love-logo2.png)
+\vspace{4cm}
 
-\vspace{14cm}
+\begin{figure}
+  \includegraphics{_static/images/love-logo2.png}
+\end{figure}
+
+\vspace{4cm}
 
 www.wcj365.xyz
 
