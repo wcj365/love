@@ -25,9 +25,8 @@ lang: en-US
 
 \vspace{4cm}
 
-\begin{figure}
-  \includegraphics[]{_static/images/love-logo2.png}
-\end{figure}
+
+\includegraphics[]{_static/images/love-logo2.png}
 
 \vspace{4cm}
 
