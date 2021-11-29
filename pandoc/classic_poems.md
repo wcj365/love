@@ -16,14 +16,17 @@ lang: en-US
 #lang: zh-CN   NOT　WORKING！
 ---
 
+
+
 \begin{center}
+
 
 【第一册 • 格律诗】
 
 \vspace{4cm}
 
 \begin{figure}
-  \includegraphics{_static/images/love-logo2.png}
+  \includegraphics[]{_static/images/love-logo2.png}
 \end{figure}
 
 \vspace{4cm}
