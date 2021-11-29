@@ -3,7 +3,7 @@
 ## 参考资料
 
 - [字体转换器在线转换生成书法艺术字体](http://www.diyiziti.com/)
-- Book Name
+- Book Name (乡愁永酒)
   - width 620 图像宽度
   - height 180 图像高度
   - size 90 汉字大小
@@ -11,21 +11,38 @@
   - width 1100 图像宽度
   - height 100 图像高度
   - size 70 汉字大小
+- 古典诗文佛经引用
+  - 文鼎古印体繁或四库全书古籍字体
+  - width 640 图像宽度
+  - height 200 图像高度
+  - size 36 汉字大小
+  - 参见七律东方智慧引用金刚经
 
 ## vi Search and Replace 
 
-`6,10s/foo/bar/g`
+**`6,10s/foo/bar/g`**
 
-- s for substitude 
-- g for global
-- 6, 10 for starting line 6 and ending line 10
+- s for Substitude 
+- g for global search and replace
+- 6, 10 for between line 6 and line 10
 
 ## How to Build
 
-- run `$ . all.sh`
-
+- 先生成网站再生成PDF文档
+    - `$ . all.sh` 
+- 只生成网站
+    - `$ . jupyter_book.sh` 
+- 只生成PDF文档
+    - `$ cd pandoc`
+    - `$ . pandoc.sh` 
+- 生成第一册格律诗词云图
+    - `$ cd word_cloud`
+    - `$ python word_cloud.py`
+    
 ## How to Deploy to PythonAnywhere.com
 
+- `$ cd love_repo`
+- `$ git pull`
 
 ## Miscellenous Notes
 
