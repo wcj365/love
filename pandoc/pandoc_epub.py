@@ -59,21 +59,23 @@ for book in BOOKS:
         for file in files:
 
             if "README" in file:
-                print(file)
                 
                 with open(file, "r") as f_read:
                     title = " ".join(f_read.readline().split(" ")[1:])
 
                 with open(f"{BOOK_TARGET}{section}_00.md", "w") as f_write:
                     f_write.write("# " + "第" + CHAPTERS_CN[int(section.split("_")[0]) - 1] + "辑 " + title)
-                    f_write.write("\n\n")
-                    f_write.write("\\vspace{4in}")
-                    f_write.write("\n\n")
-                    f_write.write("\\begin{center}")
-                    f_write.write("{\huge " + title + "}")
-                    f_write.write("\\end{center}")
-                    f_write.write("\n\n")
-                    f_write.write("\\newpage")
-                    f_write.write("\n\n")
             else:
-                shutil.copy(file,f"{BOOK_TARGET}{section}_{file.split('/')[-1]}")
+                with open(file, "r") as f_read:
+                    lines = f_read.readlines()
+
+                with open(f"{BOOK_TARGET}{section}_{file.split('/')[-1]}", "w") as f_write:
+
+                    for line in lines:
+                        if line.startswith("![]"):
+                            f_write.write("![](" + section_folder + "/" + line[4:])
+                        else:
+                            f_write.write(line)
+
+                    f_write.write("\n")
+                        
