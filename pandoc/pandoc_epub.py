@@ -5,7 +5,7 @@ import os
 import shutil
 
 SOURCE = "../src/"
-TARGET = "../_pandoc/"
+TARGET = "../_pandoc_epub/"
 
 BOOKS = ["classic_poems", "modern_poems", "proses", "english"]
 
