@@ -12,6 +12,7 @@ output:
 documentclass: extarticle
 fontsize: 17pt
 rights: © 2020 Dr. Chaojie Wang
+toc-title: 目录
 lang: en-US
 #lang: zh-CN   NOT　WORKING！
 ---
