@@ -1,6 +1,6 @@
 ---
-title: "乡愁永酒诗文集第三册"
-subtitle: 【随笔】
+title: "乡愁永酒诗文集（三）"
+subtitle: 【第三册 • 随笔】
 author: 王超杰
 CJKmainfont: "AR PL UKai TW" 
 mainfont: "AR PL UKai TW" 
@@ -11,7 +11,7 @@ output:
     toc: false
 documentclass: extarticle
 fontsize: 17pt
-rights: © 2021 Dr Chaojie Wang 王超杰
+rights: © 2020 Dr. Chaojie Wang
 lang: en-US
 #lang: zh-CN   NOT　WORKING！
 ---
@@ -19,7 +19,7 @@ lang: en-US
 
 \begin{center}
 
-【随笔】
+【第三册 • 随笔】
 
 \vspace{14cm}
 

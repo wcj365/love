@@ -1,6 +1,6 @@
 ---
-title: "乡愁永酒诗文集第一册 "
-subtitle: 【格律诗】
+title: "乡愁永酒诗文集（一）"
+subtitle: 【第一册 • 格律诗】
 author: 王超杰
 CJKmainfont: "AR PL UKai TW" 
 mainfont: "AR PL UKai TW" 
@@ -11,7 +11,7 @@ output:
     toc: false
 documentclass: extarticle
 fontsize: 17pt
-rights: © 2021 Dr Chaojie Wang 王超杰
+rights: © 2020 Dr. Chaojie Wang
 lang: en-US
 #lang: zh-CN   NOT　WORKING！
 ---
@@ -20,7 +20,7 @@ lang: en-US
 \begin{center}
 
 
-【格律诗】
+【第一册 • 格律诗】
 
 \vspace{14cm}
 

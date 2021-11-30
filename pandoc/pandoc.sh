@@ -1,16 +1,12 @@
 #!/usr/bin/bash
 
-# Transform files for PDF
-python pandoc_pdf.py
-
-# Transform files for epub
-python pandoc_epub.py
+# Transform files for PDF and epub format
+python pandoc.py
 
 # Generate PDF and epub files
 
 BOOKS="classic_poems modern_poems proses english"
 #BOOKS="classic_poems"
-
 
 for book in $BOOKS
 do
