@@ -12,8 +12,6 @@ for book in $BOOKS
 do
     pandoc --pdf-engine=xelatex  `find ../_pandoc_pdf/$book -name '*.md' | sort` -o ../offline/wcj365_$book.pdf
     pandoc --pdf-engine=xelatex  `find ../_pandoc_epub/$book -name '*.md' | sort` -o ../offline/wcj365_$book.epub
-#    pandoc --pdf-engine=xelatex  `find ../_pandoc/$book -name '*.md' | sort` -o ../pdf/wcj365_$book.docx
-#    pandoc --pdf-engine=xelatex  `find ../_pandoc/$book -name '*.md' | sort` -o ../pdf/wcj365_$book.html
 done
 
 # Push the changes to GitHub

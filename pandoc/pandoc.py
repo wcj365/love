@@ -30,8 +30,8 @@ for book in BOOKS:
     os.mkdir(book_pdf) 
     os.mkdir(book_epub) 
 
-    shutil.copy(f"{book}.md",f"{book_pdf}/000_{book}.md")
-    shutil.copy(f"{book}.md",f"{book_epub}/000_{book}.md")
+    shutil.copy(f"pdf_{book}.md",f"{book_pdf}/000_{book}.md")
+    shutil.copy(f"epub_{book}.md",f"{book_epub}/000_{book}.md")
 
     if book == "classic_poems":
         files = os.listdir(SOURCE)
