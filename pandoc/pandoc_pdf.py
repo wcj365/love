@@ -51,7 +51,7 @@ for book in BOOKS:
     elif book == "proses":
         CHAPTERS = ["01_politics", "02_econ_tech","03_life", "04_health", "05_fun", "06_wisdom", "07_poetry","08_wordgame"]
     else:    # book == "english"
-        CHAPTERS = ["01_academic", "02_system", "03_tea"]
+        CHAPTERS = ["01_academic", "02_system", "03_tea","04_other"]
 
     for chapter in CHAPTERS:
         chapter_folder = BOOK_SOURCE + chapter[3:]
