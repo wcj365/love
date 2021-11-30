@@ -13,9 +13,9 @@
 - [【随笔 • 什么是元宇宙?】](proses/politics/35.md)
 - [【词云图 • 新版】](004_word_cloud.md)
 
-**下载PDF版本**
+**下载线下阅读版本**
 
-- 第一册　格律诗（[PDF](https://github.com/wcj365/love/raw/main/pdf/wcj365_classic_poems.pdf）| [epub](https://github.com/wcj365/love/raw/main/pdf/wcj365_classic_poems.epub))
-- 第二册　自由诗（[PDF](https://github.com/wcj365/love/raw/main/pdf/wcj365_modern_poems.pdf) | [epub](https://github.com/wcj365/love/raw/main/pdf/wcj365_modern_poems.pdf))
-- 第三册　随笔（[PDF](https://github.com/wcj365/love/raw/main/pdf/wcj365_proses.pdf）| [epub](https://github.com/wcj365/love/raw/main/pdf/wcj365_proses.epub))
-- 第四册　英文 ([PDF](https://github.com/wcj365/love/raw/main/pdf/wcj365_english.pdf）| [epub](https://github.com/wcj365/love/raw/main/pdf/wcj365_english.epub))
+- 第一册　格律诗 ([PDF](https://github.com/wcj365/love/raw/main/pdf/wcj365_classic_poems.pdf) | [epub](https://github.com/wcj365/love/raw/main/pdf/wcj365_classic_poems.epub))
+- 第二册　自由诗 ([PDF](https://github.com/wcj365/love/raw/main/pdf/wcj365_modern_poems.pdf) | [epub](https://github.com/wcj365/love/raw/main/pdf/wcj365_modern_poems.pdf))
+- 第三册　随笔 ([PDF](https://github.com/wcj365/love/raw/main/pdf/wcj365_proses.pdf) | [epub](https://github.com/wcj365/love/raw/main/pdf/wcj365_proses.epub))
+- 第四册　英文 ([PDF](https://github.com/wcj365/love/raw/main/pdf/wcj365_english.pdf) | [epub](https://github.com/wcj365/love/raw/main/pdf/wcj365_english.epub))
