@@ -22,8 +22,8 @@ done
 
 # Push the changes to GitHub
 
-#cd ../
+cd ../
 
-#git add .
-#git commit -m "Built the PDF verion of the books."
-#git push
+git add .
+git commit -m "Built the PDF verion of the books."
+git push
