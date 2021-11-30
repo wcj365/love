@@ -64,6 +64,14 @@
 
     <!-- Google Analytics -->
     
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-ZZD3P7PC6T"></script>
+<script>
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){ dataLayer.push(arguments); }
+                    gtag('js', new Date());
+                    gtag('config', 'G-ZZD3P7PC6T');
+                </script>
+
   </head>
   <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
     
@@ -91,7 +99,7 @@
     </a>
 </div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
   <i class="icon fas fa-search"></i>
-  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search the docs ..." aria-label="Search the docs ..." autocomplete="off" >
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
         <ul class="nav bd-sidenav">
@@ -3199,7 +3207,7 @@
 </nav> <!-- To handle the deprecated key -->
 
 <div class="navbar_extra_footer">
-  Theme by the <a href="https://ebp.jupyterbook.org">Executable Book Project</a>
+  <a href='https://www.wcj365.xyz/about.html'>关于作者</a>
 </div>
 
 </div>
@@ -3226,6 +3234,23 @@
             </button>
             
             
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="_sources/index.md"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.md</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
             <!-- Source interaction buttons -->
 
             <!-- Full screen (wrap in <a> to have style consistency -->
@@ -3266,10 +3291,10 @@
 </ul>
 <p><strong>下载PDF版本</strong></p>
 <ul class="simple">
-<li><p><a class="reference external" href="https://github.com/wcj365/love/raw/main/pdf/wcj365_classic_poems.pdf">第一册　格律诗</a></p></li>
-<li><p><a class="reference external" href="https://github.com/wcj365/love/raw/main/pdf/wcj365_modern_poems.pdf">第二册　自由诗</a></p></li>
-<li><p><a class="reference external" href="https://github.com/wcj365/love/raw/main/pdf/wcj365_proses.pdf">第三册　随笔</a></p></li>
-<li><p><a class="reference external" href="https://github.com/wcj365/love/raw/main/pdf/wcj365_english.pdf">第四册　英文</a></p></li>
+<li><p>第一册　格律诗（[PDF](<a class="reference external" href="https://github.com/wcj365/love/raw/main/pdf/wcj365_classic_poems.pdf%EF%BC%89%7C">https://github.com/wcj365/love/raw/main/pdf/wcj365_classic_poems.pdf）|</a> <a class="reference external" href="https://github.com/wcj365/love/raw/main/pdf/wcj365_classic_poems.epub">epub</a>)</p></li>
+<li><p>第二册　自由诗（<a class="reference external" href="https://github.com/wcj365/love/raw/main/pdf/wcj365_modern_poems.pdf">PDF</a> | <a class="reference external" href="https://github.com/wcj365/love/raw/main/pdf/wcj365_modern_poems.pdf">epub</a>)</p></li>
+<li><p>第三册　随笔（[PDF](<a class="reference external" href="https://github.com/wcj365/love/raw/main/pdf/wcj365_proses.pdf%EF%BC%89%7C">https://github.com/wcj365/love/raw/main/pdf/wcj365_proses.pdf）|</a> <a class="reference external" href="https://github.com/wcj365/love/raw/main/pdf/wcj365_proses.epub">epub</a>)</p></li>
+<li><p>第四册　英文 ([PDF](<a class="reference external" href="https://github.com/wcj365/love/raw/main/pdf/wcj365_english.pdf%EF%BC%89%7C">https://github.com/wcj365/love/raw/main/pdf/wcj365_english.pdf）|</a> <a class="reference external" href="https://github.com/wcj365/love/raw/main/pdf/wcj365_english.epub">epub</a>)</p></li>
 </ul>
 <div class="toctree-wrapper compound">
 </div>
