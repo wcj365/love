@@ -9,6 +9,7 @@ number-sections: true
 output: 
   pdf_document:
     toc: false
+    toc-title: 目录
 documentclass: extarticle
 fontsize: 17pt
 rights: © 2020 Dr. Chaojie Wang

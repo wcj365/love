@@ -9,12 +9,10 @@ number-sections: true
 output: 
   pdf_document:
     toc: false
-    fig_caption: false
 documentclass: extarticle
 fontsize: 17pt
 rights: © 2020 Dr. Chaojie Wang
 lang: en-US
-toc-title：目录
 #lang: zh-CN   NOT　WORKING！
 ---
 
