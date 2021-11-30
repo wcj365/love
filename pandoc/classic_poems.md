@@ -16,19 +16,13 @@ lang: en-US
 #lang: zh-CN   NOT　WORKING！
 ---
 
-![](_static/images/love-logo2.png)
 
 \begin{center}
 
 
 【第一册 • 格律诗】
 
-\vspace{4cm}
-
-
-
-
-\vspace{4cm}
+\vspace{14cm}
 
 www.wcj365.xyz
 
