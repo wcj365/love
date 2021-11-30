@@ -1,5 +1,5 @@
 ---
-title: "乡愁永酒诗文集（二）"
+title: "乡愁永酒诗文集"
 subtitle: 【第二册 • 自由诗】
 author: 王超杰
 CJKmainfont: "AR PL UKai TW" 

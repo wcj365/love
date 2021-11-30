@@ -15,12 +15,12 @@
 
 **下载线下文本**
 
-- 第一册（格律诗）([pdf](https://github.com/wcj365/love/raw/main/pdf/wcj365_classic_poems.pdf) | [epub](https://github.com/wcj365/love/raw/main/pdf/wcj365_classic_poems.epub))
-- 第二册（自由诗）([pdf](https://github.com/wcj365/love/raw/main/pdf/wcj365_modern_poems.pdf) | [epub](https://github.com/wcj365/love/raw/main/pdf/wcj365_modern_poems.pdf))
-- 第三册（随笔）([pdf](https://github.com/wcj365/love/raw/main/pdf/wcj365_proses.pdf) | [epub](https://github.com/wcj365/love/raw/main/pdf/wcj365_proses.epub))
-- 第四册（英文作品）([pdf](https://github.com/wcj365/love/raw/main/pdf/wcj365_english.pdf) | [epub](https://github.com/wcj365/love/raw/main/pdf/wcj365_english.epub))
+- 第一册（格律诗）([pdf](https://github.com/wcj365/love/raw/main/offline/wcj365_classic_poems.pdf) | [epub](https://github.com/wcj365/love/raw/main/offline/wcj365_classic_poems.epub))
+- 第二册（自由诗）([pdf](https://github.com/wcj365/love/raw/main/offline/wcj365_modern_poems.pdf) | [epub](https://github.com/wcj365/love/raw/main/offline/wcj365_modern_poems.pdf))
+- 第三册（随笔）([pdf](https://github.com/wcj365/love/raw/main/offline/wcj365_proses.pdf) | [epub](https://github.com/wcj365/love/raw/main/offline/wcj365_proses.epub))
+- 第四册（英文作品）([pdf](https://github.com/wcj365/love/raw/main/offline/wcj365_english.pdf) | [epub](https://github.com/wcj365/love/raw/main/offline/wcj365_english.epub))
 
 **注：**
 
-- pdf文本适合打印成册。最好双面打印以节省纸张。
-- epub文本适合在电子书阅读器上阅读。
+- pdf格式适用于打印成册，线下阅读。建议双面打印，以节省纸张。
+- epub格式适用于电子书阅读器。下载到平板电脑或手机上，线下阅读。

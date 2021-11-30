@@ -1,5 +1,5 @@
 ---
-title: "乡愁永酒诗文集（一）"
+title: "乡愁永酒诗文集"
 subtitle: 【第一册 • 格律诗】
 author: 王超杰
 CJKmainfont: "AR PL UKai TW" 

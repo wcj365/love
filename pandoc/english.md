@@ -1,5 +1,5 @@
 ---
-title: "乡愁永酒诗文集（四）"
+title: "乡愁永酒诗文集"
 subtitle: 【第四册 • 英文作品】
 author: 王超杰
 CJKmainfont: "AR PL UKai TW" 
@@ -14,6 +14,7 @@ documentclass: extarticle
 fontsize: 17pt
 rights: © 2020 Dr. Chaojie Wang
 lang: en-US
+toc-title：目录
 #lang: zh-CN   NOT　WORKING！
 ---
 
