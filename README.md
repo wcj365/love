@@ -2,6 +2,7 @@
 
 ## 参考资料
 
+- https://themythicalengineer.com/converting-markdown-to-epub-mobi.html
 - https://learnbyexample.github.io/customizing-pandoc/
 - [字体转换器在线转换生成书法艺术字体](http://www.diyiziti.com/)
 - Book Name (乡愁永酒)
