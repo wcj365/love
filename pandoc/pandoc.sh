@@ -8,7 +8,7 @@ python pandoc.py
 BOOKS="classic_poems modern_poems proses english"
 #BOOKS="english"
 
-if [! -d "../docs/offline" ] 
+if [ ! -d "../docs/offline" ] 
 then
     mkdir ../docs/offline 
 fi
