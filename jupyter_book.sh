@@ -14,6 +14,8 @@ fi
 
 jupyter-book build --path-output . src > jupyter_book.log
 mkdir docs
+cp -r pdf ./docs/
+cp -r offline ./docs/
 cp -r _build/html/* ./docs/
 cp .nojekyll docs/
 
