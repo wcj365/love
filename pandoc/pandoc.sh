@@ -8,10 +8,15 @@ python pandoc.py
 BOOKS="classic_poems modern_poems proses english"
 #BOOKS="english"
 
+if [! -d "../docs/offline" ] 
+then
+    mkdir ../docs/offline 
+fi
+
 for book in $BOOKS
 do
-    pandoc --pdf-engine=xelatex  `find ../_pandoc_pdf/$book -name '*.md' | sort` -o ../offline/wcj365_$book.pdf
-    pandoc --pdf-engine=xelatex  `find ../_pandoc_epub/$book -name '*.md' | sort` -o ../offline/wcj365_$book.epub
+    pandoc --pdf-engine=xelatex  `find ../_pandoc_pdf/$book -name '*.md' | sort` -o ../docs/offline/wcj365_$book.pdf
+    pandoc --pdf-engine=xelatex  `find ../_pandoc_epub/$book -name '*.md' | sort` -o ../docs/offline/wcj365_$book.epub
 done
 
 # Push the changes to GitHub
