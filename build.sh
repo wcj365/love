@@ -1,6 +1,12 @@
 #!/usr/bin/bash
 
+# Note: The following warning message in red from the console is ok:
+# /workspaces/love/src/about.md: WARNING: document isn't included in any toctree
+
 # Step 1 - Start from scratch
+# Jupyter creates _build folder to store the genreated contents
+# We only need to retain the html subfolder for website
+# We use docs folder as the document root 
 
 if [ -d "_build" ] 
 then

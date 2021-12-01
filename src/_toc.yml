@@ -4,7 +4,6 @@ root: index.md
 parts:
   - caption:
     chapters:
-    - file: 000_cover.md
     - file: 001_xu.md
     - file: 002_zi_xu.md
     - file: 003_ya_ge.md
