@@ -1,10 +1,4 @@
-# 【诗文集】
-
-![乡](_static/images/xiang.PNG)
-![愁](_static/images/chou.PNG)
-![永](_static/images/yong.PNG)
-![酒](_static/images/jiu.PNG)
-![作者王超杰](_static/images/signature.PNG)
+# 【乡愁永酒诗文集】
 
 **2021年11月新作**
 
