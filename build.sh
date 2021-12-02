@@ -6,7 +6,7 @@
 # Step 1 - Start from scratch
 # Jupyter creates _build folder to store the genreated contents
 # We only need to retain the html subfolder for website
-# We use docs folder as the document root 
+# We use docs folder as the document root for setting up GitHub Pages
 
 if [ -d "_build" ] 
 then
@@ -37,6 +37,7 @@ cp -r pdf ./docs/             # pdf files of academic writings
 # Step 4 - Transform markdown files for PDF and epub geeration
 
 cd pandoc
+
 python pandoc.py
 
 

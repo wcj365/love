@@ -54,6 +54,7 @@ parts:
             - file: classic_poems/wu_jue/43.md
             - file: classic_poems/wu_jue/44.md
             - file: classic_poems/wu_jue/45.md
+            - file: classic_poems/wu_jue/46.md
         - file: classic_poems/wu_lv/README.md
           sections:
             - file: classic_poems/wu_lv/01.md
