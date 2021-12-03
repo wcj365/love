@@ -9,6 +9,7 @@
 **2021年12月新作**
 
 - [【五绝 • 秋】](classic_poems/wu_jue/46.md)
+- [【五律 • 清泉洞不老松 • 新韵】](classic_poems/wu_lv/11.md)
 
 **2021年11月新作**
 
