@@ -8,6 +8,7 @@
 
 **2021年12月新作**
 
+- [【小镇铭】](004_xiao_zhen.md)
 - [【五绝 • 秋】](classic_poems/wu_jue/46.md)
 - [【五律 • 清泉洞不老松 • 新韵】](classic_poems/wu_lv/11.md)
 
@@ -16,7 +17,7 @@
 - [【七绝 • 秋 • 新韵】](classic_poems/qi_jue/41.md)
 - [【七律 • 东方智慧 • 新韵】](classic_poems/qi_lv/18.md)
 - [【随笔 • 什么是元宇宙?】](proses/politics/35.md)
-- [【词云图 • 新版】](004_word_cloud.md)
+- [【词云图 • 新版】](005_word_cloud.md)
 
 **下载线下阅读版本**
 
