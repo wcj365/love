@@ -46,6 +46,19 @@
 - `$ cd love_repo`
 - `$ git pull`
 
+## Issue Resolutions
+
+### When encountering the error "ImportError: libffi.so.6: cannot open shared object file: No such file or directory":
+
+https://stackoverflow.com/questions/61875869/ubuntu-20-04-upgrade-python-missing-libffi-so-6/63329830#63329830
+
+- `$ curl -LO http://archive.ubuntu.com/ubuntu/pool/main/libf/libffi/libffi6_3.2.1-8_amd64.deb`
+- `$ sudo dpkg -i libffi6_3.2.1-8_amd64.deb`
+
+### When encountering the error "ModuleNotFoundError: No module named 'six'":
+- `$ sudo pip uninstall six`
+- `$ pip install six`
+
 ## Miscellenous Notes
 
 to support Chinese Latex generation for PDF `sudo apt install latex-cjk-all`
