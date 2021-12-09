@@ -94,31 +94,56 @@ def exp8_optimal():
     plot_metrics(metrics)
 
 def usecase_1():
-    SOURCE = "../src/classic_poems/qi_jue"
-    files = os.listdir(SOURCE)
+    SOURCE = "../src/classic_poems"
+    poems = ["wu_jue", "qi_jue", "wu_lv", "qi_lv"]
     doc_list = []
-    for file in files:
-        if not file.endswith(".md"):    
-            continue 
+    for poem in poems:
+        files = os.listdir(SOURCE + "/" + poem)
 
-        with open(f"{SOURCE}/{file}", "r") as f_read:
-            lines = f_read.readlines()
-        strinfo = re.compile('[0-9a-zA-Z()【】，。,;#-_"!><?]')
-        content = strinfo.sub('', " ".join(lines))
+        for file in files:
+            if file.startswith("README") or not file.endswith(".md"):    
+                continue 
 
-        sstop_path = open("stopwords.txt", 'r',encoding='UTF-8')
-        stop = stop_path.readlines()
-        stop = [x.replace('\n', '') for x in stop]
-        word = list(set(content) - set(stop))
-        result = result[result['word'].isin(word)]
-        word_list = jieba.lcut(content,cut_all=True)   # 结巴词库切分词 精准模式
-        doc_list.append(word_list)
+            with open(f"{SOURCE}/{poem}/{file}", "r") as f_read:
+                lines = f_read.readlines()
+    #       strinfo = re.compile('[0-9a-zA-Z()【】，。,;#-_"!><?]')
+    #       content = strinfo.sub('', " ".join(lines))
+            content_list = []
+            for line in lines:
+                if line.startswith("注") or line.startswith("附"):
+                    break
+                if line.startswith("#") or line.startswith("!"):
+                    continue
+                else:
+                    content_list.append(line)
+
+            content = " ".join(content_list)
+
+            stop_path = open("cn_stopwords.txt", 'r',encoding='UTF-8')
+            stop = stop_path.readlines()
+            stop = [x.replace('\n', '') for x in stop]
+            my_stop = ["【", "】", "-", "_", ">","<", "（", "）", "。","，",",","’","?", "!", ";","\n"]
+            
+            for stop_word in my_stop:
+                content.replace(stop_word, "")
+
+            word_list = jieba.lcut(content,cut_all=False)   # 结巴词库切分词 精准模式
+            new_list = []
+            for word in word_list:
+                if len(word.strip()) == 0 or word in my_stop + stop:
+                    continue
+                else:
+                    new_list.append(word)
+            print(new_list)
+            print("\n\n")
+            doc_list.append(new_list)
+
     return doc_list
 
 def main():
 
     doc_list = usecase_1()
-    lda_model, viz, _, _, _ = topic_model(doc_list, 5)
+    lda_model, viz, _, _, _ = topic_model(doc_list, 4)
     pyLDAvis.save_html(viz, "lda.html")
 
 
