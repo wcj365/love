@@ -14,7 +14,8 @@ import pyLDAvis
 import pyLDAvis.gensim_models 
 import jieba
 
-
+CN_STOPWORDS = "cn_stopwords.txt"
+MY_STOPWORDS = "my_stopwords.txt"
 
 def topic_model(doc_list, num_topics):
 
@@ -62,10 +63,9 @@ def topic_model(doc_list, num_topics):
 
 
 
-def optimal_topics(doc_list):
+def optimal_topics(doc_list, start, stop, step):
 
-    x = list(range(25,36,1))
-    #x = list(range(5,50,5))
+    x = list(range(start, stop, step))
     y = []
     z = []
     u = []
@@ -93,21 +93,21 @@ def exp8_optimal():
     metrics = optimal_topics(df_good["document"])
     plot_metrics(metrics)
 
-def usecase_1():
-    SOURCE = "../src/classic_poems"
-    poems = ["wu_jue", "qi_jue", "wu_lv", "qi_lv"]
+def usecase_1(folder, subfolders):
     doc_list = []
-    for poem in poems:
-        files = os.listdir(SOURCE + "/" + poem)
+    for sub in subfolders:
+        full_path = folder + "/" + sub
+        files = os.listdir(full_path)
 
         for file in files:
             if file.startswith("README") or not file.endswith(".md"):    
                 continue 
 
-            with open(f"{SOURCE}/{poem}/{file}", "r") as f_read:
+            with open(full_path + "/" + file, "r") as f_read:
                 lines = f_read.readlines()
-    #       strinfo = re.compile('[0-9a-zA-Z()【】，。,;#-_"!><?]')
-    #       content = strinfo.sub('', " ".join(lines))
+
+          # strinfo = re.compile('[0-9a-zA-Z]|京东|美的|电热水器|热水器|')               
+            strinfo = re.compile('[0-9a-zA-Z]')
             content_list = []
             for line in lines:
                 if line.startswith("注") or line.startswith("附"):
@@ -115,22 +115,22 @@ def usecase_1():
                 if line.startswith("#") or line.startswith("!"):
                     continue
                 else:
-                    content_list.append(line)
+                    content_list.append(strinfo.sub('', line))
 
             content = " ".join(content_list)
 
-            stop_path = open("cn_stopwords.txt", 'r',encoding='UTF-8')
-            stop = stop_path.readlines()
-            stop = [x.replace('\n', '') for x in stop]
-            my_stop = ["【", "】", "-", "_", ">","<", "（", "）", "。","，",",","’","?", "!", ";","\n"]
-            
-            for stop_word in my_stop:
-                content.replace(stop_word, "")
+            cn_path = open(CN_STOPWORDS, 'r',encoding='UTF-8')
+            cn_stop = cn_path.readlines()
+            cn_stop = [x.replace('\n', '') for x in cn_stop]
+
+            my_path = open(MY_STOPWORDS, 'r',encoding='UTF-8')
+            my_stop = my_path.readlines()
+            my_stop = [x.replace('\n', '') for x in my_stop]
 
             word_list = jieba.lcut(content,cut_all=False)   # 结巴词库切分词 精准模式
             new_list = []
             for word in word_list:
-                if len(word.strip()) == 0 or word in my_stop + stop:
+                if len(word.strip()) == 0 or word in my_stop + cn_stop:
                     continue
                 else:
                     new_list.append(word)
@@ -140,11 +140,16 @@ def usecase_1():
 
     return doc_list
 
+
 def main():
 
-    doc_list = usecase_1()
-    lda_model, viz, _, _, _ = topic_model(doc_list, 4)
+#    doc_list = usecase_1("../src/classic_poems",["wu_jue", "qi_jue", "wu_lv", "qi_lv"])
+#    doc_list = usecase_1("../src/modern_poems",["birthday", "homesick", "love", "nature", "solitude", "wisdom"])
+    doc_list = usecase_1("../src/proses",["econ_tech", "fun", "health", "life", "poetry", "politics","wisdom", "wordgame"])
+    lda_model, viz, _, _, _ = topic_model(doc_list, 5)
     pyLDAvis.save_html(viz, "lda.html")
+
+#    optimal_topics(doc_list, 2, 30, 1)
 
 
 if __name__ == "__main__":
