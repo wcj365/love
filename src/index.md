@@ -8,6 +8,7 @@
 
 **2021年12月新作**
 
+- [【极简世界模型】](proses/politics/30.md)
 - [【小镇铭】](004_xiao_zhen.md)
 - [【五绝 • 秋】](classic_poems/wu_jue/46.md)
 - [【五律 • 清泉洞不老松 • 新韵】](classic_poems/wu_lv/11.md)
