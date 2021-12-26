@@ -21,9 +21,6 @@ do
     pandoc --pdf-engine=xelatex  `find src/$book -name '*.md' | sort` -o docs/offline/$book.epub
 done
 
-pandoc --pdf-engine=xelatex `find _pandoc -name '*.md' | sort` --toc-depth=2 -V toc-title -o docs/offline/dao_de_jing.pdf
-pandoc --pdf-engine=xelatex `find _pandoc -name '*.md' | sort` --toc-depth=2 -o docs/offline/dao_de_jing.epub
-
 # Step 3. Push the changes to GitHub
 
 git add .
