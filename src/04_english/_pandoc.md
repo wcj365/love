@@ -1,6 +1,6 @@
 ---
-title: "乡愁永酒诗文集"
-subtitle: 【第四册 • 英文作品】
+title: "乡愁永酒诗文集第四册"
+subtitle: 【英文作品】
 author: 王超杰
 CJKmainfont: "AR PL UKai TW" 
 mainfont: "AR PL UKai TW" 
@@ -20,7 +20,7 @@ lang: en-US
 \begin{center}
 
 
-【第四册 • 英文作品】
+【英文作品】
 
 \vspace{14cm}
 
