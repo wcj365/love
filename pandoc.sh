@@ -5,9 +5,9 @@
 if [ -d "_pandoc" ] 
 then
     rm -r _pandoc 
-else
-    mkdir _pandoc
 fi
+
+mkdir _pandoc
 
 # Step 2. Generate PDF version of the book
 
