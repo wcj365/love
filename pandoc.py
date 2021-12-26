@@ -40,7 +40,7 @@ def main(source_folder, target_folder):
 
                 for line in lines:
                     if line.startswith("!["):           # 图像
-                        f.write(line.split("]")[0] + "](" + f"source_folder/" + line.split("]")[1].lstrip("("))
+                        f.write(line.split("]")[0] + "](" + f"{source_folder}/" + line.split("]")[1].lstrip("("))
                     else:
                         f.write(line)
 
