@@ -1,3 +1,10 @@
+# 五绝
+
+```{tableofcontents}
+```
+
+\newpage
+
 ## 【如是我闻 • 新韵】
 
  （一）

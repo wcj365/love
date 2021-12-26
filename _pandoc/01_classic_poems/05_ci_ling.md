@@ -1,3 +1,10 @@
+# 词令
+
+```{tableofcontents}
+```
+
+\newpage
+
 ## 【猴言怨语】
 
 （一）
