@@ -12,7 +12,7 @@ mkdir _pandoc
 # Step 2. Generate PDF version of the book
 
 #BOOKS="01_classic_poems 02_modern_poems 03_proses 04_english"
-BOOKS="04_english"
+BOOKS="01_classic_poems"
 
 for book in $BOOKS
 do
