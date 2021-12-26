@@ -28,9 +28,11 @@ def main(source_folder, target_folder):
             continue  
         elif file.split("/")[-1] == "index.md":    # 网站首页，不必加入电子版里
             continue
+        elif file.split("/")[-1] == "00.md":    # 目录，不必加入电子版里
+            continue
         else:
             target = target_folder + "/" + file.split("/")[-1]
-            shutil.copyfile(file, target)
+
             with open(file, "r") as f:
                 lines = f.readlines()
 
@@ -50,7 +52,7 @@ def main(source_folder, target_folder):
 
     # 第二步 - 处理存于子文件夹下的正文（各辑，各章)
 
-    folders = glob(f"source_folder/*/")
+    folders = glob(f"{source_folder}/*/")
 
     for folder in folders:
         if "/_static/" in folder:           # 非内容的网站静态文件存于此文件夹
