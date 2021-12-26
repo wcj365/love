@@ -1,10 +1,3 @@
-# System Thinking 系统思维
-
-```{tableofcontents}
-```
-
-\newpage
-
 ## 【Knowledge and Wisdom】
 
 There are two approaches human beings gain understanding of the phenomenal world. One is through indirect experiments. The other is through direct experiences. The former is also known as scientific methods or simply sciences. Sciences emphasis measurement, empirical analysis, and logical reasoning. The latter relies more on intuition, imagination, and analogical reasoning. 

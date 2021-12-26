@@ -1,10 +1,3 @@
-# Tea Culture 茶文化
-
-```{tableofcontents}
-```
-
-\newpage
-
 ## 【Tea and Talk】
 
 The word "Talk" begins with "T" or "Tea" for the matter at hand. It is not just a coincidence. 

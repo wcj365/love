@@ -72,6 +72,8 @@ def main(source_folder, target_folder):
                 with open(file, "r") as f_read:
                     if not "00.md" in file:
                         f_append.write("#")
+                    else:
+                        continue
                     lines = f_read.readlines()
                     for line in lines:
                         if line.startswith("!["):
