@@ -54,7 +54,9 @@ def main(source_folder, target_folder):
 
     folders = glob(f"{source_folder}/*/")
 
+
     for folder in folders:
+        print(folder)
         if "/_static/" in folder:           # 非内容的网站静态文件存于此文件夹
             continue
         files = glob(folder + "*.md")
@@ -62,6 +64,7 @@ def main(source_folder, target_folder):
         if not folder + "00.md" in files:   # 存放内容的子文件夹必须有一个 00.md 文件作为该辑的目录
             continue
         chapter_file = target_folder + "/"+ folder.split("/")[1] + ".md"
+        print("chapter file:", chapter_file)
         if os.path.exists(chapter_file):
             os.remove(chapter_file)
         with open(chapter_file, "a") as f_append:
