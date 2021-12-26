@@ -18,7 +18,7 @@ for book in $BOOKS
 do
     python pandoc.py src/$book _pandoc/$book
     pandoc --pdf-engine=xelatex  `find _pandoc/$book -name '*.md' | sort` -o docs/offline/$book.pdf
-#    pandoc --pdf-engine=xelatex  `find src/$book -name '*.md' | sort` -o docs/offline/$book.epub
+    pandoc --pdf-engine=xelatex  `find src/$book -name '*.md' | sort` -o docs/offline/$book.epub
 done
 
 # Step 3. Push the changes to GitHub
