@@ -25,5 +25,5 @@
 
 - 第一册（格律诗）([pdf](https://www.wcj365.xyz/offline/01_classic_poems.pdf) | [epub](https://www.wcj365.xyz/offline/01_classic_poems.epub) | [docx](https://www.wcj365.xyz/offline/01_classic_poems.docx))
 - 第二册（自由诗）([pdf](https://www.wcj365.xyz/offline/02_modern_poems.pdf) | [epub](https://www.wcj365.xyz/offline/02_modern_poems.epub) | [docx](https://www.wcj365.xyz/offline/02_modern_poems.docx))
-- 第三册（随笔）([pdf](https://www.wcj365.xyz/offline/03_proses.pdf) |  [docx](https://www.wcj365.xyz/offline/03_proses.docx))
-- 第四册（英文作品）([pdf](https://www.wcj365.xyz/offline/04_english.pdf) | [epub](https://www.wcj365.xyz/offline/04_english.epub) [docx](https://www.wcj365.xyz/offline/04_english.epub))
+- 第三册（随笔）([pdf](https://www.wcj365.xyz/offline/03_proses.pdf) | [epub]](https://www.wcj365.xyz/offline/03_proses.epub) | [docx](https://www.wcj365.xyz/offline/03_proses.docx))
+- 第四册（英文作品）([pdf](https://www.wcj365.xyz/offline/04_english.pdf) | [epub](https://www.wcj365.xyz/offline/04_english.epub) | [docx](https://www.wcj365.xyz/offline/04_english.epub))
