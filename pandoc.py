@@ -8,8 +8,6 @@ from glob import glob
 
 def main(source_folder, target_folder):
 
-    print(source_folder, "\n", target_folder)
-
     if os.path.exists(target_folder):
         shutil.rmtree(target_folder)
 
