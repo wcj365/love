@@ -13,7 +13,6 @@ mkdir _pandoc
 
 
 BOOKS="01_classic_poems 02_modern_poems 03_proses 04_english"
-BOOKS="01_classic_poems"
 
 for book in $BOOKS
 do
@@ -32,5 +31,5 @@ done
 # Step 3. Push the changes to GitHub
 
 git add .
-git commit -m "Built the PDF verion of the book."
+git commit -m "Built the offline versions of the books (pdf | epub | docx)."
 git push

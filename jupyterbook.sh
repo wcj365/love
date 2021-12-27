@@ -37,5 +37,5 @@ cp -r pdf ./docs/             # pdf files of academic writings
 # Step 5 - Push the changes to GitHub
 
 git add .
-git commit -m "Built the static website of the book."
+git commit -m "Built the static website of the books."
 git push
