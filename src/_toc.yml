@@ -7,7 +7,7 @@ chapters:
 - file: 004_ya_ge
 - file: 005_word_cloud
 - file: 006_yi_bo
-- file: 01_classic_poems/README
+- file: 01_classic_poems/00
   sections:
   - file: 01_classic_poems/01_wu_jue/00
     sections:
