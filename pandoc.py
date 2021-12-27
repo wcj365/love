@@ -26,7 +26,7 @@ def main(source_folder, target_folder):
             continue  
         elif file.split("/")[-1] == "index.md":    # 网站首页，不必加入电子版里
             continue
-        elif file.split("/")[-1] == "00.md":    # 目录，不必加入电子版里
+        elif file.split("/")[-1] == "00.md":       # 目录，不必加入电子版里, 用 _pandoc.md
             continue
         else:
             target = target_folder + "/" + file.split("/")[-1]
