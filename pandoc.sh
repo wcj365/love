@@ -13,6 +13,7 @@ mkdir _pandoc
 
 
 BOOKS="01_classic_poems 02_modern_poems 03_proses 04_english"
+BOOKS="01_classic_poems"
 
 for book in $BOOKS
 do
@@ -20,7 +21,7 @@ do
 
     if [ "$book" = "01_classic_poems" ]
     then
-        cp src/00* _pandoc/01_classic_poems    # (序，自序等放在第一册格律诗中)
+        python classic_poems.py    # (序，自序等放在第一册格律诗中)
     fi
 
     pandoc --pdf-engine=xelatex  `find _pandoc/$book -name '*.md' | sort` -o docs/offline/$book.pdf

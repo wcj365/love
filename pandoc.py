@@ -31,22 +31,14 @@ def main(source_folder, target_folder):
         else:
             target = target_folder + "/" + file.split("/")[-1]
 
-            with open(file, "r") as f:
-                lines = f.readlines()
+            with open(file, "r") as f_read:
+                lines = f_read.readlines()
 
-            with open(target, "w") as f:
+            with open(target, "w") as f_write:
                 if not lines[0].startswith("# "):
-                    f.write("# ")
+                    f_write.write("# ")
+                process_lines(f_write, lines,  source_folder + "/")
 
-                for line in lines:
-                    if line.startswith("!["):           # 图像
-                        f.write(line.split("]")[0] + "](" + f"{source_folder}/" + line.split("]")[1].lstrip("("))
-                    else:
-                        f.write(line)
-
-                f.write("\n\n")
-                f.write("\\newpage")
-                f.write("\n\n")
 
     # 第二步 - 处理存于子文件夹下的正文（各辑，各章)
 
@@ -68,18 +60,21 @@ def main(source_folder, target_folder):
         with open(chapter_file, "a") as f_append:
             for file in files:
                 with open(file, "r") as f_read:
-                    if not "00.md" in file:
-                        f_append.write("#")
                     lines = f_read.readlines()
-                    for line in lines:
-                        if line.startswith("!["):
-                            f_append.write(line.split("]")[0] + "](" + folder + line.split("]")[1].lstrip("("))
-                        else:
-                            f_append.write(line)
-                    f_append.write("\n\n")
-                    f_append.write("\\newpage")
-                    f_append.write("\n\n")
+                if not "00.md" in file:
+                    f_append.write("#")
+                process_lines(f_append, lines, folder)
 
+
+def process_lines(file, lines, folder):
+    for line in lines:
+        if line.startswith("!["):
+            file.write(line.split("]")[0] + "](" + folder + line.split("]")[1].lstrip("("))
+        else:
+            file.write(line)
+    file.write("\n\n")
+    file.write("\\newpage")
+    file.write("\n\n")    
 
 
 if __name__ == "__main__":
