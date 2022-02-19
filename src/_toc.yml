@@ -5,8 +5,9 @@ chapters:
 - file: 002_zi_xu
 - file: 003_xiao_zhen
 - file: 004_ya_ge
-- file: 005_word_cloud
-- file: 006_yi_bo
+- file: 005_fan_ren
+- file: 006_word_cloud
+- file: 007_yi_bo
 - file: 01_classic_poems/00
   sections:
   - file: 01_classic_poems/01_wu_jue/00
@@ -153,6 +154,7 @@ chapters:
     - file: 01_classic_poems/06_dui_lian/06
     - file: 01_classic_poems/06_dui_lian/07
     - file: 01_classic_poems/06_dui_lian/08
+    - file: 01_classic_poems/06_dui_lian/09
   - file: 01_classic_poems/07_translate/00
     sections:
     - file: 01_classic_poems/07_translate/01
