@@ -10,6 +10,7 @@
 
 - [【 随笔 • 从动静和身心两个维度比较不同的修练方式】](03_proses/04_health/22.md)
 - [【七律 • 太极拳 • 新韵】](01_classic_poems/04_qi_lv/19.md)
+- [【七律 • 晨练随感赞老师 • 新韵】](01_classic_poems/04_qi_lv/21.md)
 - [【七律 • 祝贺国际传统太极拳健康研修中心成立】](01_classic_poems/04_qi_lv/20.md)
 - [【五绝 • 太极晨练】](01_classic_poems/01_wu_jue/48.md)
 - [【五绝 • 夏湖傍晚】](01_classic_poems/01_wu_jue/47.md)
