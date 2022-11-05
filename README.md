@@ -31,7 +31,7 @@
 ## How to Build
 
 - 先生成网站再生成PDF文档
-    - `$ . all.sh` 
+    - `$ . run_all.sh` 
 - 只生成网站
     - `$ . jupyter_book.sh` 
 - 只生成PDF文档
