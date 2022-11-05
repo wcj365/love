@@ -52,8 +52,9 @@
     
 ## How to Deploy to PythonAnywhere.com
 
-- `$ cd love_repo`
-- `$ git pull`
+- Log on to PythonAnywhere.com
+- Get a bash console
+- `$ . deploy_love.sh`
 
 ## Issue Resolutions
 
