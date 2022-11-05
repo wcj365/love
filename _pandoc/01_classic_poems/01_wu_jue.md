@@ -457,5 +457,26 @@
 
 ![](src/01_classic_poems/01_wu_jue/47.jpg)
 
+
+\newpage
+
+## 【太极拳晨练】
+
+朝气源红日，功夫师傅传。  
+不辞寒与暑，传统放光芒。
+
+![](src/01_classic_poems/01_wu_jue/48.jpg)
+
+
+\newpage
+
+## 【夏日傍晚】
+
+冷月对闲庭，无风也无云。  
+心随湖水定，不起故园情。
+
+![](src/01_classic_poems/01_wu_jue/49.jpg)
+
+
 \newpage
 
