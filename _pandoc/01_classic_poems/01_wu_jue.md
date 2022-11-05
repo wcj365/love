@@ -450,3 +450,12 @@
 
 \newpage
 
+## 【五绝 寒雀】
+
+寒雀惜霜叶，秋深不肯离。  
+枝轻情义重，傲雪待春期。
+
+![](src/01_classic_poems/01_wu_jue/47.jpg)
+
+\newpage
+
