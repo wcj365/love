@@ -51,6 +51,8 @@ chapters:
     - file: 01_classic_poems/01_wu_jue/45
     - file: 01_classic_poems/01_wu_jue/46
     - file: 01_classic_poems/01_wu_jue/47
+    - file: 01_classic_poems/01_wu_jue/48
+    - file: 01_classic_poems/01_wu_jue/49
   - file: 01_classic_poems/02_wu_lv/00
     sections:
     - file: 01_classic_poems/02_wu_lv/01
@@ -111,6 +113,8 @@ chapters:
     - file: 01_classic_poems/03_qi_jue/39
     - file: 01_classic_poems/03_qi_jue/40
     - file: 01_classic_poems/03_qi_jue/41
+    - file: 01_classic_poems/03_qi_jue/42
+    - file: 01_classic_poems/03_qi_jue/43
   - file: 01_classic_poems/04_qi_lv/00
     sections:
     - file: 01_classic_poems/04_qi_lv/01
@@ -131,6 +135,9 @@ chapters:
     - file: 01_classic_poems/04_qi_lv/17
     - file: 01_classic_poems/04_qi_lv/18
     - file: 01_classic_poems/04_qi_lv/19
+    - file: 01_classic_poems/04_qi_lv/20
+    - file: 01_classic_poems/04_qi_lv/21
+    - file: 01_classic_poems/04_qi_lv/22
   - file: 01_classic_poems/05_ci_ling/00
     sections:
     - file: 01_classic_poems/05_ci_ling/01
@@ -470,6 +477,7 @@ chapters:
     - file: 03_proses/04_health/19
     - file: 03_proses/04_health/20
     - file: 03_proses/04_health/21
+    - file: 03_proses/04_health/22
   - file: 03_proses/05_fun/00
     sections:
     - file: 03_proses/05_fun/01
