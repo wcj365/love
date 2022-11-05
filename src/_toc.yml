@@ -50,6 +50,7 @@ chapters:
     - file: 01_classic_poems/01_wu_jue/44
     - file: 01_classic_poems/01_wu_jue/45
     - file: 01_classic_poems/01_wu_jue/46
+    - file: 01_classic_poems/01_wu_jue/47
   - file: 01_classic_poems/02_wu_lv/00
     sections:
     - file: 01_classic_poems/02_wu_lv/01
@@ -129,6 +130,7 @@ chapters:
     - file: 01_classic_poems/04_qi_lv/16
     - file: 01_classic_poems/04_qi_lv/17
     - file: 01_classic_poems/04_qi_lv/18
+    - file: 01_classic_poems/04_qi_lv/19
   - file: 01_classic_poems/05_ci_ling/00
     sections:
     - file: 01_classic_poems/05_ci_ling/01
@@ -266,6 +268,7 @@ chapters:
     - file: 02_modern_poems/03_wisdom/10
     - file: 02_modern_poems/03_wisdom/11
     - file: 02_modern_poems/03_wisdom/12
+    - file: 02_modern_poems/03_wisdom/13
   - file: 02_modern_poems/04_homesick/00
     sections:
     - file: 02_modern_poems/04_homesick/01
@@ -273,6 +276,7 @@ chapters:
     - file: 02_modern_poems/04_homesick/03
     - file: 02_modern_poems/04_homesick/04
     - file: 02_modern_poems/04_homesick/05
+    - file: 02_modern_poems/04_homesick/06
   - file: 02_modern_poems/05_love/00
     sections:
     - file: 02_modern_poems/05_love/01
@@ -442,6 +446,7 @@ chapters:
     - file: 03_proses/03_wisdom/57
     - file: 03_proses/03_wisdom/58
     - file: 03_proses/03_wisdom/59
+    - file: 03_proses/03_wisdom/60
   - file: 03_proses/04_health/00
     sections:
     - file: 03_proses/04_health/01

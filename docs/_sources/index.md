@@ -19,7 +19,7 @@
 - [【七绝 • 秋 • 新韵】](01_classic_poems/03_qi_jue/41.md)
 - [【七律 • 东方智慧 • 新韵】](01_classic_poems/04_qi_lv/18.md)
 - [【随笔 • 什么是元宇宙?】](03_proses/01_politics/35.md)
-- [【词云图 • 新版】](005_word_cloud.md)
+- [【词云图 • 新版】](006_word_cloud.md)
 
 **下载线下阅读版本**
 
