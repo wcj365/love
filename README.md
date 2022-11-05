@@ -40,6 +40,15 @@
 - 生成第一册格律诗词云图
     - `$ cd word_cloud`
     - `$ python word_cloud.py`
+- Note: The following warning messages are ok
+
+```
+/workspaces/love/src/01_classic_poems/_pandoc.md: WARNING: document isn't included in any toctree
+/workspaces/love/src/02_modern_poems/_pandoc.md: WARNING: document isn't included in any toctree
+/workspaces/love/src/03_proses/_pandoc.md: WARNING: document isn't included in any toctree
+/workspaces/love/src/04_english/_pandoc.md: WARNING: document isn't included in any toctree
+/workspaces/love/src/_about.md: WARNING: document isn't included in any toctree
+```
     
 ## How to Deploy to PythonAnywhere.com
 
