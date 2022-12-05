@@ -8,8 +8,8 @@
 
 **2022年新作**
 
-- [【对联 • 仁者寿】](
-- [【 随笔 • 开车也能练太极】](03_proses/04_health/23.md)
+- [【对联 • 仁者寿】](01_classic_poems/06_dui_lian/11.md)
+- [【 随笔 • 开车也能练01_classic_poems/06_dui_lian/11.md)太极】](03_proses/04_health/23.md)
 - [【 随笔 • 从动静和身心两个维度比较不同的修练方式】](03_proses/04_health/22.md)
 - [【七律 • 太极拳 • 新韵】](01_classic_poems/04_qi_lv/19.md)
 - [【七律 • 晨练随感赞老师 • 新韵】](01_classic_poems/04_qi_lv/21.md)
